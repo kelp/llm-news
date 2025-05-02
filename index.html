@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anthropic News and Research Feed</title>
+    <link rel="alternate" type="application/atom+xml" title="Anthropic News and Research" href="feed.atom">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 1rem;
+        }
+        header {
+            border-bottom: 1px solid #eee;
+            padding-bottom: 1rem;
+            margin-bottom: 2rem;
+        }
+        h1 {
+            margin-bottom: 0.5rem;
+        }
+        .feed-info {
+            margin-bottom: 2rem;
+            padding: 1rem;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+        }
+        .feed-links {
+            margin-bottom: 1rem;
+        }
+        .feed-links a {
+            display: inline-block;
+            margin-right: 1rem;
+            text-decoration: none;
+            background-color: #f1f1f1;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            color: #333;
+        }
+        .feed-links a:hover {
+            background-color: #e1e1e1;
+        }
+        .article {
+            margin-bottom: 1.5rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid #eee;
+        }
+        .article h3 {
+            margin-bottom: 0.25rem;
+        }
+        .article .meta {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+        .article a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        .article a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            margin-top: 2rem;
+            padding-top: 1rem;
+            border-top: 1px solid #eee;
+            font-size: 0.9rem;
+            color: #666;
+        }
+        .last-update {
+            font-style: italic;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Anthropic News and Research Feed</h1>
+        <p>An automatically generated Atom feed for Anthropic's news and research pages.</p>
+    </header>
+
+    <div class="feed-info">
+        <h2>Feed Information</h2>
+        <p>This site provides an Atom feed for Anthropic's latest news and research publications. The feed is updated every 4 hours via GitHub Actions.</p>
+        
+        <div class="feed-links">
+            <h3>Feed URLs:</h3>
+            <a href="feed.atom">Atom Feed</a>
+            <a href="feed.xml">XML Feed</a>
+            <a href="feed.json">JSON Feed</a>
+        </div>
+        
+        <p>Subscribe to this feed using your favorite RSS reader to stay updated on Anthropic's latest announcements.</p>
+    </div>
+
+    <div id="articles">
+        <h2>Recent Articles</h2>
+        <p>Loading the latest articles...</p>
+    </div>
+
+    <footer>
+        <p>This is an unofficial feed generator for <a href="https://www.anthropic.com/">Anthropic</a> content. It is not affiliated with or endorsed by Anthropic.</p>
+        <p>Created by <a href="https://tcole.net">Travis Cole</a>.</p>
+        <p>View this project on <a href="https://github.com/kelp/llm-news">GitHub</a>.</p>
+        <p class="last-update" id="last-update">Last updated: Loading...</p>
+    </footer>
+
+    <script>
+        // Fetch and display the latest articles
+        async function fetchArticles() {
+            try {
+                const response = await fetch('feed.json');
+                if (!response.ok) throw new Error('Network response was not ok');
+                const feedData = await response.json();
+                
+                const articlesDiv = document.getElementById('articles');
+                
+                if (feedData.items && feedData.items.length > 0) {
+                    let articlesHTML = '<h2>Recent Articles</h2>';
+                    
+                    feedData.items.forEach(item => {
+                        const date = new Date(item.date_published || item.date_modified).toLocaleDateString();
+                        const source = item.tags && item.tags.length > 0 ? item.tags[0].term : 'Anthropic';
+                        
+                        articlesHTML += `
+                            <div class="article">
+                                <h3><a href="${item.url || item.id}" target="_blank">${item.title}</a></h3>
+                                <div class="meta">
+                                    <span>${date}</span> • 
+                                    <span>${source}</span>
+                                </div>
+                                ${item.content_html ? `<div>${item.content_html}</div>` : ''}
+                            </div>
+                        `;
+                    });
+                    
+                    articlesDiv.innerHTML = articlesHTML;
+                } else {
+                    articlesDiv.innerHTML = '<h2>Recent Articles</h2><p>No articles found. Please check back later.</p>';
+                }
+                
+                // Update last updated time
+                fetch('last_update.txt')
+                    .then(response => response.text())
+                    .then(data => {
+                        document.getElementById('last-update').textContent = data;
+                    })
+                    .catch(error => {
+                        console.error('Error fetching last update time:', error);
+                    });
+                
+            } catch (error) {
+                console.error('Error fetching articles:', error);
+                document.getElementById('articles').innerHTML = '<h2>Recent Articles</h2><p>Error loading articles. Please try again later.</p>';
+            }
+        }
+        
+        // Load articles when the page loads
+        document.addEventListener('DOMContentLoaded', fetchArticles);
+    </script>
+</body>
+</html>

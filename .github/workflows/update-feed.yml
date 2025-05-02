@@ -1,0 +1,53 @@
+name: Update Anthropic Feed
+
+on:
+  schedule:
+    # Run every 4 hours
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+    # Allow manual trigger
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - '*.md'
+      - 'feed.atom'
+      - 'feed.xml'
+      - 'feed.json'
+      - 'last_update.txt'
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Run feed generator
+      run: |
+        python src/main.py --output-dir ./ --cache-dir ./data --force-refresh
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add feed.atom feed.xml feed.json last_update.txt
+        
+        # Only commit if there are changes
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update feed: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git push
+        fi
