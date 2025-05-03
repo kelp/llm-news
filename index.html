@@ -100,13 +100,6 @@
         <h2>Recent Articles</h2>
         <p>Loading the latest articles...</p>
     </div>
-    
-    <div style="margin: 20px 0;">
-        <button onclick="fetchArticles()" style="padding: 8px 16px; background-color: #0366d6; color: white; border: none; border-radius: 4px; cursor: pointer;">
-            Refresh Articles
-        </button>
-        <span id="loadStatus" style="margin-left: 10px; font-style: italic;"></span>
-    </div>
 
     <footer>
         <p>This is an unofficial feed generator for <a href="https://www.anthropic.com/">Anthropic</a> content. It is not affiliated with or endorsed by Anthropic.</p>
@@ -121,7 +114,6 @@
         async function fetchArticles() {
             try {
                 console.log("Attempting to fetch articles...");
-                document.getElementById('loadStatus').textContent = "Loading...";
                 document.getElementById('articles').innerHTML = '<h2>Recent Articles</h2><p>Fetching articles... If you see this message for a long time, check the console for errors.</p>';
                 
                 const response = await fetch('feed.json');
@@ -153,10 +145,8 @@
                     });
                     
                     articlesDiv.innerHTML = articlesHTML;
-                    document.getElementById('loadStatus').textContent = `Loaded ${feedData.items.length} articles successfully`;
                 } else {
                     articlesDiv.innerHTML = '<h2>Recent Articles</h2><p>No articles found. Please check back later.</p>';
-                    document.getElementById('loadStatus').textContent = "No articles found";
                 }
                 
                 // Update last updated time
@@ -171,7 +161,6 @@
                 
             } catch (error) {
                 console.error('Error fetching articles:', error);
-                document.getElementById('loadStatus').textContent = `Error: ${error.message}`;
                 document.getElementById('articles').innerHTML = `
                     <h2>Recent Articles</h2>
                     <p>Error loading articles: ${error.message}</p>
