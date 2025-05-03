@@ -1,0 +1,680 @@
+[
+  {
+    "title": "Claude can now connect to your world",
+    "url": "https://www.anthropic.com/news/integrations",
+    "date": "2025-05-01T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Securing America's Compute Advantage: Anthropic\u2019s Position on the Diffusion Rule",
+    "url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule",
+    "date": "2025-04-30T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing the Anthropic Economic Advisory Council",
+    "url": "https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council",
+    "date": "2025-04-28T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Detecting and Countering Malicious Uses of Claude: March 2025",
+    "url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
+    "date": "2025-04-23T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Our Approach to Understanding and Addressing AI Harms",
+    "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
+    "date": "2025-04-21T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude takes research to new places",
+    "url": "https://www.anthropic.com/news/research",
+    "date": "2025-04-15T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing the Max Plan",
+    "url": "https://www.anthropic.com/news/max-plan",
+    "date": "2025-04-09T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic Education Report: How University Students Use Claude",
+    "url": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
+    "date": "2025-04-08T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region",
+    "url": "https://www.anthropic.com/news/head-of-EMEA-new-roles",
+    "date": "2025-04-08T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing Anthropic's first developer conference: Code with Claude",
+    "url": "https://www.anthropic.com/news/Introducing-code-with-claude",
+    "date": "2025-04-03T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude on Google Cloud\u2019s Vertex AI: FedRAMP High and IL2 Authorized",
+    "url": "https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high",
+    "date": "2025-04-02T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing Claude for Education",
+    "url": "https://www.anthropic.com/news/introducing-claude-for-education",
+    "date": "2025-04-02T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
+    "url": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7",
+    "date": "2025-03-27T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude can now search the web",
+    "url": "https://www.anthropic.com/news/web-search",
+    "date": "2025-03-20T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic\u2019s Response to Governor Newsom\u2019s AI Working Group Draft Report",
+    "url": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
+    "date": "2025-03-19T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Progress from our Frontier Red Team",
+    "url": "https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
+    "date": "2025-03-19T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Token-saving updates on the Anthropic API",
+    "url": "https://www.anthropic.com/news/token-saving-updates",
+    "date": "2025-03-13T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Get to production faster with the upgraded Anthropic Console",
+    "url": "https://www.anthropic.com/news/upgraded-anthropic-console",
+    "date": "2025-03-06T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic\u2019s Recommendations to OSTP for the U.S. AI Action Plan",
+    "url": "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan",
+    "date": "2025-03-06T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic raises Series E at $61.5B post-money valuation",
+    "url": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
+    "date": "2025-03-03T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam",
+    "date": "2025-02-28T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing Anthropic's Transparency Hub",
+    "url": "https://www.anthropic.com/news/introducing-anthropic-transparency-hub",
+    "date": "2025-02-27T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude and Alexa+",
+    "url": "https://www.anthropic.com/news/claude-and-alexa-plus",
+    "date": "2025-02-26T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude 3.7 Sonnet and Claude Code",
+    "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
+    "date": "2025-02-24T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic signs MOU with UK Government to explore how AI can transform UK public services",
+    "url": "https://www.anthropic.com/news/mou-uk-government",
+    "date": "2025-02-14T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Statement from Dario Amodei on the Paris AI Action Summit",
+    "url": "https://www.anthropic.com/news/paris-ai-summit",
+    "date": "2025-02-11T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "The Anthropic Economic Index",
+    "url": "https://www.anthropic.com/news/the-anthropic-economic-index",
+    "date": "2025-02-10T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Lyft to bring Claude to more than 40 million riders and over 1 million drivers",
+    "url": "https://www.anthropic.com/news/lyft-announcement",
+    "date": "2025-02-06T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing Citations on the Anthropic API",
+    "url": "https://www.anthropic.com/news/introducing-citations-api",
+    "date": "2025-01-23T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic achieves ISO 42001 certification for responsible AI",
+    "url": "https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai",
+    "date": "2025-01-13T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Elections and AI in 2024: observations and learnings",
+    "url": "https://www.anthropic.com/news/elections-ai-2024",
+    "date": "2024-12-12T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock",
+    "url": "https://www.anthropic.com/news/trainium2-and-distillation",
+    "date": "2024-12-03T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Tailor Claude\u2019s responses to your personal style",
+    "url": "https://www.anthropic.com/news/styles",
+    "date": "2024-11-26T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing the Model Context Protocol",
+    "url": "https://www.anthropic.com/news/model-context-protocol",
+    "date": "2024-11-25T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Powering the next generation of AI development with AWS",
+    "url": "https://www.anthropic.com/news/anthropic-amazon-trainium",
+    "date": "2024-11-22T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Improve your prompts in the developer console",
+    "url": "https://www.anthropic.com/news/prompt-improver",
+    "date": "2024-11-14T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "The case for targeted regulation",
+    "url": "https://www.anthropic.com/news/the-case-for-targeted-regulation",
+    "date": "2024-10-31T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude 3.5 Sonnet on GitHub Copilot",
+    "url": "https://www.anthropic.com/news/github-copilot",
+    "date": "2024-10-29T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing the analysis tool in Claude.ai",
+    "url": "https://www.anthropic.com/news/analysis-tool",
+    "date": "2024-10-24T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Developing a computer use model",
+    "url": "https://www.anthropic.com/news/developing-computer-use",
+    "date": "2024-10-22T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+    "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
+    "date": "2024-10-22T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Announcing our updated Responsible Scaling Policy",
+    "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+    "date": "2024-10-15T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "U.S. Elections Readiness",
+    "url": "https://www.anthropic.com/news/us-elections-readiness",
+    "date": "2024-10-08T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing the Message Batches API",
+    "url": "https://www.anthropic.com/news/message-batches-api",
+    "date": "2024-10-08T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Fine-tuning for Claude 3 Haiku in Amazon Bedrock is now generally available",
+    "url": "https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga",
+    "date": "2024-09-23T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing Contextual Retrieval",
+    "url": "https://www.anthropic.com/news/contextual-retrieval",
+    "date": "2024-09-19T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Workspaces in the Anthropic API Console",
+    "url": "https://www.anthropic.com/news/workspaces",
+    "date": "2024-09-10T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude for Enterprise",
+    "url": "https://www.anthropic.com/news/claude-for-enterprise",
+    "date": "2024-09-04T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Salesforce teams up with Anthropic to enhance Einstein capabilities with Claude",
+    "url": "https://www.anthropic.com/news/salesforce-partnership",
+    "date": "2024-09-03T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Artifacts are now generally available",
+    "url": "https://www.anthropic.com/news/artifacts",
+    "date": "2024-08-27T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Prompt caching with Claude",
+    "url": "https://www.anthropic.com/news/prompt-caching",
+    "date": "2024-08-14T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Expanding our model safety bug bounty program",
+    "url": "https://www.anthropic.com/news/model-safety-bug-bounty",
+    "date": "2024-08-08T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude is now available in Brazil",
+    "url": "https://www.anthropic.com/news/claude-brazil",
+    "date": "2024-08-01T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic partners with Menlo Ventures to launch Anthology Fund",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund",
+    "date": "2024-07-17T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude Android app",
+    "url": "https://www.anthropic.com/news/android-app",
+    "date": "2024-07-16T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Fine-tune Claude 3 Haiku in Amazon Bedrock",
+    "url": "https://www.anthropic.com/news/fine-tune-claude-3-haiku",
+    "date": "2024-07-11T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Evaluate prompts in the developer console",
+    "url": "https://www.anthropic.com/news/evaluate-prompts",
+    "date": "2024-07-09T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "A new initiative for developing third-party model evaluations",
+    "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+    "date": "2024-07-01T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Expanding access to Claude for government",
+    "url": "https://www.anthropic.com/news/expanding-access-to-claude-for-government",
+    "date": "2024-06-26T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Collaborate with Claude on Projects",
+    "url": "https://www.anthropic.com/news/projects",
+    "date": "2024-06-25T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude 3.5 Sonnet",
+    "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
+    "date": "2024-06-21T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Challenges in red teaming AI systems",
+    "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
+    "date": "2024-06-12T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Testing and mitigating elections-related risks",
+    "url": "https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks",
+    "date": "2024-06-06T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing Claude to Canada",
+    "url": "https://www.anthropic.com/news/introducing-claude-to-canada",
+    "date": "2024-06-05T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude can now use tools",
+    "url": "https://www.anthropic.com/news/tool-use-ga",
+    "date": "2024-05-30T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Jay Kreps appointed to Anthropic's Board of Directors",
+    "url": "https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors",
+    "date": "2024-05-29T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Golden Gate Claude",
+    "url": "https://www.anthropic.com/news/golden-gate-claude",
+    "date": "2024-05-23T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Krishna Rao joins Anthropic as Chief Financial Officer",
+    "url": "https://www.anthropic.com/news/krishna-rao-joins-anthropic",
+    "date": "2024-05-21T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Generate better prompts in the developer console",
+    "url": "https://www.anthropic.com/news/prompt-generator",
+    "date": "2024-05-20T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Reflections on our Responsible Scaling Policy",
+    "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
+    "date": "2024-05-20T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Mike Krieger joins Anthropic as Chief Product Officer",
+    "url": "https://www.anthropic.com/news/mike-krieger-joins-anthropic",
+    "date": "2024-05-15T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude is now available in Europe",
+    "url": "https://www.anthropic.com/news/claude-europe",
+    "date": "2024-05-14T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Updating our Usage Policy",
+    "url": "https://www.anthropic.com/news/updating-our-usage-policy",
+    "date": "2024-05-10T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing the Claude Team plan and iOS app",
+    "url": "https://www.anthropic.com/news/team-plan-and-ios",
+    "date": "2024-05-01T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Aligning on child safety principles",
+    "url": "https://www.anthropic.com/news/child-safety-principles",
+    "date": "2024-04-23T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Third-party testing as a key ingredient of AI policy",
+    "url": "https://www.anthropic.com/news/third-party-testing",
+    "date": "2024-03-25T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic, AWS, and Accenture team up to build trusted solutions for enterprises",
+    "url": "https://www.anthropic.com/news/accenture-aws-anthropic",
+    "date": "2024-03-20T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude 3 models on Vertex AI",
+    "url": "https://www.anthropic.com/news/google-vertex-general-availability",
+    "date": "2024-03-19T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude 3 Haiku: our fastest model yet",
+    "url": "https://www.anthropic.com/news/claude-3-haiku",
+    "date": "2024-03-13T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing the next generation of Claude",
+    "url": "https://www.anthropic.com/news/claude-3-family",
+    "date": "2024-03-04T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Prompt engineering for business performance",
+    "url": "https://www.anthropic.com/news/prompt-engineering-for-business-performance",
+    "date": "2024-02-29T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Preparing for global elections in 2024",
+    "url": "https://www.anthropic.com/news/preparing-for-global-elections-in-2024",
+    "date": "2024-02-16T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Expanded legal protections and improvements to our API",
+    "url": "https://www.anthropic.com/news/expanded-legal-protections-api-improvements",
+    "date": "2023-12-19T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Long context prompting for Claude 2.1",
+    "url": "https://www.anthropic.com/news/claude-2-1-prompting",
+    "date": "2023-12-06T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing Claude 2.1",
+    "url": "https://www.anthropic.com/news/claude-2-1",
+    "date": "2023-11-21T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Thoughts on the US Executive Order, G7 Code of Conduct, and Bletchley Park Summit",
+    "url": "https://www.anthropic.com/news/policy-recap-q4-2023",
+    "date": "2023-11-05T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Dario Amodei\u2019s prepared remarks from the AI Safety Summit on Anthropic\u2019s Responsible Scaling Policy",
+    "url": "https://www.anthropic.com/news/uk-ai-safety-summit",
+    "date": "2023-11-01T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude on Amazon Bedrock now available to every AWS customer",
+    "url": "https://www.anthropic.com/news/amazon-bedrock-general-availability",
+    "date": "2023-09-28T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Expanding access to safer AI with Amazon",
+    "url": "https://www.anthropic.com/news/anthropic-amazon",
+    "date": "2023-09-25T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Prompt engineering for Claude's long context window",
+    "url": "https://www.anthropic.com/news/prompting-long-context",
+    "date": "2023-09-23T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic's Responsible Scaling Policy",
+    "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+    "date": "2023-09-19T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "The Long-Term Benefit Trust",
+    "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+    "date": "2023-09-19T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic partners with BCG",
+    "url": "https://www.anthropic.com/news/anthropic-bcg",
+    "date": "2023-09-14T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing Claude Pro",
+    "url": "https://www.anthropic.com/news/claude-pro",
+    "date": "2023-09-07T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude 2 on Amazon Bedrock",
+    "url": "https://www.anthropic.com/news/claude-2-amazon-bedrock",
+    "date": "2023-08-23T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "SKT Partnership Announcement",
+    "url": "https://www.anthropic.com/news/skt-partnership-announcement",
+    "date": "2023-08-15T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Releasing Claude Instant 1.2",
+    "url": "https://www.anthropic.com/news/releasing-claude-instant-1-2",
+    "date": "2023-08-09T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Frontier Threats Red Teaming for AI Safety",
+    "url": "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety",
+    "date": "2023-07-26T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Frontier Model Security",
+    "url": "https://www.anthropic.com/news/frontier-model-security",
+    "date": "2023-07-25T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude 2",
+    "url": "https://www.anthropic.com/news/claude-2",
+    "date": "2023-07-11T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Charting a Path to AI Accountability",
+    "url": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability",
+    "date": "2023-06-13T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products",
+    "url": "https://www.anthropic.com/news/anthropic-series-c",
+    "date": "2023-05-23T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Zoom Partnership and Investment in Anthropic",
+    "url": "https://www.anthropic.com/news/zoom-partnership-and-investment",
+    "date": "2023-05-16T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing 100K Context Windows",
+    "url": "https://www.anthropic.com/news/100k-context-windows",
+    "date": "2023-05-11T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude\u2019s Constitution",
+    "url": "https://www.anthropic.com/news/claudes-constitution",
+    "date": "2023-05-09T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Partnering with Scale to Bring Generative AI to Enterprises",
+    "url": "https://www.anthropic.com/news/partnering-with-scale",
+    "date": "2023-04-26T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "An AI Policy Tool for Today: Ambitiously Invest in NIST",
+    "url": "https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist",
+    "date": "2023-04-20T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Claude, now in Slack",
+    "url": "https://www.anthropic.com/news/claude-now-in-slack",
+    "date": "2023-03-30T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Introducing Claude",
+    "url": "https://www.anthropic.com/news/introducing-claude",
+    "date": "2023-03-14T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Core Views on AI Safety: When, Why, What, and How",
+    "url": "https://www.anthropic.com/news/core-views-on-ai-safety",
+    "date": "2023-03-08T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic Partners with Google Cloud",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-google-cloud",
+    "date": "2023-02-03T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic Raises Series B to Build Steerable, Interpretable, Robust AI Systems",
+    "url": "https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai",
+    "date": "2022-04-29T00:00:00+00:00",
+    "source": "news"
+  },
+  {
+    "title": "Anthropic raises $124 million to build more reliable, general AI systems",
+    "url": "https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems",
+    "date": "2021-05-28T00:00:00+00:00",
+    "source": "news"
+  }
+]
