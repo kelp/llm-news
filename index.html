@@ -141,16 +141,17 @@
         #theme-toggle {
             background: var(--button-background);
             border: none;
-            border-radius: 50%;
-            width: 40px;
-            height: 40px;
+            border-radius: 20px;
+            padding: 5px 12px;
             cursor: pointer;
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 20px;
+            font-size: 16px;
             transition: background-color 0.2s ease;
             color: var(--button-text);
+            /* Make button wider to fit the text */
+            min-width: 80px;
         }
         
         #theme-toggle:hover {
@@ -168,7 +169,7 @@
             <h1>Anthropic News and Research Feed</h1>
             <p>An automatically generated Atom feed for Anthropic's news and research pages.</p>
         </div>
-        <button id="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+        <button id="theme-toggle" aria-label="Toggle theme mode">🌙 Light</button>
     </header>
 
     <div class="feed-info">
@@ -202,50 +203,90 @@
         // Theme handling
         const themeToggle = document.getElementById('theme-toggle');
         const htmlElement = document.documentElement;
+        const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
         
-        // Function to set the theme
-        function setTheme(theme) {
-            if (theme === 'dark') {
+        // Theme modes
+        const THEME_LIGHT = 'light';
+        const THEME_DARK = 'dark';
+        const THEME_AUTO = 'auto';
+        
+        // Function to apply the theme
+        function applyTheme(theme) {
+            // For auto theme, check system preference
+            if (theme === THEME_AUTO) {
+                if (prefersDarkScheme.matches) {
+                    htmlElement.setAttribute('data-theme', 'dark');
+                    themeToggle.textContent = '🔄 Auto';
+                } else {
+                    htmlElement.removeAttribute('data-theme');
+                    themeToggle.textContent = '🔄 Auto';
+                }
+            } 
+            // For dark theme
+            else if (theme === THEME_DARK) {
                 htmlElement.setAttribute('data-theme', 'dark');
-                themeToggle.textContent = '☀️';
-                localStorage.setItem('theme', 'dark');
-            } else {
+                themeToggle.textContent = '☀️ Dark';
+            } 
+            // For light theme
+            else {
                 htmlElement.removeAttribute('data-theme');
-                themeToggle.textContent = '🌙';
-                localStorage.setItem('theme', 'light');
+                themeToggle.textContent = '🌙 Light';
             }
         }
         
-        // Check for saved theme preference or system preference
+        // Function to set the theme and save preference
+        function setTheme(theme) {
+            // Save the theme preference
+            if (theme === THEME_AUTO) {
+                localStorage.removeItem('theme'); // Clear stored preference for auto mode
+            } else {
+                localStorage.setItem('theme', theme);
+            }
+            
+            // Apply the selected theme
+            applyTheme(theme);
+        }
+        
+        // Check for saved theme preference or use auto mode
         function initializeTheme() {
             const savedTheme = localStorage.getItem('theme');
             
             if (savedTheme) {
                 // User has explicitly set a theme preference
-                setTheme(savedTheme);
+                applyTheme(savedTheme);
             } else {
-                // Check system preference
-                const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
-                setTheme(prefersDarkMode ? 'dark' : 'light');
+                // Use auto mode
+                applyTheme(THEME_AUTO);
             }
         }
         
-        // Toggle theme when button is clicked
+        // Toggle between light, dark, and auto modes when button is clicked
         themeToggle.addEventListener('click', () => {
-            const currentTheme = htmlElement.getAttribute('data-theme');
-            setTheme(currentTheme === 'dark' ? 'light' : 'dark');
-        });
-        
-        // Listen for system theme changes
-        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
-            // Only change theme if user hasn't set a preference
-            if (!localStorage.getItem('theme')) {
-                setTheme(e.matches ? 'dark' : 'light');
+            const savedTheme = localStorage.getItem('theme');
+            
+            // Cycle through the three theme modes
+            if (!savedTheme || savedTheme === THEME_AUTO) {
+                // Auto -> Light
+                setTheme(THEME_LIGHT);
+            } else if (savedTheme === THEME_LIGHT) {
+                // Light -> Dark
+                setTheme(THEME_DARK);
+            } else {
+                // Dark -> Auto
+                setTheme(THEME_AUTO);
             }
         });
         
-        // Initialize theme when page loads
-        document.addEventListener('DOMContentLoaded', initializeTheme);
+        // Listen for system theme changes (for auto mode)
+        prefersDarkScheme.addEventListener('change', (e) => {
+            // Only change theme if in auto mode
+            if (!localStorage.getItem('theme')) {
+                applyTheme(THEME_AUTO);
+            }
+        });
+        
+        // Initialize theme as soon as possible to avoid flash of incorrect theme
+        initializeTheme();
         
         // Fetch and display the latest articles
         async function fetchArticles() {
@@ -317,7 +358,7 @@
         
         // Initialize when the page loads
         document.addEventListener('DOMContentLoaded', () => {
-            initializeTheme();
+            // Theme is already initialized early to prevent flash
             fetchArticles();
         });
     </script>
