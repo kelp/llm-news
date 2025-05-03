@@ -5,6 +5,7 @@ import argparse
 import logging
 import os
 import sys
+import time
 from datetime import datetime, timezone
 
 from scraper import AnthropicScraper
@@ -34,7 +35,18 @@ def main():
     parser.add_argument(
         "--force-refresh", 
         action="store_true",
-        help="Force refresh of all data"
+        help="Force refresh of all data (ignore HTTP caching)"
+    )
+    parser.add_argument(
+        "--check-updates", 
+        action="store_true",
+        help="Use conditional HTTP requests to check for updates (default behavior)"
+    )
+    parser.add_argument(
+        "--max-age", 
+        type=int, 
+        default=14400,  # 4 hours in seconds
+        help="Maximum age (in seconds) of cached data before forcing a check"
     )
     args = parser.parse_args()
     
@@ -48,15 +60,44 @@ def main():
     # Initialize scraper
     scraper = AnthropicScraper(cache_dir=args.cache_dir)
     
-    # Either load from cache or force a refresh
-    articles = []
-    if not args.force_refresh:
-        articles = scraper.load_from_cache()
+    # Determine the refresh strategy based on args and cache age
+    check_for_updates = True
+    merge_with_cache = True
     
-    # If no articles in cache or force refresh, scrape them
-    if not articles or args.force_refresh:
-        logger.info("Scraping Anthropic website...")
-        articles = scraper.scrape_all()
+    # If force refresh is specified, don't use HTTP caching
+    if args.force_refresh:
+        logger.info("Force refresh specified, bypassing HTTP cache")
+        check_for_updates = False
+        merge_with_cache = False  # Don't merge with cache on force refresh
+    
+    # If not forcing, check cache age before proceeding
+    if not args.force_refresh:
+        # Load the cache to see if we have articles
+        cached_articles = scraper.load_from_cache()
+        
+        if not cached_articles:
+            logger.info("No cached articles found, will scrape website")
+            # Will do a full scrape below
+        else:
+            # Check if we need to update based on cache age
+            cache_file = os.path.join(args.cache_dir, "anthropic_articles.json")
+            if os.path.exists(cache_file):
+                cache_mtime = os.path.getmtime(cache_file)
+                cache_age = time.time() - cache_mtime
+                
+                if cache_age > args.max_age:
+                    logger.info(f"Cache is {cache_age:.1f}s old (max: {args.max_age}s), checking for updates")
+                    # Will check for updates below
+                else:
+                    logger.info(f"Cache is {cache_age:.1f}s old (max: {args.max_age}s), using cached data")
+                    # Just use cached articles without checking for updates
+                    articles = cached_articles
+                    check_for_updates = False  # Skip the update check
+    
+    # If we need to check for updates or don't have articles yet, scrape the website
+    if check_for_updates or not 'articles' in locals():
+        logger.info("Checking for updates or scraping Anthropic website...")
+        articles = scraper.scrape_all(check_modified=check_for_updates, merge_with_cache=merge_with_cache)
         
     logger.info(f"Found {len(articles)} articles")
     

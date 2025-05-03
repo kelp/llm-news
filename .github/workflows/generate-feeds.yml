@@ -3,7 +3,10 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '0 */4 * * *'
+    # Check for updates every hour
+    - cron: '0 * * * *'
+    # Force a full refresh once a week (Sunday at midnight)
+    - cron: '0 0 * * 0'
   workflow_dispatch: # Allow manual trigger
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
@@ -17,12 +20,37 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
+      # Restore cache
+      - name: Cache data
+        uses: actions/cache@v3
+        with:
+          path: data
+          key: ${{ runner.os }}-anthropic-data-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-anthropic-data-
+      
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
           cache: 'pip'
       - run: pip install -r requirements.txt
-      - run: python src/main.py --force-refresh
+      
+      # Use conditional checks for hourly runs
+      - name: Check for updates (hourly run)
+        if: github.event_name == 'schedule' && github.event.schedule != '0 0 * * 0'
+        run: python src/main.py --check-updates --max-age 3600
+      
+      # Force refresh for weekly runs
+      - name: Force refresh (weekly run)
+        if: github.event_name == 'schedule' && github.event.schedule == '0 0 * * 0'
+        run: python src/main.py --force-refresh
+      
+      # For manual and push triggers, use the default behavior
+      - name: Normal update (manual/push)
+        if: github.event_name != 'schedule'
+        run: python src/main.py
+      
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

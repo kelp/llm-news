@@ -5,8 +5,9 @@ import json
 import logging
 import os
 import re
+import time
 from datetime import datetime, timezone, timedelta
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple, Any
 import random
 
 import requests
@@ -28,20 +29,119 @@ class AnthropicScraper:
     def __init__(self, cache_dir: str = "data"):
         """Initialize the scraper with cache directory."""
         self.cache_dir = cache_dir
+        self.http_cache_file = os.path.join(cache_dir, "http_cache.json")
+        self.articles_cache_file = os.path.join(cache_dir, "anthropic_articles.json")
+        self.http_cache = self._load_http_cache()
         os.makedirs(cache_dir, exist_ok=True)
-        
-    def fetch_page(self, url: str) -> Optional[str]:
-        """Fetch HTML content from a URL."""
+    
+    def _load_http_cache(self) -> Dict[str, Dict[str, Any]]:
+        """Load HTTP cache from file."""
+        if os.path.exists(self.http_cache_file):
+            try:
+                with open(self.http_cache_file, "r", encoding="utf-8") as f:
+                    cache = json.load(f)
+                logger.info(f"Loaded HTTP cache with {len(cache)} entries")
+                return cache
+            except (IOError, json.JSONDecodeError) as e:
+                logger.error(f"Error loading HTTP cache: {e}")
+        return {}
+    
+    def _save_http_cache(self) -> None:
+        """Save HTTP cache to file."""
         try:
-            headers = {
-                "User-Agent": "Mozilla/5.0 (compatible; LLM-News/1.0; +https://github.com/kelp/llm-news)"
-            }
+            with open(self.http_cache_file, "w", encoding="utf-8") as f:
+                json.dump(self.http_cache, f, indent=2)
+            logger.info(f"Saved HTTP cache with {len(self.http_cache)} entries")
+        except IOError as e:
+            logger.error(f"Error saving HTTP cache: {e}")
+            
+    def fetch_page(self, url: str, check_modified: bool = True) -> Tuple[Optional[str], bool, Dict]:
+        """
+        Fetch HTML content from a URL with conditional request support.
+        
+        Args:
+            url: The URL to fetch
+            check_modified: Whether to use conditional requests (If-Modified-Since, If-None-Match)
+            
+        Returns:
+            Tuple of (html_content, is_modified, response_metadata)
+            - html_content: The HTML content (None if not modified or error)
+            - is_modified: Whether the content has been modified since last fetch
+            - response_metadata: Dictionary with ETag, Last-Modified, and other metadata
+        """
+        # Initialize headers with user agent
+        headers = {
+            "User-Agent": "Mozilla/5.0 (compatible; LLM-News/1.0; +https://github.com/kelp/llm-news)"
+        }
+        
+        # Add conditional headers if we have cached metadata and check_modified is True
+        url_cache = self.http_cache.get(url, {})
+        
+        if check_modified and url_cache:
+            if "etag" in url_cache:
+                headers["If-None-Match"] = url_cache["etag"]
+            if "last_modified" in url_cache:
+                headers["If-Modified-Since"] = url_cache["last_modified"]
+        
+        try:
+            # First try a HEAD request to check if content has changed
+            if check_modified and url_cache:
+                try:
+                    head_response = requests.head(url, headers=headers, timeout=10)
+                    if head_response.status_code == 304:
+                        logger.info(f"Content not modified for {url} (HEAD check)")
+                        # Update last_checked timestamp
+                        url_cache["last_checked"] = time.time()
+                        self.http_cache[url] = url_cache
+                        self._save_http_cache()
+                        return None, False, url_cache
+                except requests.RequestException as e:
+                    logger.warning(f"HEAD request failed for {url}, falling back to GET: {e}")
+            
+            # Perform the GET request
             response = requests.get(url, headers=headers, timeout=30)
+            
+            # Handle 304 Not Modified
+            if response.status_code == 304:
+                logger.info(f"Content not modified for {url}")
+                # Update last_checked timestamp
+                url_cache["last_checked"] = time.time()
+                self.http_cache[url] = url_cache
+                self._save_http_cache()
+                return None, False, url_cache
+            
+            # Handle successful response
             response.raise_for_status()
-            return response.text
+            
+            # Extract and store response metadata
+            metadata = {
+                "last_checked": time.time(),
+                "last_modified_check": time.time()
+            }
+            
+            if "ETag" in response.headers:
+                metadata["etag"] = response.headers["ETag"]
+            
+            if "Last-Modified" in response.headers:
+                metadata["last_modified"] = response.headers["Last-Modified"]
+            
+            # If there's a Date header, store it
+            if "Date" in response.headers:
+                metadata["date"] = response.headers["Date"]
+            
+            # If there's a Content-Length header, store it
+            if "Content-Length" in response.headers:
+                metadata["content_length"] = response.headers["Content-Length"]
+            
+            # Update cache with new metadata
+            self.http_cache[url] = metadata
+            self._save_http_cache()
+            
+            return response.text, True, metadata
+            
         except requests.RequestException as e:
             logger.error(f"Error fetching {url}: {e}")
-            return None
+            return None, False, {}
     
     def extract_date_from_content(self, content, url_path=None):
         """
@@ -494,15 +594,37 @@ class AnthropicScraper:
             one_year_ago = one_year_ago.replace(hour=12, minute=0, second=0, microsecond=0)
             return one_year_ago.isoformat()
     
-    def fetch_article_content(self, url: str) -> Optional[str]:
-        """Fetch the full content of an individual article."""
-        html = self.fetch_page(url)
-        if not html:
-            logger.warning(f"Could not fetch article content from {url}")
-            return None
+    def fetch_article_content(self, url: str, check_modified: bool = True) -> Optional[str]:
+        """
+        Fetch the full content of an individual article.
+        
+        Args:
+            url: The URL to fetch content from
+            check_modified: Whether to use conditional requests
             
+        Returns:
+            The first paragraph of the article, or None if not available
+        """
+        html, modified, metadata = self.fetch_page(url, check_modified)
+        
+        if not html:
+            if not modified and "content_cache" in self.http_cache.get(url, {}):
+                # If content hasn't changed and we have cached content, use that
+                logger.info(f"Using cached content for {url}")
+                return self.http_cache[url]["content_cache"]
+            else:
+                logger.warning(f"Could not fetch article content from {url}")
+                return None
+        
         # Extract the first paragraph
-        return self.extract_first_paragraph(html, url)
+        paragraph = self.extract_first_paragraph(html, url)
+        
+        # Cache the content for future use
+        if paragraph and url in self.http_cache:
+            self.http_cache[url]["content_cache"] = paragraph
+            self._save_http_cache()
+            
+        return paragraph
     
     def extract_first_paragraph(self, html: str, url: str) -> Optional[str]:
         """Extract the first meaningful paragraph from article content."""
@@ -554,87 +676,169 @@ class AnthropicScraper:
                 
         return None
     
-    def scrape_all(self) -> List[Dict]:
-        """Scrape both news and research pages and combine results."""
+    def scrape_all(self, check_modified: bool = True, merge_with_cache: bool = True) -> List[Dict]:
+        """
+        Scrape both news and research pages and combine results.
+        
+        Args:
+            check_modified: Whether to use conditional requests to check if content has changed
+            merge_with_cache: Whether to merge results with cached articles
+            
+        Returns:
+            List of article dictionaries
+        """
         all_articles = []
+        modified_content = False
+        
+        # Load cached articles if we're going to merge
+        cached_articles = self.load_from_cache() if merge_with_cache else []
+        cache_urls = {article.get("url", ""): article for article in cached_articles}
         
         # Scrape news page
-        news_html = self.fetch_page(self.NEWS_URL)
+        news_html, news_modified, news_metadata = self.fetch_page(self.NEWS_URL, check_modified)
+        
         if news_html:
+            # Page was fetched and has new content
+            modified_content = True
             news_articles = self.parse_news_page(news_html)
             all_articles.extend(news_articles)
             logger.info(f"Scraped {len(news_articles)} news articles")
+        elif news_metadata:
+            # Page was checked but hasn't changed
+            logger.info("News page hasn't changed since last check")
+            # Add cached news articles to our results
+            if merge_with_cache:
+                news_articles = [a for a in cached_articles if a.get("source") == "news"]
+                all_articles.extend(news_articles)
+                logger.info(f"Using {len(news_articles)} cached news articles")
         
         # Scrape research page
-        research_html = self.fetch_page(self.RESEARCH_URL)
+        research_html, research_modified, research_metadata = self.fetch_page(self.RESEARCH_URL, check_modified)
+        
         if research_html:
+            # Page was fetched and has new content
+            modified_content = True
             research_articles = self.parse_research_page(research_html)
             all_articles.extend(research_articles)
             logger.info(f"Scraped {len(research_articles)} research articles")
+        elif research_metadata:
+            # Page was checked but hasn't changed
+            logger.info("Research page hasn't changed since last check")
+            # Add cached research articles to our results
+            if merge_with_cache:
+                research_articles = [a for a in cached_articles if a.get("source") == "research"]
+                all_articles.extend(research_articles)
+                logger.info(f"Using {len(research_articles)} cached research articles")
         
-        # Filter out pages that aren't really articles
-        filtered_articles = []
-        excluded_patterns = [
-            "/legal/", "privacy", "terms", "aup", "licenses", "cookie", 
-            "about-us", "contact", "careers", "jobs", "faq", "login", 
-            "signin", "signup", "register"
-        ]
-        
-        for article in all_articles:
-            url = article.get("url", "").lower()
+        # If we have new content, we need to fetch article details
+        if modified_content:
+            # Filter out pages that aren't really articles
+            filtered_articles = []
+            excluded_patterns = [
+                "/legal/", "privacy", "terms", "aup", "licenses", "cookie", 
+                "about-us", "contact", "careers", "jobs", "faq", "login", 
+                "signin", "signup", "register"
+            ]
             
-            # Skip articles with excluded patterns in URL
-            if any(pattern in url for pattern in excluded_patterns):
-                logger.info(f"Filtering out non-article URL: {url}")
-                continue
+            for article in all_articles:
+                url = article.get("url", "").lower()
                 
-            # Skip articles with missing or very short titles
-            title = article.get("title", "")
-            if not title or len(title) < 5:
-                logger.info(f"Filtering out article with invalid title: {url}")
-                continue
+                # Skip articles with excluded patterns in URL
+                if any(pattern in url for pattern in excluded_patterns):
+                    logger.info(f"Filtering out non-article URL: {url}")
+                    continue
+                    
+                # Skip articles with missing or very short titles
+                title = article.get("title", "")
+                if not title or len(title) < 5:
+                    logger.info(f"Filtering out article with invalid title: {url}")
+                    continue
+                    
+                # If we already have this article in cache and it has a summary, reuse it
+                if merge_with_cache and url in cache_urls and "summary" in cache_urls[url]:
+                    article["summary"] = cache_urls[url]["summary"]
+                    logger.info(f"Reusing cached summary for {title}")
+                # Otherwise fetch the article content and extract the first paragraph
+                elif url.startswith("https://www.anthropic.com"):
+                    logger.info(f"Fetching content for article: {title}")
+                    first_paragraph = self.fetch_article_content(url, check_modified)
+                    if first_paragraph:
+                        article["summary"] = first_paragraph
+                        logger.info(f"Found first paragraph for {title} ({len(first_paragraph)} chars)")
                 
-            # Fetch the article content and extract the first paragraph
-            if url.startswith("https://www.anthropic.com"):
-                logger.info(f"Fetching content for article: {title}")
-                first_paragraph = self.fetch_article_content(url)
-                if first_paragraph:
-                    article["summary"] = first_paragraph
-                    logger.info(f"Found first paragraph for {title} ({len(first_paragraph)} chars)")
+                # Include this article in the filtered list
+                filtered_articles.append(article)
+                
+            filtered_count = len(all_articles) - len(filtered_articles)
+            if filtered_count > 0:
+                logger.info(f"Filtered out {filtered_count} non-article pages")
+                
+            # Sort by date, most recent first
+            filtered_articles.sort(key=lambda x: x.get("date", ""), reverse=True)
             
-            # Include this article in the filtered list
-            filtered_articles.append(article)
+            # If we merged with cache, make sure we don't lose any articles
+            if merge_with_cache:
+                # Get URLs of our filtered articles
+                filtered_urls = {article.get("url", "") for article in filtered_articles}
+                
+                # Add any cached articles that aren't in our filtered results
+                for url, cached_article in cache_urls.items():
+                    if url not in filtered_urls:
+                        filtered_articles.append(cached_article)
+                        logger.info(f"Keeping cached article not found in new scrape: {cached_article.get('title', '')}")
+                
+                # Re-sort after merging
+                filtered_articles.sort(key=lambda x: x.get("date", ""), reverse=True)
+                
+            # Save to cache
+            self._save_to_cache(filtered_articles)
             
-        filtered_count = len(all_articles) - len(filtered_articles)
-        if filtered_count > 0:
-            logger.info(f"Filtered out {filtered_count} non-article pages")
-        
-        # Sort by date, most recent first
-        filtered_articles.sort(key=lambda x: x.get("date", ""), reverse=True)
-        
-        # Save to cache
-        self._save_to_cache(filtered_articles)
-        
-        return filtered_articles
+            return filtered_articles
+        else:
+            # Nothing changed, return cached articles
+            logger.info("No changes detected, using cached articles")
+            return cached_articles
     
     def _save_to_cache(self, articles: List[Dict]) -> None:
-        """Save scraped articles to cache file."""
-        cache_file = os.path.join(self.cache_dir, "anthropic_articles.json")
+        """
+        Save scraped articles to cache file.
+        Also updates the cache timestamp.
+        """
+        # Add timestamp to track when cache was last updated
+        cache_data = {
+            "timestamp": time.time(),
+            "articles": articles
+        }
+        
         try:
-            with open(cache_file, "w", encoding="utf-8") as f:
-                json.dump(articles, f, indent=2)
-            logger.info(f"Saved {len(articles)} articles to cache")
+            with open(self.articles_cache_file, "w", encoding="utf-8") as f:
+                json.dump(cache_data, f, indent=2)
+            logger.info(f"Saved {len(articles)} articles to cache with timestamp")
         except IOError as e:
             logger.error(f"Error saving to cache: {e}")
     
     def load_from_cache(self) -> List[Dict]:
-        """Load articles from cache if available."""
-        cache_file = os.path.join(self.cache_dir, "anthropic_articles.json")
+        """
+        Load articles from cache if available.
+        
+        Returns:
+            List of article dictionaries from cache, or empty list if cache doesn't exist
+        """
         try:
-            if os.path.exists(cache_file):
-                with open(cache_file, "r", encoding="utf-8") as f:
-                    articles = json.load(f)
-                logger.info(f"Loaded {len(articles)} articles from cache")
+            if os.path.exists(self.articles_cache_file):
+                with open(self.articles_cache_file, "r", encoding="utf-8") as f:
+                    cache_data = json.load(f)
+                
+                # Check if we have the new format with timestamp
+                if isinstance(cache_data, dict) and "articles" in cache_data:
+                    articles = cache_data["articles"]
+                    timestamp = cache_data.get("timestamp", "unknown")
+                    logger.info(f"Loaded {len(articles)} articles from cache (timestamp: {timestamp})")
+                else:
+                    # Handle old format (just a list)
+                    articles = cache_data
+                    logger.info(f"Loaded {len(articles)} articles from cache (old format)")
+                
                 return articles
         except (IOError, json.JSONDecodeError) as e:
             logger.error(f"Error loading from cache: {e}")
