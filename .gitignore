@@ -1,1 +1,15 @@
 **/.claude/settings.local.json
+src/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+.venv
+data/potential_json.txt
