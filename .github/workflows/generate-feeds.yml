@@ -4,19 +4,27 @@ on:
     branches: [main]
   schedule:
     - cron: '0 */4 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.10'
+          cache: 'pip'
       - run: pip install -r requirements.txt
       - run: python src/main.py --force-refresh
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
-          exclude_assets: '.github,src,**/*.py,requirements.txt,venv,.gitignore'
+          exclude_assets: '.github/**,src/**,venv/**,requirements.txt,.gitignore'
