@@ -123,7 +123,8 @@ class AnthropicScraper:
             # Random month and day in that year
             month = random.randint(1, 12)
             day = random.randint(1, 28)
-            return datetime(year, month, day, tzinfo=timezone.utc).isoformat()
+            # Set to noon UTC
+            return datetime(year, month, day, 12, 0, 0, tzinfo=timezone.utc).isoformat()
         
         # Check for specific keywords that indicate recent announcements
         recent_keywords = [
@@ -138,6 +139,8 @@ class AnthropicScraper:
         if any(keyword in url_path.lower() for keyword in recent_keywords):
             days_ago = random.randint(0, 180)
             date = datetime.now(timezone.utc) - timedelta(days=days_ago)
+            # Set to noon UTC
+            date = date.replace(hour=12, minute=0, second=0, microsecond=0)
             return date.isoformat()
         
         # Check for terms indicating mid-term announcements
@@ -151,6 +154,8 @@ class AnthropicScraper:
         if any(keyword in url_path.lower() for keyword in midterm_keywords):
             days_ago = random.randint(180, 540)
             date = datetime.now(timezone.utc) - timedelta(days=days_ago)
+            # Set to noon UTC
+            date = date.replace(hour=12, minute=0, second=0, microsecond=0)
             return date.isoformat()
         
         # Check for terms indicating older announcements
@@ -164,6 +169,8 @@ class AnthropicScraper:
         if any(keyword in url_path.lower() for keyword in older_keywords):
             days_ago = random.randint(540, 1080)
             date = datetime.now(timezone.utc) - timedelta(days=days_ago)
+            # Set to noon UTC
+            date = date.replace(hour=12, minute=0, second=0, microsecond=0)
             return date.isoformat()
         
         # Very old (original Claude announcements)
@@ -174,11 +181,15 @@ class AnthropicScraper:
         if any(keyword in url_path.lower() for keyword in oldest_keywords):
             days_ago = random.randint(1080, 1440)
             date = datetime.now(timezone.utc) - timedelta(days=days_ago)
+            # Set to noon UTC
+            date = date.replace(hour=12, minute=0, second=0, microsecond=0)
             return date.isoformat()
         
         # Default: random date in the past 2 years
         days_ago = random.randint(30, 730)
         date = datetime.now(timezone.utc) - timedelta(days=days_ago)
+        # Set to noon UTC
+        date = date.replace(hour=12, minute=0, second=0, microsecond=0)
         return date.isoformat()
     
     def parse_news_page(self, html: str) -> List[Dict]:
@@ -377,7 +388,10 @@ class AnthropicScraper:
     def _parse_date(self, date_str: str) -> str:
         """Parse date from various formats to ISO format with timezone."""
         if not date_str:
-            return datetime.now(timezone.utc).isoformat()
+            # Use noon UTC time instead of current time
+            now = datetime.now(timezone.utc)
+            noon_utc = now.replace(hour=12, minute=0, second=0, microsecond=0)
+            return noon_utc.isoformat()
         
         # Clean up the date string
         date_str = date_str.strip()
@@ -388,9 +402,11 @@ class AnthropicScraper:
             if '+' in date_str or 'Z' in date_str:
                 return date_str
             else:
-                # Add UTC timezone
+                # Add UTC timezone and set to noon
                 try:
-                    dt = datetime.fromisoformat(date_str).replace(tzinfo=timezone.utc)
+                    dt = datetime.fromisoformat(date_str).replace(
+                        hour=12, minute=0, second=0, microsecond=0, tzinfo=timezone.utc
+                    )
                     return dt.isoformat()
                 except ValueError:
                     pass  # Continue to other formats if this fails
@@ -433,22 +449,22 @@ class AnthropicScraper:
                     # Special case for year-only format
                     if fmt == "%Y" and re.match(r'^\d{4}$', date_str):
                         year = int(date_str)
-                        # Use middle of the year (July 1)
-                        dt = datetime(year, 7, 1)
+                        # Use middle of the year (July 1) at noon UTC
+                        dt = datetime(year, 7, 1, 12, 0, 0)
                         dt = dt.replace(tzinfo=timezone.utc)
                         return dt.isoformat()
                     
                     # Special case for year-month format
                     if fmt == "%Y-%m" and re.match(r'^\d{4}-\d{2}$', date_str):
                         year, month = date_str.split('-')
-                        # Use middle of the month (15th)
-                        dt = datetime(int(year), int(month), 15)
+                        # Use middle of the month (15th) at noon UTC
+                        dt = datetime(int(year), int(month), 15, 12, 0, 0)
                         dt = dt.replace(tzinfo=timezone.utc)
                         return dt.isoformat()
                     
                     dt = datetime.strptime(date_str, fmt)
-                    # Add UTC timezone
-                    dt = dt.replace(tzinfo=timezone.utc)
+                    # Add UTC timezone and set to noon
+                    dt = dt.replace(hour=12, minute=0, second=0, microsecond=0, tzinfo=timezone.utc)
                     return dt.isoformat()
                 except ValueError:
                     continue
@@ -457,19 +473,25 @@ class AnthropicScraper:
             year_match = re.search(r'\b(20\d\d)\b', date_str)
             if year_match:
                 year = int(year_match.group(1))
-                # Use middle of the year if only year is available
-                dt = datetime(year, 7, 1, tzinfo=timezone.utc)
+                # Use middle of the year if only year is available, at noon UTC
+                dt = datetime(year, 7, 1, 12, 0, 0, tzinfo=timezone.utc)
                 return dt.isoformat()
                 
             # If no format matches, return a reasonable default
             # Instead of current time, use 6 months ago as a conservative estimate
-            six_months_ago = datetime.now(timezone.utc) - timedelta(days=180)
+            now = datetime.now(timezone.utc)
+            six_months_ago = now - timedelta(days=180)
+            # Set to noon UTC
+            six_months_ago = six_months_ago.replace(hour=12, minute=0, second=0, microsecond=0)
             logger.warning(f"Could not parse date '{date_str}', using default (6 months ago)")
             return six_months_ago.isoformat()
         except Exception as e:
             logger.error(f"Error parsing date '{date_str}': {e}")
             # Use 1 year ago as fallback instead of today
-            one_year_ago = datetime.now(timezone.utc) - timedelta(days=365)
+            now = datetime.now(timezone.utc)
+            one_year_ago = now - timedelta(days=365)
+            # Set to noon UTC
+            one_year_ago = one_year_ago.replace(hour=12, minute=0, second=0, microsecond=0)
             return one_year_ago.isoformat()
     
     def fetch_article_content(self, url: str) -> Optional[str]:
