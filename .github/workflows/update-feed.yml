@@ -18,10 +18,15 @@ on:
 jobs:
   update-feed:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # This grants write permission to repository contents
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ github.token }}
       
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -49,5 +54,7 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Update feed: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-          git push
+          
+          # Use PAT for authentication if needed
+          git push origin HEAD:${GITHUB_REF#refs/heads/}
         fi
