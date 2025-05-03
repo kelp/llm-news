@@ -68,8 +68,8 @@ This project is designed to be deployed on GitHub Pages:
 
 1. Fork this repository
 2. Enable GitHub Pages in repository settings (Settings > Pages)
-3. Select the main branch as the source
-4. GitHub Actions will automatically update the feed every 4 hours
+3. Select the `gh-pages` branch as the source
+4. GitHub Actions will automatically update the feed every 6 hours and deploy to the `gh-pages` branch
 
 ## License
 

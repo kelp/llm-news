@@ -1,0 +1,22 @@
+name: Generate and Deploy Feeds
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 */4 * * *'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - run: pip install -r requirements.txt
+      - run: python src/main.py --force-refresh
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          exclude_assets: '.github,src,**/*.py,requirements.txt,venv,.gitignore'
