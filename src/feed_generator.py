@@ -81,9 +81,11 @@ class AtomFeedGenerator:
             entry.link(href=article.get("url", ""), rel="alternate")
             
             # Set content
-            content = f"<p>Source: {article.get('source', 'Unknown')}</p>"
+            content = f"<p><strong>Source:</strong> {article.get('source', 'Unknown')}</p>"
             if "summary" in article:
                 content += f"<p>{article['summary']}</p>"
+            else:
+                content += "<p><em>No summary available</em></p>"
             entry.content(content=content, type="html")
             
             # Set source category
@@ -128,9 +130,11 @@ class AtomFeedGenerator:
             }
             
             # Add content
-            content = f"<p>Source: {article.get('source', 'Unknown')}</p>"
+            content = f"<p><strong>Source:</strong> {article.get('source', 'Unknown')}</p>"
             if "summary" in article:
                 content += f"<p>{article['summary']}</p>"
+            else:
+                content += "<p><em>No summary available</em></p>"
             json_item["content_html"] = content
             
             json_feed["items"].append(json_item)

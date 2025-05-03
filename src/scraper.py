@@ -472,6 +472,66 @@ class AnthropicScraper:
             one_year_ago = datetime.now(timezone.utc) - timedelta(days=365)
             return one_year_ago.isoformat()
     
+    def fetch_article_content(self, url: str) -> Optional[str]:
+        """Fetch the full content of an individual article."""
+        html = self.fetch_page(url)
+        if not html:
+            logger.warning(f"Could not fetch article content from {url}")
+            return None
+            
+        # Extract the first paragraph
+        return self.extract_first_paragraph(html, url)
+    
+    def extract_first_paragraph(self, html: str, url: str) -> Optional[str]:
+        """Extract the first meaningful paragraph from article content."""
+        soup = BeautifulSoup(html, "lxml")
+        
+        # Remove navigation, headers, footers, and other non-content elements
+        for element in soup.select("nav, header, footer, .nav, .menu, .header, .footer"):
+            element.decompose()
+        
+        # Look for the article body or main content area
+        content_selectors = [
+            "article", "main", ".article-body", ".post-content", ".entry-content",
+            "[class*='article-content']", "[class*='post-content']", "[class*='entry-content']",
+            "#content", ".content", "[class*='content-area']"
+        ]
+        
+        content_area = None
+        for selector in content_selectors:
+            content_area = soup.select_one(selector)
+            if content_area:
+                break
+                
+        # If we couldn't find a content area, use the body
+        if not content_area:
+            content_area = soup.body
+            
+        if not content_area:
+            logger.warning(f"Could not find content area in {url}")
+            return None
+            
+        # Find paragraphs
+        paragraphs = content_area.find_all("p")
+        if not paragraphs:
+            logger.warning(f"No paragraphs found in content area for {url}")
+            return None
+            
+        # Find the first non-empty paragraph with substantial text
+        for p in paragraphs:
+            text = p.get_text(strip=True)
+            # Skip empty paragraphs or very short ones that might be captions
+            if text and len(text) > 30:
+                return text
+                
+        # If we couldn't find a substantial paragraph, use the first non-empty one
+        for p in paragraphs:
+            text = p.get_text(strip=True)
+            if text:
+                return text
+                
+        return None
+    
     def scrape_all(self) -> List[Dict]:
         """Scrape both news and research pages and combine results."""
         all_articles = []
@@ -512,6 +572,14 @@ class AnthropicScraper:
                 logger.info(f"Filtering out article with invalid title: {url}")
                 continue
                 
+            # Fetch the article content and extract the first paragraph
+            if url.startswith("https://www.anthropic.com"):
+                logger.info(f"Fetching content for article: {title}")
+                first_paragraph = self.fetch_article_content(url)
+                if first_paragraph:
+                    article["summary"] = first_paragraph
+                    logger.info(f"Found first paragraph for {title} ({len(first_paragraph)} chars)")
+            
             # Include this article in the filtered list
             filtered_articles.append(article)
             
