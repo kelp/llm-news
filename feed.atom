@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-05-03T04:33:47.581779+00:00</updated>
+  <updated>2025-05-03T04:37:35.363894+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -11,1306 +11,1306 @@
   <entry>
     <id>https://www.anthropic.com/news/integrations</id>
     <title>Claude can now connect to your world</title>
-    <updated>2025-05-03T04:33:47.402362+00:00</updated>
+    <updated>2025-05-03T04:37:35.158617+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/integrations"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.402362+00:00</published>
+    <published>2025-05-03T04:37:35.158617+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule</id>
     <title>Securing America's Compute Advantage: Anthropic’s Position on the Diffusion Rule</title>
-    <updated>2025-05-03T04:33:47.402499+00:00</updated>
+    <updated>2025-05-03T04:37:35.158767+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.402499+00:00</published>
+    <published>2025-05-03T04:37:35.158767+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council</id>
     <title>Introducing the Anthropic Economic Advisory Council</title>
-    <updated>2025-05-03T04:33:47.402636+00:00</updated>
+    <updated>2025-05-03T04:37:35.158901+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.402636+00:00</published>
+    <published>2025-05-03T04:37:35.158901+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025</id>
     <title>Detecting and Countering Malicious Uses of Claude: March 2025</title>
-    <updated>2025-05-03T04:33:47.402760+00:00</updated>
+    <updated>2025-05-03T04:37:35.159028+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.402760+00:00</published>
+    <published>2025-05-03T04:37:35.159028+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms</id>
     <title>Our Approach to Understanding and Addressing AI Harms</title>
-    <updated>2025-05-03T04:33:47.402883+00:00</updated>
+    <updated>2025-05-03T04:37:35.159149+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.402883+00:00</published>
+    <published>2025-05-03T04:37:35.159149+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/research</id>
     <title>Claude takes research to new places</title>
-    <updated>2025-05-03T04:33:47.403006+00:00</updated>
+    <updated>2025-05-03T04:37:35.159271+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/research"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.403006+00:00</published>
+    <published>2025-05-03T04:37:35.159271+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/max-plan</id>
     <title>Introducing the Max Plan</title>
-    <updated>2025-05-03T04:33:47.403130+00:00</updated>
+    <updated>2025-05-03T04:37:35.159392+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/max-plan"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.403130+00:00</published>
+    <published>2025-05-03T04:37:35.159392+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude</id>
     <title>Anthropic Education Report: How University Students Use Claude</title>
-    <updated>2025-05-03T04:33:47.403296+00:00</updated>
+    <updated>2025-05-03T04:37:35.159527+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.403296+00:00</published>
+    <published>2025-05-03T04:37:35.159527+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/head-of-EMEA-new-roles</id>
     <title>Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region</title>
-    <updated>2025-05-03T04:33:47.403403+00:00</updated>
+    <updated>2025-05-03T04:37:35.159651+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/head-of-EMEA-new-roles"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.403403+00:00</published>
+    <published>2025-05-03T04:37:35.159651+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/Introducing-code-with-claude</id>
     <title>Introducing Anthropic's first developer conference: Code with Claude</title>
-    <updated>2025-05-03T04:33:47.403506+00:00</updated>
+    <updated>2025-05-03T04:37:35.159757+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/Introducing-code-with-claude"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.403506+00:00</published>
+    <published>2025-05-03T04:37:35.159757+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high</id>
     <title>Claude on Google Cloud’s Vertex AI: FedRAMP High and IL2 Authorized</title>
-    <updated>2025-05-03T04:33:47.403631+00:00</updated>
+    <updated>2025-05-03T04:37:35.159879+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.403631+00:00</published>
+    <published>2025-05-03T04:37:35.159879+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/introducing-claude-for-education</id>
     <title>Introducing Claude for Education</title>
-    <updated>2025-05-03T04:33:47.403756+00:00</updated>
+    <updated>2025-05-03T04:37:35.160001+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/introducing-claude-for-education"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.403756+00:00</published>
+    <published>2025-05-03T04:37:35.160001+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7</id>
     <title>Anthropic Economic Index: Insights from Claude 3.7 Sonnet</title>
-    <updated>2025-05-03T04:33:47.403893+00:00</updated>
+    <updated>2025-05-03T04:37:35.160133+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.403893+00:00</published>
+    <published>2025-05-03T04:37:35.160133+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/web-search</id>
     <title>Claude can now search the web</title>
-    <updated>2025-05-03T04:33:47.404021+00:00</updated>
+    <updated>2025-05-03T04:37:35.160255+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/web-search"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.404021+00:00</published>
+    <published>2025-05-03T04:37:35.160255+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report</id>
     <title>Anthropic’s Response to Governor Newsom’s AI Working Group Draft Report</title>
-    <updated>2025-05-03T04:33:47.404160+00:00</updated>
+    <updated>2025-05-03T04:37:35.160378+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.404160+00:00</published>
+    <published>2025-05-03T04:37:35.160378+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team</id>
     <title>Progress from our Frontier Red Team</title>
-    <updated>2025-05-03T04:33:47.404274+00:00</updated>
+    <updated>2025-05-03T04:37:35.160480+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.404274+00:00</published>
+    <published>2025-05-03T04:37:35.160480+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/token-saving-updates</id>
     <title>Token-saving updates on the Anthropic API</title>
-    <updated>2025-05-03T04:33:47.404401+00:00</updated>
+    <updated>2025-05-03T04:37:35.160622+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/token-saving-updates"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.404401+00:00</published>
+    <published>2025-05-03T04:37:35.160622+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/upgraded-anthropic-console</id>
     <title>Get to production faster with the upgraded Anthropic Console</title>
-    <updated>2025-05-03T04:33:47.404528+00:00</updated>
+    <updated>2025-05-03T04:37:35.160757+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/upgraded-anthropic-console"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.404528+00:00</published>
+    <published>2025-05-03T04:37:35.160757+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan</id>
     <title>Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan</title>
-    <updated>2025-05-03T04:33:47.404670+00:00</updated>
+    <updated>2025-05-03T04:37:35.160896+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.404670+00:00</published>
+    <published>2025-05-03T04:37:35.160896+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation</id>
     <title>Anthropic raises Series E at $61.5B post-money valuation</title>
-    <updated>2025-05-03T04:33:47.404798+00:00</updated>
+    <updated>2025-05-03T04:37:35.161022+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.404798+00:00</published>
+    <published>2025-05-03T04:37:35.161022+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam</id>
     <title>Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam</title>
-    <updated>2025-05-03T04:33:47.404902+00:00</updated>
+    <updated>2025-05-03T04:37:35.161125+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.404902+00:00</published>
+    <published>2025-05-03T04:37:35.161125+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/introducing-anthropic-transparency-hub</id>
     <title>Introducing Anthropic's Transparency Hub</title>
-    <updated>2025-05-03T04:33:47.405029+00:00</updated>
+    <updated>2025-05-03T04:37:35.161251+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/introducing-anthropic-transparency-hub"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.405029+00:00</published>
+    <published>2025-05-03T04:37:35.161251+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-and-alexa-plus</id>
     <title>Claude and Alexa+</title>
-    <updated>2025-05-03T04:33:47.405172+00:00</updated>
+    <updated>2025-05-03T04:37:35.161376+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-and-alexa-plus"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.405172+00:00</published>
+    <published>2025-05-03T04:37:35.161376+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-3-7-sonnet</id>
     <title>Claude 3.7 Sonnet and Claude Code</title>
-    <updated>2025-05-03T04:33:47.405305+00:00</updated>
+    <updated>2025-05-03T04:37:35.161501+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-3-7-sonnet"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.405305+00:00</published>
+    <published>2025-05-03T04:37:35.161501+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/mou-uk-government</id>
     <title>Anthropic signs MOU with UK Government to explore how AI can transform UK public services</title>
-    <updated>2025-05-03T04:33:47.405440+00:00</updated>
+    <updated>2025-05-03T04:37:35.161655+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/mou-uk-government"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.405440+00:00</published>
+    <published>2025-05-03T04:37:35.161655+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/paris-ai-summit</id>
     <title>Statement from Dario Amodei on the Paris AI Action Summit</title>
-    <updated>2025-05-03T04:33:47.405579+00:00</updated>
+    <updated>2025-05-03T04:37:35.161796+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/paris-ai-summit"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.405579+00:00</published>
+    <published>2025-05-03T04:37:35.161796+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/the-anthropic-economic-index</id>
     <title>The Anthropic Economic Index</title>
-    <updated>2025-05-03T04:33:47.405716+00:00</updated>
+    <updated>2025-05-03T04:37:35.161932+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/the-anthropic-economic-index"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.405716+00:00</published>
+    <published>2025-05-03T04:37:35.161932+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/lyft-announcement</id>
     <title>Lyft to bring Claude to more than 40 million riders and over 1 million drivers</title>
-    <updated>2025-05-03T04:33:47.405839+00:00</updated>
+    <updated>2025-05-03T04:37:35.162038+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/lyft-announcement"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.405839+00:00</published>
+    <published>2025-05-03T04:37:35.162038+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/introducing-citations-api</id>
     <title>Introducing Citations on the Anthropic API</title>
-    <updated>2025-05-03T04:33:47.405970+00:00</updated>
+    <updated>2025-05-03T04:37:35.162164+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/introducing-citations-api"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.405970+00:00</published>
+    <published>2025-05-03T04:37:35.162164+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai</id>
     <title>Anthropic achieves ISO 42001 certification for responsible AI</title>
-    <updated>2025-05-03T04:33:47.406099+00:00</updated>
+    <updated>2025-05-03T04:37:35.162290+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.406099+00:00</published>
+    <published>2025-05-03T04:37:35.162290+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/elections-ai-2024</id>
     <title>Elections and AI in 2024: observations and learnings</title>
-    <updated>2025-05-03T04:33:47.406266+00:00</updated>
+    <updated>2025-05-03T04:37:35.162422+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/elections-ai-2024"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.406266+00:00</published>
+    <published>2025-05-03T04:37:35.162422+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/trainium2-and-distillation</id>
     <title>Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock</title>
-    <updated>2025-05-03T04:33:47.406402+00:00</updated>
+    <updated>2025-05-03T04:37:35.162554+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/trainium2-and-distillation"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.406402+00:00</published>
+    <published>2025-05-03T04:37:35.162554+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/styles</id>
     <title>Tailor Claude’s responses to your personal style</title>
-    <updated>2025-05-03T04:33:47.406533+00:00</updated>
+    <updated>2025-05-03T04:37:35.162705+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/styles"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.406533+00:00</published>
+    <published>2025-05-03T04:37:35.162705+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/model-context-protocol</id>
     <title>Introducing the Model Context Protocol</title>
-    <updated>2025-05-03T04:33:47.406665+00:00</updated>
+    <updated>2025-05-03T04:37:35.162837+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/model-context-protocol"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.406665+00:00</published>
+    <published>2025-05-03T04:37:35.162837+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-amazon-trainium</id>
     <title>Powering the next generation of AI development with AWS</title>
-    <updated>2025-05-03T04:33:47.406796+00:00</updated>
+    <updated>2025-05-03T04:37:35.162966+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-amazon-trainium"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.406796+00:00</published>
+    <published>2025-05-03T04:37:35.162966+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/prompt-improver</id>
     <title>Improve your prompts in the developer console</title>
-    <updated>2025-05-03T04:33:47.406932+00:00</updated>
+    <updated>2025-05-03T04:37:35.163102+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/prompt-improver"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.406932+00:00</published>
+    <published>2025-05-03T04:37:35.163102+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/the-case-for-targeted-regulation</id>
     <title>The case for targeted regulation</title>
-    <updated>2025-05-03T04:33:47.407066+00:00</updated>
+    <updated>2025-05-03T04:37:35.163231+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/the-case-for-targeted-regulation"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.407066+00:00</published>
+    <published>2025-05-03T04:37:35.163231+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/github-copilot</id>
     <title>Claude 3.5 Sonnet on GitHub Copilot</title>
-    <updated>2025-05-03T04:33:47.407217+00:00</updated>
+    <updated>2025-05-03T04:37:35.163362+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/github-copilot"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.407217+00:00</published>
+    <published>2025-05-03T04:37:35.163362+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/analysis-tool</id>
     <title>Introducing the analysis tool in Claude.ai</title>
-    <updated>2025-05-03T04:33:47.407355+00:00</updated>
+    <updated>2025-05-03T04:37:35.163493+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/analysis-tool"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.407355+00:00</published>
+    <published>2025-05-03T04:37:35.163493+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/developing-computer-use</id>
     <title>Developing a computer use model</title>
-    <updated>2025-05-03T04:33:47.407497+00:00</updated>
+    <updated>2025-05-03T04:37:35.163646+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/developing-computer-use"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.407497+00:00</published>
+    <published>2025-05-03T04:37:35.163646+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/3-5-models-and-computer-use</id>
     <title>Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku</title>
-    <updated>2025-05-03T04:33:47.407629+00:00</updated>
+    <updated>2025-05-03T04:37:35.163782+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/3-5-models-and-computer-use"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.407629+00:00</published>
+    <published>2025-05-03T04:37:35.163782+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy</id>
     <title>Announcing our updated Responsible Scaling Policy</title>
-    <updated>2025-05-03T04:33:47.407766+00:00</updated>
+    <updated>2025-05-03T04:37:35.163916+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.407766+00:00</published>
+    <published>2025-05-03T04:37:35.163916+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/us-elections-readiness</id>
     <title>U.S. Elections Readiness</title>
-    <updated>2025-05-03T04:33:47.407901+00:00</updated>
+    <updated>2025-05-03T04:37:35.164047+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/us-elections-readiness"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.407901+00:00</published>
+    <published>2025-05-03T04:37:35.164047+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/message-batches-api</id>
     <title>Introducing the Message Batches API</title>
-    <updated>2025-05-03T04:33:47.408035+00:00</updated>
+    <updated>2025-05-03T04:37:35.164183+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/message-batches-api"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.408035+00:00</published>
+    <published>2025-05-03T04:37:35.164183+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga</id>
     <title>Fine-tuning for Claude 3 Haiku in Amazon Bedrock is now generally available</title>
-    <updated>2025-05-03T04:33:47.408162+00:00</updated>
+    <updated>2025-05-03T04:37:35.164294+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.408162+00:00</published>
+    <published>2025-05-03T04:37:35.164294+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/contextual-retrieval</id>
     <title>Introducing Contextual Retrieval</title>
-    <updated>2025-05-03T04:33:47.408310+00:00</updated>
+    <updated>2025-05-03T04:37:35.164435+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/contextual-retrieval"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.408310+00:00</published>
+    <published>2025-05-03T04:37:35.164435+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/workspaces</id>
     <title>Workspaces in the Anthropic API Console</title>
-    <updated>2025-05-03T04:33:47.408445+00:00</updated>
+    <updated>2025-05-03T04:37:35.164566+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/workspaces"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.408445+00:00</published>
+    <published>2025-05-03T04:37:35.164566+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-for-enterprise</id>
     <title>Claude for Enterprise</title>
-    <updated>2025-05-03T04:33:47.408581+00:00</updated>
+    <updated>2025-05-03T04:37:35.164714+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-for-enterprise"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.408581+00:00</published>
+    <published>2025-05-03T04:37:35.164714+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/salesforce-partnership</id>
     <title>Salesforce teams up with Anthropic to enhance Einstein capabilities with Claude</title>
-    <updated>2025-05-03T04:33:47.408715+00:00</updated>
+    <updated>2025-05-03T04:37:35.164849+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/salesforce-partnership"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.408715+00:00</published>
+    <published>2025-05-03T04:37:35.164849+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/artifacts</id>
     <title>Artifacts are now generally available</title>
-    <updated>2025-05-03T04:33:47.408852+00:00</updated>
+    <updated>2025-05-03T04:37:35.164982+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/artifacts"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.408852+00:00</published>
+    <published>2025-05-03T04:37:35.164982+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/prompt-caching</id>
     <title>Prompt caching with Claude</title>
-    <updated>2025-05-03T04:33:47.408993+00:00</updated>
+    <updated>2025-05-03T04:37:35.165122+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/prompt-caching"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.408993+00:00</published>
+    <published>2025-05-03T04:37:35.165122+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/model-safety-bug-bounty</id>
     <title>Expanding our model safety bug bounty program</title>
-    <updated>2025-05-03T04:33:47.409131+00:00</updated>
+    <updated>2025-05-03T04:37:35.165259+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/model-safety-bug-bounty"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.409131+00:00</published>
+    <published>2025-05-03T04:37:35.165259+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-brazil</id>
     <title>Claude is now available in Brazil</title>
-    <updated>2025-05-03T04:33:47.409283+00:00</updated>
+    <updated>2025-05-03T04:37:35.165399+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-brazil"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.409283+00:00</published>
+    <published>2025-05-03T04:37:35.165399+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund</id>
     <title>Anthropic partners with Menlo Ventures to launch Anthology Fund</title>
-    <updated>2025-05-03T04:33:47.409408+00:00</updated>
+    <updated>2025-05-03T04:37:35.165521+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.409408+00:00</published>
+    <published>2025-05-03T04:37:35.165521+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/android-app</id>
     <title>Claude Android app</title>
-    <updated>2025-05-03T04:33:47.409548+00:00</updated>
+    <updated>2025-05-03T04:37:35.165675+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/android-app"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.409548+00:00</published>
+    <published>2025-05-03T04:37:35.165675+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/fine-tune-claude-3-haiku</id>
     <title>Fine-tune Claude 3 Haiku in Amazon Bedrock</title>
-    <updated>2025-05-03T04:33:47.409665+00:00</updated>
+    <updated>2025-05-03T04:37:35.165791+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/fine-tune-claude-3-haiku"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.409665+00:00</published>
+    <published>2025-05-03T04:37:35.165791+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/evaluate-prompts</id>
     <title>Evaluate prompts in the developer console</title>
-    <updated>2025-05-03T04:33:47.409803+00:00</updated>
+    <updated>2025-05-03T04:37:35.165927+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/evaluate-prompts"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.409803+00:00</published>
+    <published>2025-05-03T04:37:35.165927+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations</id>
     <title>A new initiative for developing third-party model evaluations</title>
-    <updated>2025-05-03T04:33:47.409940+00:00</updated>
+    <updated>2025-05-03T04:37:35.166067+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.409940+00:00</published>
+    <published>2025-05-03T04:37:35.166067+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/expanding-access-to-claude-for-government</id>
     <title>Expanding access to Claude for government</title>
-    <updated>2025-05-03T04:33:47.410056+00:00</updated>
+    <updated>2025-05-03T04:37:35.166183+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/expanding-access-to-claude-for-government"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.410056+00:00</published>
+    <published>2025-05-03T04:37:35.166183+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/projects</id>
     <title>Collaborate with Claude on Projects</title>
-    <updated>2025-05-03T04:33:47.410228+00:00</updated>
+    <updated>2025-05-03T04:37:35.166320+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/projects"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.410228+00:00</published>
+    <published>2025-05-03T04:37:35.166320+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-3-5-sonnet</id>
     <title>Claude 3.5 Sonnet</title>
-    <updated>2025-05-03T04:33:47.410374+00:00</updated>
+    <updated>2025-05-03T04:37:35.166457+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-3-5-sonnet"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.410374+00:00</published>
+    <published>2025-05-03T04:37:35.166457+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems</id>
     <title>Challenges in red teaming AI systems</title>
-    <updated>2025-05-03T04:33:47.410519+00:00</updated>
+    <updated>2025-05-03T04:37:35.166605+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.410519+00:00</published>
+    <published>2025-05-03T04:37:35.166605+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks</id>
     <title>Testing and mitigating elections-related risks</title>
-    <updated>2025-05-03T04:33:47.410669+00:00</updated>
+    <updated>2025-05-03T04:37:35.166757+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.410669+00:00</published>
+    <published>2025-05-03T04:37:35.166757+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/introducing-claude-to-canada</id>
     <title>Introducing Claude to Canada</title>
-    <updated>2025-05-03T04:33:47.410810+00:00</updated>
+    <updated>2025-05-03T04:37:35.166902+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/introducing-claude-to-canada"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.410810+00:00</published>
+    <published>2025-05-03T04:37:35.166902+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/tool-use-ga</id>
     <title>Claude can now use tools</title>
-    <updated>2025-05-03T04:33:47.410955+00:00</updated>
+    <updated>2025-05-03T04:37:35.167043+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/tool-use-ga"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.410955+00:00</published>
+    <published>2025-05-03T04:37:35.167043+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors</id>
     <title>Jay Kreps appointed to Anthropic's Board of Directors</title>
-    <updated>2025-05-03T04:33:47.411075+00:00</updated>
+    <updated>2025-05-03T04:37:35.167160+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.411075+00:00</published>
+    <published>2025-05-03T04:37:35.167160+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/golden-gate-claude</id>
     <title>Golden Gate Claude</title>
-    <updated>2025-05-03T04:33:47.411211+00:00</updated>
+    <updated>2025-05-03T04:37:35.167277+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/golden-gate-claude"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.411211+00:00</published>
+    <published>2025-05-03T04:37:35.167277+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/krishna-rao-joins-anthropic</id>
     <title>Krishna Rao joins Anthropic as Chief Financial Officer</title>
-    <updated>2025-05-03T04:33:47.411333+00:00</updated>
+    <updated>2025-05-03T04:37:35.167393+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/krishna-rao-joins-anthropic"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.411333+00:00</published>
+    <published>2025-05-03T04:37:35.167393+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/prompt-generator</id>
     <title>Generate better prompts in the developer console</title>
-    <updated>2025-05-03T04:33:47.411475+00:00</updated>
+    <updated>2025-05-03T04:37:35.167530+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/prompt-generator"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.411475+00:00</published>
+    <published>2025-05-03T04:37:35.167530+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy</id>
     <title>Reflections on our Responsible Scaling Policy</title>
-    <updated>2025-05-03T04:33:47.411617+00:00</updated>
+    <updated>2025-05-03T04:37:35.167686+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.411617+00:00</published>
+    <published>2025-05-03T04:37:35.167686+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/mike-krieger-joins-anthropic</id>
     <title>Mike Krieger joins Anthropic as Chief Product Officer</title>
-    <updated>2025-05-03T04:33:47.411737+00:00</updated>
+    <updated>2025-05-03T04:37:35.167804+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/mike-krieger-joins-anthropic"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.411737+00:00</published>
+    <published>2025-05-03T04:37:35.167804+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-europe</id>
     <title>Claude is now available in Europe</title>
-    <updated>2025-05-03T04:33:47.411878+00:00</updated>
+    <updated>2025-05-03T04:37:35.167945+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-europe"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.411878+00:00</published>
+    <published>2025-05-03T04:37:35.167945+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/updating-our-usage-policy</id>
     <title>Updating our Usage Policy</title>
-    <updated>2025-05-03T04:33:47.411999+00:00</updated>
+    <updated>2025-05-03T04:37:35.168064+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/updating-our-usage-policy"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.411999+00:00</published>
+    <published>2025-05-03T04:37:35.168064+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/team-plan-and-ios</id>
     <title>Introducing the Claude Team plan and iOS app</title>
-    <updated>2025-05-03T04:33:47.412166+00:00</updated>
+    <updated>2025-05-03T04:37:35.168220+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/team-plan-and-ios"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.412166+00:00</published>
+    <published>2025-05-03T04:37:35.168220+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/child-safety-principles</id>
     <title>Aligning on child safety principles</title>
-    <updated>2025-05-03T04:33:47.412294+00:00</updated>
+    <updated>2025-05-03T04:37:35.168341+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/child-safety-principles"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.412294+00:00</published>
+    <published>2025-05-03T04:37:35.168341+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/third-party-testing</id>
     <title>Third-party testing as a key ingredient of AI policy</title>
-    <updated>2025-05-03T04:33:47.412438+00:00</updated>
+    <updated>2025-05-03T04:37:35.168481+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/third-party-testing"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.412438+00:00</published>
+    <published>2025-05-03T04:37:35.168481+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/accenture-aws-anthropic</id>
     <title>Anthropic, AWS, and Accenture team up to build trusted solutions for enterprises</title>
-    <updated>2025-05-03T04:33:47.412622+00:00</updated>
+    <updated>2025-05-03T04:37:35.168681+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/accenture-aws-anthropic"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.412622+00:00</published>
+    <published>2025-05-03T04:37:35.168681+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/google-vertex-general-availability</id>
     <title>Claude 3 models on Vertex AI</title>
-    <updated>2025-05-03T04:33:47.412770+00:00</updated>
+    <updated>2025-05-03T04:37:35.168832+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/google-vertex-general-availability"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.412770+00:00</published>
+    <published>2025-05-03T04:37:35.168832+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-3-haiku</id>
     <title>Claude 3 Haiku: our fastest model yet</title>
-    <updated>2025-05-03T04:33:47.412916+00:00</updated>
+    <updated>2025-05-03T04:37:35.168977+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-3-haiku"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.412916+00:00</published>
+    <published>2025-05-03T04:37:35.168977+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-3-family</id>
     <title>Introducing the next generation of Claude</title>
-    <updated>2025-05-03T04:33:47.413061+00:00</updated>
+    <updated>2025-05-03T04:37:35.169123+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-3-family"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.413061+00:00</published>
+    <published>2025-05-03T04:37:35.169123+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/prompt-engineering-for-business-performance</id>
     <title>Prompt engineering for business performance</title>
-    <updated>2025-05-03T04:33:47.413227+00:00</updated>
+    <updated>2025-05-03T04:37:35.169271+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/prompt-engineering-for-business-performance"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.413227+00:00</published>
+    <published>2025-05-03T04:37:35.169271+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/preparing-for-global-elections-in-2024</id>
     <title>Preparing for global elections in 2024</title>
-    <updated>2025-05-03T04:33:47.413376+00:00</updated>
+    <updated>2025-05-03T04:37:35.169419+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/preparing-for-global-elections-in-2024"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.413376+00:00</published>
+    <published>2025-05-03T04:37:35.169419+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/expanded-legal-protections-api-improvements</id>
     <title>Expanded legal protections and improvements to our API</title>
-    <updated>2025-05-03T04:33:47.413500+00:00</updated>
+    <updated>2025-05-03T04:37:35.169543+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/expanded-legal-protections-api-improvements"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.413500+00:00</published>
+    <published>2025-05-03T04:37:35.169543+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-2-1-prompting</id>
     <title>Long context prompting for Claude 2.1</title>
-    <updated>2025-05-03T04:33:47.413647+00:00</updated>
+    <updated>2025-05-03T04:37:35.169703+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-2-1-prompting"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.413647+00:00</published>
+    <published>2025-05-03T04:37:35.169703+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-2-1</id>
     <title>Introducing Claude 2.1</title>
-    <updated>2025-05-03T04:33:47.413793+00:00</updated>
+    <updated>2025-05-03T04:37:35.169850+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-2-1"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.413793+00:00</published>
+    <published>2025-05-03T04:37:35.169850+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/policy-recap-q4-2023</id>
     <title>Thoughts on the US Executive Order, G7 Code of Conduct, and Bletchley Park Summit</title>
-    <updated>2025-05-03T04:33:47.413939+00:00</updated>
+    <updated>2025-05-03T04:37:35.169995+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/policy-recap-q4-2023"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.413939+00:00</published>
+    <published>2025-05-03T04:37:35.169995+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/uk-ai-safety-summit</id>
     <title>Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy</title>
-    <updated>2025-05-03T04:33:47.414086+00:00</updated>
+    <updated>2025-05-03T04:37:35.170140+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/uk-ai-safety-summit"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.414086+00:00</published>
+    <published>2025-05-03T04:37:35.170140+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/amazon-bedrock-general-availability</id>
     <title>Claude on Amazon Bedrock now available to every AWS customer</title>
-    <updated>2025-05-03T04:33:47.414269+00:00</updated>
+    <updated>2025-05-03T04:37:35.170284+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/amazon-bedrock-general-availability"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.414269+00:00</published>
+    <published>2025-05-03T04:37:35.170284+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-amazon</id>
     <title>Expanding access to safer AI with Amazon</title>
-    <updated>2025-05-03T04:33:47.414422+00:00</updated>
+    <updated>2025-05-03T04:37:35.170430+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-amazon"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.414422+00:00</published>
+    <published>2025-05-03T04:37:35.170430+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/prompting-long-context</id>
     <title>Prompt engineering for Claude's long context window</title>
-    <updated>2025-05-03T04:33:47.414571+00:00</updated>
+    <updated>2025-05-03T04:37:35.170577+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/prompting-long-context"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.414571+00:00</published>
+    <published>2025-05-03T04:37:35.170577+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropics-responsible-scaling-policy</id>
     <title>Anthropic's Responsible Scaling Policy</title>
-    <updated>2025-05-03T04:33:47.414726+00:00</updated>
+    <updated>2025-05-03T04:37:35.170743+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.414726+00:00</published>
+    <published>2025-05-03T04:37:35.170743+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/the-long-term-benefit-trust</id>
     <title>The Long-Term Benefit Trust</title>
-    <updated>2025-05-03T04:33:47.414876+00:00</updated>
+    <updated>2025-05-03T04:37:35.170890+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/the-long-term-benefit-trust"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.414876+00:00</published>
+    <published>2025-05-03T04:37:35.170890+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-bcg</id>
     <title>Anthropic partners with BCG</title>
-    <updated>2025-05-03T04:33:47.415025+00:00</updated>
+    <updated>2025-05-03T04:37:35.171036+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-bcg"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.415025+00:00</published>
+    <published>2025-05-03T04:37:35.171036+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-pro</id>
     <title>Introducing Claude Pro</title>
-    <updated>2025-05-03T04:33:47.415190+00:00</updated>
+    <updated>2025-05-03T04:37:35.171183+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-pro"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.415190+00:00</published>
+    <published>2025-05-03T04:37:35.171183+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-2-amazon-bedrock</id>
     <title>Claude 2 on Amazon Bedrock</title>
-    <updated>2025-05-03T04:33:47.415345+00:00</updated>
+    <updated>2025-05-03T04:37:35.171328+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-2-amazon-bedrock"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.415345+00:00</published>
+    <published>2025-05-03T04:37:35.171328+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/skt-partnership-announcement</id>
     <title>SKT Partnership Announcement</title>
-    <updated>2025-05-03T04:33:47.415496+00:00</updated>
+    <updated>2025-05-03T04:37:35.171475+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/skt-partnership-announcement"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.415496+00:00</published>
+    <published>2025-05-03T04:37:35.171475+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/releasing-claude-instant-1-2</id>
     <title>Releasing Claude Instant 1.2</title>
-    <updated>2025-05-03T04:33:47.415646+00:00</updated>
+    <updated>2025-05-03T04:37:35.171635+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/releasing-claude-instant-1-2"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.415646+00:00</published>
+    <published>2025-05-03T04:37:35.171635+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety</id>
     <title>Frontier Threats Red Teaming for AI Safety</title>
-    <updated>2025-05-03T04:33:47.415796+00:00</updated>
+    <updated>2025-05-03T04:37:35.171786+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.415796+00:00</published>
+    <published>2025-05-03T04:37:35.171786+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/frontier-model-security</id>
     <title>Frontier Model Security</title>
-    <updated>2025-05-03T04:33:47.415947+00:00</updated>
+    <updated>2025-05-03T04:37:35.171934+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/frontier-model-security"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.415947+00:00</published>
+    <published>2025-05-03T04:37:35.171934+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-2</id>
     <title>Claude 2</title>
-    <updated>2025-05-03T04:33:47.416100+00:00</updated>
+    <updated>2025-05-03T04:37:35.172086+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-2"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.416100+00:00</published>
+    <published>2025-05-03T04:37:35.172086+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/charting-a-path-to-ai-accountability</id>
     <title>Charting a Path to AI Accountability</title>
-    <updated>2025-05-03T04:33:47.416271+00:00</updated>
+    <updated>2025-05-03T04:37:35.172238+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/charting-a-path-to-ai-accountability"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.416271+00:00</published>
+    <published>2025-05-03T04:37:35.172238+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-series-c</id>
     <title>Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products</title>
-    <updated>2025-05-03T04:33:47.416425+00:00</updated>
+    <updated>2025-05-03T04:37:35.172388+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-series-c"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.416425+00:00</published>
+    <published>2025-05-03T04:37:35.172388+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/zoom-partnership-and-investment</id>
     <title>Zoom Partnership and Investment in Anthropic</title>
-    <updated>2025-05-03T04:33:47.416577+00:00</updated>
+    <updated>2025-05-03T04:37:35.172537+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/zoom-partnership-and-investment"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.416577+00:00</published>
+    <published>2025-05-03T04:37:35.172537+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/100k-context-windows</id>
     <title>Introducing 100K Context Windows</title>
-    <updated>2025-05-03T04:33:47.416733+00:00</updated>
+    <updated>2025-05-03T04:37:35.172704+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/100k-context-windows"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.416733+00:00</published>
+    <published>2025-05-03T04:37:35.172704+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claudes-constitution</id>
     <title>Claude’s Constitution</title>
-    <updated>2025-05-03T04:33:47.416885+00:00</updated>
+    <updated>2025-05-03T04:37:35.172853+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claudes-constitution"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.416885+00:00</published>
+    <published>2025-05-03T04:37:35.172853+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/partnering-with-scale</id>
     <title>Partnering with Scale to Bring Generative AI to Enterprises</title>
-    <updated>2025-05-03T04:33:47.417040+00:00</updated>
+    <updated>2025-05-03T04:37:35.173003+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/partnering-with-scale"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.417040+00:00</published>
+    <published>2025-05-03T04:37:35.173003+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist</id>
     <title>An AI Policy Tool for Today: Ambitiously Invest in NIST</title>
-    <updated>2025-05-03T04:33:47.417208+00:00</updated>
+    <updated>2025-05-03T04:37:35.173152+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.417208+00:00</published>
+    <published>2025-05-03T04:37:35.173152+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-now-in-slack</id>
     <title>Claude, now in Slack</title>
-    <updated>2025-05-03T04:33:47.417364+00:00</updated>
+    <updated>2025-05-03T04:37:35.173303+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-now-in-slack"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.417364+00:00</published>
+    <published>2025-05-03T04:37:35.173303+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/introducing-claude</id>
     <title>Introducing Claude</title>
-    <updated>2025-05-03T04:33:47.417518+00:00</updated>
+    <updated>2025-05-03T04:37:35.173462+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/introducing-claude"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.417518+00:00</published>
+    <published>2025-05-03T04:37:35.173462+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/core-views-on-ai-safety</id>
     <title>Core Views on AI Safety: When, Why, What, and How</title>
-    <updated>2025-05-03T04:33:47.417672+00:00</updated>
+    <updated>2025-05-03T04:37:35.173630+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/core-views-on-ai-safety"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.417672+00:00</published>
+    <published>2025-05-03T04:37:35.173630+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-partners-with-google-cloud</id>
     <title>Anthropic Partners with Google Cloud</title>
-    <updated>2025-05-03T04:33:47.417804+00:00</updated>
+    <updated>2025-05-03T04:37:35.173764+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-partners-with-google-cloud"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.417804+00:00</published>
+    <published>2025-05-03T04:37:35.173764+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai</id>
     <title>Anthropic Raises Series B to Build Steerable, Interpretable, Robust AI Systems</title>
-    <updated>2025-05-03T04:33:47.417935+00:00</updated>
+    <updated>2025-05-03T04:37:35.173895+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.417935+00:00</published>
+    <published>2025-05-03T04:37:35.173895+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</id>
     <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
-    <updated>2025-05-03T04:33:47.418068+00:00</updated>
+    <updated>2025-05-03T04:37:35.174027+00:00</updated>
     <content type="html">&lt;p&gt;Source: news&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems"/>
     <category term="news" label="News"/>
-    <published>2025-05-03T04:33:47.418068+00:00</published>
+    <published>2025-05-03T04:37:35.174027+00:00</published>
   </entry>
   <entry>
     <id>https://claude.ai/</id>
     <title>Try Claude</title>
-    <updated>2025-05-03T04:33:47.578175+00:00</updated>
+    <updated>2025-05-03T04:37:35.360079+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://claude.ai/"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.578175+00:00</published>
+    <published>2025-05-03T04:37:35.360079+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/jobs?team=4002061008</id>
     <title>See open roles</title>
-    <updated>2025-05-03T04:33:47.578399+00:00</updated>
+    <updated>2025-05-03T04:37:35.360315+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/jobs?team=4002061008"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.578399+00:00</published>
+    <published>2025-05-03T04:37:35.360315+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/claude</id>
     <title>Claude overview</title>
-    <updated>2025-05-03T04:33:47.579173+00:00</updated>
+    <updated>2025-05-03T04:37:35.361083+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/claude"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579173+00:00</published>
+    <published>2025-05-03T04:37:35.361083+00:00</published>
   </entry>
   <entry>
     <id>https://anthropic.com/claude-code</id>
     <title>Claude Code</title>
-    <updated>2025-05-03T04:33:47.579183+00:00</updated>
+    <updated>2025-05-03T04:37:35.361093+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://anthropic.com/claude-code"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579183+00:00</published>
+    <published>2025-05-03T04:37:35.361093+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/team</id>
     <title>Claude team plan</title>
-    <updated>2025-05-03T04:33:47.579190+00:00</updated>
+    <updated>2025-05-03T04:37:35.361101+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/team"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579190+00:00</published>
+    <published>2025-05-03T04:37:35.361101+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/enterprise</id>
     <title>Claude enterprise plan</title>
-    <updated>2025-05-03T04:33:47.579197+00:00</updated>
+    <updated>2025-05-03T04:37:35.361108+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/enterprise"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579197+00:00</published>
+    <published>2025-05-03T04:37:35.361108+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/education</id>
     <title>Claude education plan</title>
-    <updated>2025-05-03T04:33:47.579208+00:00</updated>
+    <updated>2025-05-03T04:37:35.361124+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/education"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579208+00:00</published>
+    <published>2025-05-03T04:37:35.361124+00:00</published>
   </entry>
   <entry>
     <id>https://claude.ai/download</id>
     <title>Download Claude apps</title>
-    <updated>2025-05-03T04:33:47.579215+00:00</updated>
+    <updated>2025-05-03T04:37:35.361138+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://claude.ai/download"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579215+00:00</published>
+    <published>2025-05-03T04:37:35.361138+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/pricing</id>
     <title>Claude.ai pricing plans</title>
-    <updated>2025-05-03T04:33:47.579222+00:00</updated>
+    <updated>2025-05-03T04:37:35.361153+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/pricing"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579222+00:00</published>
+    <published>2025-05-03T04:37:35.361153+00:00</published>
   </entry>
   <entry>
     <id>http://claude.ai/login</id>
     <title>Claude.ai login</title>
-    <updated>2025-05-03T04:33:47.579229+00:00</updated>
+    <updated>2025-05-03T04:37:35.361168+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="http://claude.ai/login"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579229+00:00</published>
+    <published>2025-05-03T04:37:35.361168+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/api</id>
     <title>API overview</title>
-    <updated>2025-05-03T04:33:47.579236+00:00</updated>
+    <updated>2025-05-03T04:37:35.361182+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/api"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579236+00:00</published>
+    <published>2025-05-03T04:37:35.361182+00:00</published>
   </entry>
   <entry>
     <id>https://docs.anthropic.com/</id>
     <title>Developer docs</title>
-    <updated>2025-05-03T04:33:47.579243+00:00</updated>
+    <updated>2025-05-03T04:37:35.361194+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://docs.anthropic.com/"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579243+00:00</published>
+    <published>2025-05-03T04:37:35.361194+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/amazon-bedrock</id>
     <title>Claude in Amazon Bedrock</title>
-    <updated>2025-05-03T04:33:47.579250+00:00</updated>
+    <updated>2025-05-03T04:37:35.361206+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/amazon-bedrock"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579250+00:00</published>
+    <published>2025-05-03T04:37:35.361206+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/google-cloud-vertex-ai</id>
     <title>Claude on Google Cloud's Vertex AI</title>
-    <updated>2025-05-03T04:33:47.579257+00:00</updated>
+    <updated>2025-05-03T04:37:35.361218+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/google-cloud-vertex-ai"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579257+00:00</published>
+    <published>2025-05-03T04:37:35.361218+00:00</published>
   </entry>
   <entry>
     <id>https://console.anthropic.com/</id>
     <title>Console login</title>
-    <updated>2025-05-03T04:33:47.579271+00:00</updated>
+    <updated>2025-05-03T04:37:35.361241+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://console.anthropic.com/"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579271+00:00</published>
+    <published>2025-05-03T04:37:35.361241+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/research</id>
     <title>Research overview</title>
-    <updated>2025-05-03T04:33:47.579278+00:00</updated>
+    <updated>2025-05-03T04:37:35.361253+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/research"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579278+00:00</published>
+    <published>2025-05-03T04:37:35.361253+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/economic-index</id>
     <title>Economic Index</title>
-    <updated>2025-05-03T04:33:47.579286+00:00</updated>
+    <updated>2025-05-03T04:37:35.361266+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/economic-index"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579286+00:00</published>
+    <published>2025-05-03T04:37:35.361266+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/claude/sonnet</id>
     <title>Claude 3.7 Sonnet</title>
-    <updated>2025-05-03T04:33:47.579293+00:00</updated>
+    <updated>2025-05-03T04:37:35.361280+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/claude/sonnet"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579293+00:00</published>
+    <published>2025-05-03T04:37:35.361280+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/claude/haiku</id>
     <title>Claude 3.5 Haiku</title>
-    <updated>2025-05-03T04:33:47.579300+00:00</updated>
+    <updated>2025-05-03T04:37:35.361287+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/claude/haiku"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579300+00:00</published>
+    <published>2025-05-03T04:37:35.361287+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-3-family</id>
     <title>Claude 3 Opus</title>
-    <updated>2025-05-03T04:33:47.579307+00:00</updated>
+    <updated>2025-05-03T04:37:35.361295+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-3-family"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579307+00:00</published>
+    <published>2025-05-03T04:37:35.361295+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/transparency</id>
     <title>Transparency</title>
-    <updated>2025-05-03T04:33:47.579315+00:00</updated>
+    <updated>2025-05-03T04:37:35.361302+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/transparency"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579315+00:00</published>
+    <published>2025-05-03T04:37:35.361302+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/responsible-scaling-policy</id>
     <title>Responsible scaling policy</title>
-    <updated>2025-05-03T04:33:47.579325+00:00</updated>
+    <updated>2025-05-03T04:37:35.361313+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/responsible-scaling-policy"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579325+00:00</published>
+    <published>2025-05-03T04:37:35.361313+00:00</published>
   </entry>
   <entry>
     <id>https://trust.anthropic.com</id>
     <title>Security and compliance</title>
-    <updated>2025-05-03T04:33:47.579333+00:00</updated>
+    <updated>2025-05-03T04:37:35.361320+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://trust.anthropic.com"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579333+00:00</published>
+    <published>2025-05-03T04:37:35.361320+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/solutions/customer-support</id>
     <title>Customer support</title>
-    <updated>2025-05-03T04:33:47.579348+00:00</updated>
+    <updated>2025-05-03T04:37:35.361336+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/solutions/customer-support"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579348+00:00</published>
+    <published>2025-05-03T04:37:35.361336+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/learn</id>
     <title>Anthropic Academy</title>
-    <updated>2025-05-03T04:33:47.579355+00:00</updated>
+    <updated>2025-05-03T04:37:35.361344+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/learn"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579355+00:00</published>
+    <published>2025-05-03T04:37:35.361344+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/customers</id>
     <title>Customer stories</title>
-    <updated>2025-05-03T04:33:47.579364+00:00</updated>
+    <updated>2025-05-03T04:37:35.361352+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/customers"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579364+00:00</published>
+    <published>2025-05-03T04:37:35.361352+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/engineering</id>
     <title>Engineering at Anthropic</title>
-    <updated>2025-05-03T04:33:47.579372+00:00</updated>
+    <updated>2025-05-03T04:37:35.361359+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/engineering"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579372+00:00</published>
+    <published>2025-05-03T04:37:35.361359+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/referral</id>
     <title>Become a partner</title>
-    <updated>2025-05-03T04:33:47.579383+00:00</updated>
+    <updated>2025-05-03T04:37:35.361371+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/referral"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579383+00:00</published>
+    <published>2025-05-03T04:37:35.361371+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/supported-countries</id>
     <title>Availability</title>
-    <updated>2025-05-03T04:33:47.579402+00:00</updated>
+    <updated>2025-05-03T04:37:35.361391+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/supported-countries"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579402+00:00</published>
+    <published>2025-05-03T04:37:35.361391+00:00</published>
   </entry>
   <entry>
     <id>https://support.anthropic.com</id>
     <title>Support center</title>
-    <updated>2025-05-03T04:33:47.579410+00:00</updated>
+    <updated>2025-05-03T04:37:35.361399+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://support.anthropic.com"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579410+00:00</published>
+    <published>2025-05-03T04:37:35.361399+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/responsible-disclosure-policy</id>
     <title>Responsible disclosure policy</title>
-    <updated>2025-05-03T04:33:47.579420+00:00</updated>
+    <updated>2025-05-03T04:37:35.361408+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/responsible-disclosure-policy"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579420+00:00</published>
+    <published>2025-05-03T04:37:35.361408+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/legal/aup</id>
     <title>Usage policy</title>
-    <updated>2025-05-03T04:33:47.579430+00:00</updated>
+    <updated>2025-05-03T04:37:35.361419+00:00</updated>
     <content type="html">&lt;p&gt;Source: research&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/legal/aup"/>
     <category term="research" label="Research"/>
-    <published>2025-05-03T04:33:47.579430+00:00</published>
+    <published>2025-05-03T04:37:35.361419+00:00</published>
   </entry>
 </feed>
