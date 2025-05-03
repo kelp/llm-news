@@ -2,7 +2,7 @@
 Feed generator for creating Atom feeds from scraped articles.
 """
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Dict, List, Optional
 
 from feedgen.feed import FeedGenerator
@@ -33,8 +33,8 @@ class AtomFeedGenerator:
         fg.link(href=feed_url, rel="self")
         fg.language("en")
         
-        # Add last updated timestamp
-        now = datetime.now().isoformat()
+        # Add last updated timestamp with timezone
+        now = datetime.now(timezone.utc)
         fg.updated(now)
         
         # Add entries
@@ -50,14 +50,25 @@ class AtomFeedGenerator:
             if pub_date:
                 try:
                     if isinstance(pub_date, str) and "T" in pub_date:
-                        # It's already in ISO format
-                        entry.updated(pub_date)
-                        entry.published(pub_date)
+                        # It's already in ISO format but may not have timezone
+                        if "+" in pub_date or "Z" in pub_date:
+                            # It has timezone info
+                            entry.updated(pub_date)
+                            entry.published(pub_date)
+                        else:
+                            # Add UTC timezone
+                            dt = datetime.fromisoformat(pub_date).replace(tzinfo=timezone.utc)
+                            entry.updated(dt)
+                            entry.published(dt)
                     else:
-                        # Convert to ISO format if needed
-                        dt = datetime.fromisoformat(pub_date)
-                        entry.updated(dt.isoformat())
-                        entry.published(dt.isoformat())
+                        # Convert to ISO format with timezone
+                        try:
+                            dt = datetime.fromisoformat(pub_date).replace(tzinfo=timezone.utc)
+                        except ValueError:
+                            # If not valid ISO format, use current time
+                            dt = now
+                        entry.updated(dt)
+                        entry.published(dt)
                 except (ValueError, TypeError):
                     # Fallback to current time
                     entry.updated(now)

@@ -4,7 +4,7 @@ Scraper module for extracting articles from Anthropic's website.
 import json
 import logging
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Dict, List, Optional
 
 import requests
@@ -110,9 +110,9 @@ class AnthropicScraper:
         return articles
     
     def _parse_date(self, date_str: str) -> str:
-        """Parse date from various formats to ISO format."""
+        """Parse date from various formats to ISO format with timezone."""
         if not date_str:
-            return datetime.now().isoformat()
+            return datetime.now(timezone.utc).isoformat()
             
         try:
             # Handle various date formats
@@ -121,15 +121,17 @@ class AnthropicScraper:
             for fmt in formats:
                 try:
                     dt = datetime.strptime(date_str, fmt)
+                    # Add UTC timezone
+                    dt = dt.replace(tzinfo=timezone.utc)
                     return dt.isoformat()
                 except ValueError:
                     continue
                     
-            # If no format matches, return the original string
-            return date_str
+            # If no format matches, return current time with timezone
+            return datetime.now(timezone.utc).isoformat()
         except Exception as e:
             logger.error(f"Error parsing date '{date_str}': {e}")
-            return datetime.now().isoformat()
+            return datetime.now(timezone.utc).isoformat()
     
     def scrape_all(self) -> List[Dict]:
         """Scrape both news and research pages and combine results."""

@@ -5,7 +5,7 @@ import argparse
 import logging
 import os
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 
 from scraper import AnthropicScraper
 from feed_generator import AtomFeedGenerator
@@ -43,7 +43,7 @@ def main():
     os.makedirs(args.cache_dir, exist_ok=True)
     
     logger.info("Starting Anthropic feed generation")
-    start_time = datetime.now()
+    start_time = datetime.now(timezone.utc)
     
     # Initialize scraper
     scraper = AnthropicScraper(cache_dir=args.cache_dir)
@@ -76,12 +76,12 @@ def main():
     )
     
     # Report execution time
-    execution_time = (datetime.now() - start_time).total_seconds()
+    execution_time = (datetime.now(timezone.utc) - start_time).total_seconds()
     logger.info(f"Feed generation completed in {execution_time:.2f} seconds")
     
     # Write last update time to a file
     with open(os.path.join(args.output_dir, "last_update.txt"), "w") as f:
-        f.write(f"Last updated: {datetime.now().isoformat()}")
+        f.write(f"Last updated: {datetime.now(timezone.utc).isoformat()}")
     
     return 0
 
