@@ -105,10 +105,41 @@ class AtomFeedGenerator:
             f.write(atom_feed)
             
         # Generate JSON feed as well for compatibility
-        json_feed = fg.json_str(pretty=True)
+        # Since feedgen doesn't have built-in JSON support, we'll create our own
+        json_feed = {
+            "version": "https://jsonfeed.org/version/1.1",
+            "title": title,
+            "home_page_url": "https://kelp.github.io/llm-news/",
+            "feed_url": feed_url.replace(".atom", ".json"),
+            "description": f"Atom feed for {title}",
+            "authors": [{"name": author}],
+            "items": []
+        }
+        
+        # Convert entries to JSON feed format
+        for article in articles:
+            json_item = {
+                "id": article.get("url", ""),
+                "url": article.get("url", ""),
+                "title": article.get("title", ""),
+                "date_published": article.get("date", ""),
+                "date_modified": article.get("date", ""),
+                "tags": [{"term": article.get("source", "anthropic"), "label": article.get("source", "Anthropic").capitalize()}]
+            }
+            
+            # Add content
+            content = f"<p>Source: {article.get('source', 'Unknown')}</p>"
+            if "summary" in article:
+                content += f"<p>{article['summary']}</p>"
+            json_item["content_html"] = content
+            
+            json_feed["items"].append(json_item)
+        
+        # Save JSON feed
         output_path_json = os.path.join(self.output_dir, "feed.json")
-        with open(output_path_json, "wb") as f:
-            f.write(json_feed)
+        with open(output_path_json, "w", encoding="utf-8") as f:
+            import json
+            json.dump(json_feed, f, indent=2)
 
 
 if __name__ == "__main__":
