@@ -1,0 +1,2044 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Anthropic News and Research",
+  "home_page_url": "https://kelp.github.io/llm-news/",
+  "feed_url": "https://kelp.github.io/llm-news/feed.json",
+  "description": "Atom feed for Anthropic News and Research",
+  "authors": [
+    {
+      "name": "Anthropic Feed Generator"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://www.anthropic.com/legal/aup",
+      "url": "https://www.anthropic.com/legal/aup",
+      "title": "Usage policy",
+      "date_published": "2025-05-03T04:26:56.975298+00:00",
+      "date_modified": "2025-05-03T04:26:56.975298+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/responsible-disclosure-policy",
+      "url": "https://www.anthropic.com/responsible-disclosure-policy",
+      "title": "Responsible disclosure policy",
+      "date_published": "2025-05-03T04:26:56.975291+00:00",
+      "date_modified": "2025-05-03T04:26:56.975291+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://support.anthropic.com",
+      "url": "https://support.anthropic.com",
+      "title": "Support center",
+      "date_published": "2025-05-03T04:26:56.975284+00:00",
+      "date_modified": "2025-05-03T04:26:56.975284+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/supported-countries",
+      "url": "https://www.anthropic.com/supported-countries",
+      "title": "Availability",
+      "date_published": "2025-05-03T04:26:56.975278+00:00",
+      "date_modified": "2025-05-03T04:26:56.975278+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/referral",
+      "url": "https://www.anthropic.com/referral",
+      "title": "Become a partner",
+      "date_published": "2025-05-03T04:26:56.975267+00:00",
+      "date_modified": "2025-05-03T04:26:56.975267+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering",
+      "title": "Engineering at Anthropic",
+      "date_published": "2025-05-03T04:26:56.975259+00:00",
+      "date_modified": "2025-05-03T04:26:56.975259+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/customers",
+      "url": "https://www.anthropic.com/customers",
+      "title": "Customer stories",
+      "date_published": "2025-05-03T04:26:56.975254+00:00",
+      "date_modified": "2025-05-03T04:26:56.975254+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/learn",
+      "url": "https://www.anthropic.com/learn",
+      "title": "Anthropic Academy",
+      "date_published": "2025-05-03T04:26:56.975249+00:00",
+      "date_modified": "2025-05-03T04:26:56.975249+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/solutions/customer-support",
+      "url": "https://www.anthropic.com/solutions/customer-support",
+      "title": "Customer support",
+      "date_published": "2025-05-03T04:26:56.975244+00:00",
+      "date_modified": "2025-05-03T04:26:56.975244+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://trust.anthropic.com",
+      "url": "https://trust.anthropic.com",
+      "title": "Security and compliance",
+      "date_published": "2025-05-03T04:26:56.975235+00:00",
+      "date_modified": "2025-05-03T04:26:56.975235+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/responsible-scaling-policy",
+      "url": "https://www.anthropic.com/responsible-scaling-policy",
+      "title": "Responsible scaling policy",
+      "date_published": "2025-05-03T04:26:56.975230+00:00",
+      "date_modified": "2025-05-03T04:26:56.975230+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/transparency",
+      "url": "https://www.anthropic.com/transparency",
+      "title": "Transparency",
+      "date_published": "2025-05-03T04:26:56.975225+00:00",
+      "date_modified": "2025-05-03T04:26:56.975225+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-3-family",
+      "url": "https://www.anthropic.com/news/claude-3-family",
+      "title": "Claude 3 Opus",
+      "date_published": "2025-05-03T04:26:56.975220+00:00",
+      "date_modified": "2025-05-03T04:26:56.975220+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/claude/haiku",
+      "url": "https://www.anthropic.com/claude/haiku",
+      "title": "Claude 3.5 Haiku",
+      "date_published": "2025-05-03T04:26:56.975213+00:00",
+      "date_modified": "2025-05-03T04:26:56.975213+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/claude/sonnet",
+      "url": "https://www.anthropic.com/claude/sonnet",
+      "title": "Claude 3.7 Sonnet",
+      "date_published": "2025-05-03T04:26:56.975208+00:00",
+      "date_modified": "2025-05-03T04:26:56.975208+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/economic-index",
+      "url": "https://www.anthropic.com/economic-index",
+      "title": "Economic Index",
+      "date_published": "2025-05-03T04:26:56.975203+00:00",
+      "date_modified": "2025-05-03T04:26:56.975203+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/research",
+      "url": "https://www.anthropic.com/research",
+      "title": "Research overview",
+      "date_published": "2025-05-03T04:26:56.975195+00:00",
+      "date_modified": "2025-05-03T04:26:56.975195+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://console.anthropic.com/",
+      "url": "https://console.anthropic.com/",
+      "title": "Console login",
+      "date_published": "2025-05-03T04:26:56.975190+00:00",
+      "date_modified": "2025-05-03T04:26:56.975190+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/google-cloud-vertex-ai",
+      "url": "https://www.anthropic.com/google-cloud-vertex-ai",
+      "title": "Claude on Google Cloud's Vertex AI",
+      "date_published": "2025-05-03T04:26:56.975183+00:00",
+      "date_modified": "2025-05-03T04:26:56.975183+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/amazon-bedrock",
+      "url": "https://www.anthropic.com/amazon-bedrock",
+      "title": "Claude in Amazon Bedrock",
+      "date_published": "2025-05-03T04:26:56.975173+00:00",
+      "date_modified": "2025-05-03T04:26:56.975173+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://docs.anthropic.com/",
+      "url": "https://docs.anthropic.com/",
+      "title": "Developer docs",
+      "date_published": "2025-05-03T04:26:56.975169+00:00",
+      "date_modified": "2025-05-03T04:26:56.975169+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/api",
+      "url": "https://www.anthropic.com/api",
+      "title": "API overview",
+      "date_published": "2025-05-03T04:26:56.975164+00:00",
+      "date_modified": "2025-05-03T04:26:56.975164+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "http://claude.ai/login",
+      "url": "http://claude.ai/login",
+      "title": "Claude.ai login",
+      "date_published": "2025-05-03T04:26:56.975160+00:00",
+      "date_modified": "2025-05-03T04:26:56.975160+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/pricing",
+      "url": "https://www.anthropic.com/pricing",
+      "title": "Claude.ai pricing plans",
+      "date_published": "2025-05-03T04:26:56.975156+00:00",
+      "date_modified": "2025-05-03T04:26:56.975156+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://claude.ai/download",
+      "url": "https://claude.ai/download",
+      "title": "Download Claude apps",
+      "date_published": "2025-05-03T04:26:56.975151+00:00",
+      "date_modified": "2025-05-03T04:26:56.975151+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/education",
+      "url": "https://www.anthropic.com/education",
+      "title": "Claude education plan",
+      "date_published": "2025-05-03T04:26:56.975147+00:00",
+      "date_modified": "2025-05-03T04:26:56.975147+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/enterprise",
+      "url": "https://www.anthropic.com/enterprise",
+      "title": "Claude enterprise plan",
+      "date_published": "2025-05-03T04:26:56.975142+00:00",
+      "date_modified": "2025-05-03T04:26:56.975142+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/team",
+      "url": "https://www.anthropic.com/team",
+      "title": "Claude team plan",
+      "date_published": "2025-05-03T04:26:56.975138+00:00",
+      "date_modified": "2025-05-03T04:26:56.975138+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://anthropic.com/claude-code",
+      "url": "https://anthropic.com/claude-code",
+      "title": "Claude Code",
+      "date_published": "2025-05-03T04:26:56.975133+00:00",
+      "date_modified": "2025-05-03T04:26:56.975133+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/claude",
+      "url": "https://www.anthropic.com/claude",
+      "title": "Claude overview",
+      "date_published": "2025-05-03T04:26:56.975127+00:00",
+      "date_modified": "2025-05-03T04:26:56.975127+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/jobs?team=4002061008",
+      "url": "https://www.anthropic.com/jobs?team=4002061008",
+      "title": "See open roles",
+      "date_published": "2025-05-03T04:26:56.974736+00:00",
+      "date_modified": "2025-05-03T04:26:56.974736+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://claude.ai/",
+      "url": "https://claude.ai/",
+      "title": "Try Claude",
+      "date_published": "2025-05-03T04:26:56.974603+00:00",
+      "date_modified": "2025-05-03T04:26:56.974603+00:00",
+      "tags": [
+        {
+          "term": "research",
+          "label": "Research"
+        }
+      ],
+      "content_html": "<p>Source: research</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems",
+      "url": "https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems",
+      "title": "Anthropic raises $124 million to build more reliable, general AI systems",
+      "date_published": "2025-05-03T04:26:55.986490+00:00",
+      "date_modified": "2025-05-03T04:26:55.986490+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai",
+      "title": "Anthropic Raises Series B to Build Steerable, Interpretable, Robust AI Systems",
+      "date_published": "2025-05-03T04:26:55.986442+00:00",
+      "date_modified": "2025-05-03T04:26:55.986442+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-partners-with-google-cloud",
+      "url": "https://www.anthropic.com/news/anthropic-partners-with-google-cloud",
+      "title": "Anthropic Partners with Google Cloud",
+      "date_published": "2025-05-03T04:26:55.986394+00:00",
+      "date_modified": "2025-05-03T04:26:55.986394+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/core-views-on-ai-safety",
+      "url": "https://www.anthropic.com/news/core-views-on-ai-safety",
+      "title": "Core Views on AI Safety: When, Why, What, and How",
+      "date_published": "2025-05-03T04:26:55.986346+00:00",
+      "date_modified": "2025-05-03T04:26:55.986346+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/introducing-claude",
+      "url": "https://www.anthropic.com/news/introducing-claude",
+      "title": "Introducing Claude",
+      "date_published": "2025-05-03T04:26:55.986290+00:00",
+      "date_modified": "2025-05-03T04:26:55.986290+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-now-in-slack",
+      "url": "https://www.anthropic.com/news/claude-now-in-slack",
+      "title": "Claude, now in Slack",
+      "date_published": "2025-05-03T04:26:55.986233+00:00",
+      "date_modified": "2025-05-03T04:26:55.986233+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist",
+      "url": "https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist",
+      "title": "An AI Policy Tool for Today: Ambitiously Invest in NIST",
+      "date_published": "2025-05-03T04:26:55.986176+00:00",
+      "date_modified": "2025-05-03T04:26:55.986176+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/partnering-with-scale",
+      "url": "https://www.anthropic.com/news/partnering-with-scale",
+      "title": "Partnering with Scale to Bring Generative AI to Enterprises",
+      "date_published": "2025-05-03T04:26:55.986120+00:00",
+      "date_modified": "2025-05-03T04:26:55.986120+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claudes-constitution",
+      "url": "https://www.anthropic.com/news/claudes-constitution",
+      "title": "Claude\u2019s Constitution",
+      "date_published": "2025-05-03T04:26:55.986063+00:00",
+      "date_modified": "2025-05-03T04:26:55.986063+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/100k-context-windows",
+      "url": "https://www.anthropic.com/news/100k-context-windows",
+      "title": "Introducing 100K Context Windows",
+      "date_published": "2025-05-03T04:26:55.986006+00:00",
+      "date_modified": "2025-05-03T04:26:55.986006+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/zoom-partnership-and-investment",
+      "url": "https://www.anthropic.com/news/zoom-partnership-and-investment",
+      "title": "Zoom Partnership and Investment in Anthropic",
+      "date_published": "2025-05-03T04:26:55.985950+00:00",
+      "date_modified": "2025-05-03T04:26:55.985950+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-series-c",
+      "url": "https://www.anthropic.com/news/anthropic-series-c",
+      "title": "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products",
+      "date_published": "2025-05-03T04:26:55.985894+00:00",
+      "date_modified": "2025-05-03T04:26:55.985894+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability",
+      "url": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability",
+      "title": "Charting a Path to AI Accountability",
+      "date_published": "2025-05-03T04:26:55.985838+00:00",
+      "date_modified": "2025-05-03T04:26:55.985838+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-2",
+      "url": "https://www.anthropic.com/news/claude-2",
+      "title": "Claude 2",
+      "date_published": "2025-05-03T04:26:55.985781+00:00",
+      "date_modified": "2025-05-03T04:26:55.985781+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/frontier-model-security",
+      "url": "https://www.anthropic.com/news/frontier-model-security",
+      "title": "Frontier Model Security",
+      "date_published": "2025-05-03T04:26:55.985725+00:00",
+      "date_modified": "2025-05-03T04:26:55.985725+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety",
+      "url": "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety",
+      "title": "Frontier Threats Red Teaming for AI Safety",
+      "date_published": "2025-05-03T04:26:55.985669+00:00",
+      "date_modified": "2025-05-03T04:26:55.985669+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/releasing-claude-instant-1-2",
+      "url": "https://www.anthropic.com/news/releasing-claude-instant-1-2",
+      "title": "Releasing Claude Instant 1.2",
+      "date_published": "2025-05-03T04:26:55.985613+00:00",
+      "date_modified": "2025-05-03T04:26:55.985613+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/skt-partnership-announcement",
+      "url": "https://www.anthropic.com/news/skt-partnership-announcement",
+      "title": "SKT Partnership Announcement",
+      "date_published": "2025-05-03T04:26:55.985558+00:00",
+      "date_modified": "2025-05-03T04:26:55.985558+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-2-amazon-bedrock",
+      "url": "https://www.anthropic.com/news/claude-2-amazon-bedrock",
+      "title": "Claude 2 on Amazon Bedrock",
+      "date_published": "2025-05-03T04:26:55.985503+00:00",
+      "date_modified": "2025-05-03T04:26:55.985503+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-pro",
+      "url": "https://www.anthropic.com/news/claude-pro",
+      "title": "Introducing Claude Pro",
+      "date_published": "2025-05-03T04:26:55.985447+00:00",
+      "date_modified": "2025-05-03T04:26:55.985447+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-bcg",
+      "url": "https://www.anthropic.com/news/anthropic-bcg",
+      "title": "Anthropic partners with BCG",
+      "date_published": "2025-05-03T04:26:55.985391+00:00",
+      "date_modified": "2025-05-03T04:26:55.985391+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+      "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+      "title": "The Long-Term Benefit Trust",
+      "date_published": "2025-05-03T04:26:55.985329+00:00",
+      "date_modified": "2025-05-03T04:26:55.985329+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+      "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+      "title": "Anthropic's Responsible Scaling Policy",
+      "date_published": "2025-05-03T04:26:55.985273+00:00",
+      "date_modified": "2025-05-03T04:26:55.985273+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/prompting-long-context",
+      "url": "https://www.anthropic.com/news/prompting-long-context",
+      "title": "Prompt engineering for Claude's long context window",
+      "date_published": "2025-05-03T04:26:55.985218+00:00",
+      "date_modified": "2025-05-03T04:26:55.985218+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-amazon",
+      "url": "https://www.anthropic.com/news/anthropic-amazon",
+      "title": "Expanding access to safer AI with Amazon",
+      "date_published": "2025-05-03T04:26:55.985163+00:00",
+      "date_modified": "2025-05-03T04:26:55.985163+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/amazon-bedrock-general-availability",
+      "url": "https://www.anthropic.com/news/amazon-bedrock-general-availability",
+      "title": "Claude on Amazon Bedrock now available to every AWS customer",
+      "date_published": "2025-05-03T04:26:55.985107+00:00",
+      "date_modified": "2025-05-03T04:26:55.985107+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/uk-ai-safety-summit",
+      "url": "https://www.anthropic.com/news/uk-ai-safety-summit",
+      "title": "Dario Amodei\u2019s prepared remarks from the AI Safety Summit on Anthropic\u2019s Responsible Scaling Policy",
+      "date_published": "2025-05-03T04:26:55.985053+00:00",
+      "date_modified": "2025-05-03T04:26:55.985053+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/policy-recap-q4-2023",
+      "url": "https://www.anthropic.com/news/policy-recap-q4-2023",
+      "title": "Thoughts on the US Executive Order, G7 Code of Conduct, and Bletchley Park Summit",
+      "date_published": "2025-05-03T04:26:55.984998+00:00",
+      "date_modified": "2025-05-03T04:26:55.984998+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-2-1",
+      "url": "https://www.anthropic.com/news/claude-2-1",
+      "title": "Introducing Claude 2.1",
+      "date_published": "2025-05-03T04:26:55.984943+00:00",
+      "date_modified": "2025-05-03T04:26:55.984943+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-2-1-prompting",
+      "url": "https://www.anthropic.com/news/claude-2-1-prompting",
+      "title": "Long context prompting for Claude 2.1",
+      "date_published": "2025-05-03T04:26:55.984888+00:00",
+      "date_modified": "2025-05-03T04:26:55.984888+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/expanded-legal-protections-api-improvements",
+      "url": "https://www.anthropic.com/news/expanded-legal-protections-api-improvements",
+      "title": "Expanded legal protections and improvements to our API",
+      "date_published": "2025-05-03T04:26:55.984834+00:00",
+      "date_modified": "2025-05-03T04:26:55.984834+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/preparing-for-global-elections-in-2024",
+      "url": "https://www.anthropic.com/news/preparing-for-global-elections-in-2024",
+      "title": "Preparing for global elections in 2024",
+      "date_published": "2025-05-03T04:26:55.984789+00:00",
+      "date_modified": "2025-05-03T04:26:55.984789+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/prompt-engineering-for-business-performance",
+      "url": "https://www.anthropic.com/news/prompt-engineering-for-business-performance",
+      "title": "Prompt engineering for business performance",
+      "date_published": "2025-05-03T04:26:55.984734+00:00",
+      "date_modified": "2025-05-03T04:26:55.984734+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-3-family",
+      "url": "https://www.anthropic.com/news/claude-3-family",
+      "title": "Introducing the next generation of Claude",
+      "date_published": "2025-05-03T04:26:55.984680+00:00",
+      "date_modified": "2025-05-03T04:26:55.984680+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-3-haiku",
+      "url": "https://www.anthropic.com/news/claude-3-haiku",
+      "title": "Claude 3 Haiku: our fastest model yet",
+      "date_published": "2025-05-03T04:26:55.984626+00:00",
+      "date_modified": "2025-05-03T04:26:55.984626+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/google-vertex-general-availability",
+      "url": "https://www.anthropic.com/news/google-vertex-general-availability",
+      "title": "Claude 3 models on Vertex AI",
+      "date_published": "2025-05-03T04:26:55.984573+00:00",
+      "date_modified": "2025-05-03T04:26:55.984573+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/accenture-aws-anthropic",
+      "url": "https://www.anthropic.com/news/accenture-aws-anthropic",
+      "title": "Anthropic, AWS, and Accenture team up to build trusted solutions for enterprises",
+      "date_published": "2025-05-03T04:26:55.984519+00:00",
+      "date_modified": "2025-05-03T04:26:55.984519+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/third-party-testing",
+      "url": "https://www.anthropic.com/news/third-party-testing",
+      "title": "Third-party testing as a key ingredient of AI policy",
+      "date_published": "2025-05-03T04:26:55.984466+00:00",
+      "date_modified": "2025-05-03T04:26:55.984466+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/child-safety-principles",
+      "url": "https://www.anthropic.com/news/child-safety-principles",
+      "title": "Aligning on child safety principles",
+      "date_published": "2025-05-03T04:26:55.984411+00:00",
+      "date_modified": "2025-05-03T04:26:55.984411+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/team-plan-and-ios",
+      "url": "https://www.anthropic.com/news/team-plan-and-ios",
+      "title": "Introducing the Claude Team plan and iOS app",
+      "date_published": "2025-05-03T04:26:55.984367+00:00",
+      "date_modified": "2025-05-03T04:26:55.984367+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/updating-our-usage-policy",
+      "url": "https://www.anthropic.com/news/updating-our-usage-policy",
+      "title": "Updating our Usage Policy",
+      "date_published": "2025-05-03T04:26:55.984309+00:00",
+      "date_modified": "2025-05-03T04:26:55.984309+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-europe",
+      "url": "https://www.anthropic.com/news/claude-europe",
+      "title": "Claude is now available in Europe",
+      "date_published": "2025-05-03T04:26:55.984266+00:00",
+      "date_modified": "2025-05-03T04:26:55.984266+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/mike-krieger-joins-anthropic",
+      "url": "https://www.anthropic.com/news/mike-krieger-joins-anthropic",
+      "title": "Mike Krieger joins Anthropic as Chief Product Officer",
+      "date_published": "2025-05-03T04:26:55.984212+00:00",
+      "date_modified": "2025-05-03T04:26:55.984212+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
+      "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
+      "title": "Reflections on our Responsible Scaling Policy",
+      "date_published": "2025-05-03T04:26:55.984169+00:00",
+      "date_modified": "2025-05-03T04:26:55.984169+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/prompt-generator",
+      "url": "https://www.anthropic.com/news/prompt-generator",
+      "title": "Generate better prompts in the developer console",
+      "date_published": "2025-05-03T04:26:55.984115+00:00",
+      "date_modified": "2025-05-03T04:26:55.984115+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/krishna-rao-joins-anthropic",
+      "url": "https://www.anthropic.com/news/krishna-rao-joins-anthropic",
+      "title": "Krishna Rao joins Anthropic as Chief Financial Officer",
+      "date_published": "2025-05-03T04:26:55.984062+00:00",
+      "date_modified": "2025-05-03T04:26:55.984062+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/golden-gate-claude",
+      "url": "https://www.anthropic.com/news/golden-gate-claude",
+      "title": "Golden Gate Claude",
+      "date_published": "2025-05-03T04:26:55.984019+00:00",
+      "date_modified": "2025-05-03T04:26:55.984019+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors",
+      "url": "https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors",
+      "title": "Jay Kreps appointed to Anthropic's Board of Directors",
+      "date_published": "2025-05-03T04:26:55.983977+00:00",
+      "date_modified": "2025-05-03T04:26:55.983977+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/tool-use-ga",
+      "url": "https://www.anthropic.com/news/tool-use-ga",
+      "title": "Claude can now use tools",
+      "date_published": "2025-05-03T04:26:55.983933+00:00",
+      "date_modified": "2025-05-03T04:26:55.983933+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/introducing-claude-to-canada",
+      "url": "https://www.anthropic.com/news/introducing-claude-to-canada",
+      "title": "Introducing Claude to Canada",
+      "date_published": "2025-05-03T04:26:55.983881+00:00",
+      "date_modified": "2025-05-03T04:26:55.983881+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks",
+      "url": "https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks",
+      "title": "Testing and mitigating elections-related risks",
+      "date_published": "2025-05-03T04:26:55.983828+00:00",
+      "date_modified": "2025-05-03T04:26:55.983828+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
+      "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
+      "title": "Challenges in red teaming AI systems",
+      "date_published": "2025-05-03T04:26:55.983772+00:00",
+      "date_modified": "2025-05-03T04:26:55.983772+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-3-5-sonnet",
+      "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
+      "title": "Claude 3.5 Sonnet",
+      "date_published": "2025-05-03T04:26:55.983715+00:00",
+      "date_modified": "2025-05-03T04:26:55.983715+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/projects",
+      "url": "https://www.anthropic.com/news/projects",
+      "title": "Collaborate with Claude on Projects",
+      "date_published": "2025-05-03T04:26:55.983663+00:00",
+      "date_modified": "2025-05-03T04:26:55.983663+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/expanding-access-to-claude-for-government",
+      "url": "https://www.anthropic.com/news/expanding-access-to-claude-for-government",
+      "title": "Expanding access to Claude for government",
+      "date_published": "2025-05-03T04:26:55.983611+00:00",
+      "date_modified": "2025-05-03T04:26:55.983611+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+      "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+      "title": "A new initiative for developing third-party model evaluations",
+      "date_published": "2025-05-03T04:26:55.983569+00:00",
+      "date_modified": "2025-05-03T04:26:55.983569+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/evaluate-prompts",
+      "url": "https://www.anthropic.com/news/evaluate-prompts",
+      "title": "Evaluate prompts in the developer console",
+      "date_published": "2025-05-03T04:26:55.983517+00:00",
+      "date_modified": "2025-05-03T04:26:55.983517+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/fine-tune-claude-3-haiku",
+      "url": "https://www.anthropic.com/news/fine-tune-claude-3-haiku",
+      "title": "Fine-tune Claude 3 Haiku in Amazon Bedrock",
+      "date_published": "2025-05-03T04:26:55.983465+00:00",
+      "date_modified": "2025-05-03T04:26:55.983465+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/android-app",
+      "url": "https://www.anthropic.com/news/android-app",
+      "title": "Claude Android app",
+      "date_published": "2025-05-03T04:26:55.983423+00:00",
+      "date_modified": "2025-05-03T04:26:55.983423+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund",
+      "url": "https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund",
+      "title": "Anthropic partners with Menlo Ventures to launch Anthology Fund",
+      "date_published": "2025-05-03T04:26:55.983370+00:00",
+      "date_modified": "2025-05-03T04:26:55.983370+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-brazil",
+      "url": "https://www.anthropic.com/news/claude-brazil",
+      "title": "Claude is now available in Brazil",
+      "date_published": "2025-05-03T04:26:55.983327+00:00",
+      "date_modified": "2025-05-03T04:26:55.983327+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/model-safety-bug-bounty",
+      "url": "https://www.anthropic.com/news/model-safety-bug-bounty",
+      "title": "Expanding our model safety bug bounty program",
+      "date_published": "2025-05-03T04:26:55.983276+00:00",
+      "date_modified": "2025-05-03T04:26:55.983276+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/prompt-caching",
+      "url": "https://www.anthropic.com/news/prompt-caching",
+      "title": "Prompt caching with Claude",
+      "date_published": "2025-05-03T04:26:55.983221+00:00",
+      "date_modified": "2025-05-03T04:26:55.983221+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/artifacts",
+      "url": "https://www.anthropic.com/news/artifacts",
+      "title": "Artifacts are now generally available",
+      "date_published": "2025-05-03T04:26:55.983170+00:00",
+      "date_modified": "2025-05-03T04:26:55.983170+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/salesforce-partnership",
+      "url": "https://www.anthropic.com/news/salesforce-partnership",
+      "title": "Salesforce teams up with Anthropic to enhance Einstein capabilities with Claude",
+      "date_published": "2025-05-03T04:26:55.983118+00:00",
+      "date_modified": "2025-05-03T04:26:55.983118+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-for-enterprise",
+      "url": "https://www.anthropic.com/news/claude-for-enterprise",
+      "title": "Claude for Enterprise",
+      "date_published": "2025-05-03T04:26:55.983048+00:00",
+      "date_modified": "2025-05-03T04:26:55.983048+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/workspaces",
+      "url": "https://www.anthropic.com/news/workspaces",
+      "title": "Workspaces in the Anthropic API Console",
+      "date_published": "2025-05-03T04:26:55.982992+00:00",
+      "date_modified": "2025-05-03T04:26:55.982992+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/contextual-retrieval",
+      "url": "https://www.anthropic.com/news/contextual-retrieval",
+      "title": "Introducing Contextual Retrieval",
+      "date_published": "2025-05-03T04:26:55.982937+00:00",
+      "date_modified": "2025-05-03T04:26:55.982937+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga",
+      "url": "https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga",
+      "title": "Fine-tuning for Claude 3 Haiku in Amazon Bedrock is now generally available",
+      "date_published": "2025-05-03T04:26:55.982878+00:00",
+      "date_modified": "2025-05-03T04:26:55.982878+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/message-batches-api",
+      "url": "https://www.anthropic.com/news/message-batches-api",
+      "title": "Introducing the Message Batches API",
+      "date_published": "2025-05-03T04:26:55.982834+00:00",
+      "date_modified": "2025-05-03T04:26:55.982834+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/us-elections-readiness",
+      "url": "https://www.anthropic.com/news/us-elections-readiness",
+      "title": "U.S. Elections Readiness",
+      "date_published": "2025-05-03T04:26:55.982780+00:00",
+      "date_modified": "2025-05-03T04:26:55.982780+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "title": "Announcing our updated Responsible Scaling Policy",
+      "date_published": "2025-05-03T04:26:55.982726+00:00",
+      "date_modified": "2025-05-03T04:26:55.982726+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/3-5-models-and-computer-use",
+      "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
+      "title": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+      "date_published": "2025-05-03T04:26:55.982672+00:00",
+      "date_modified": "2025-05-03T04:26:55.982672+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/developing-computer-use",
+      "url": "https://www.anthropic.com/news/developing-computer-use",
+      "title": "Developing a computer use model",
+      "date_published": "2025-05-03T04:26:55.982615+00:00",
+      "date_modified": "2025-05-03T04:26:55.982615+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/analysis-tool",
+      "url": "https://www.anthropic.com/news/analysis-tool",
+      "title": "Introducing the analysis tool in Claude.ai",
+      "date_published": "2025-05-03T04:26:55.982557+00:00",
+      "date_modified": "2025-05-03T04:26:55.982557+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/github-copilot",
+      "url": "https://www.anthropic.com/news/github-copilot",
+      "title": "Claude 3.5 Sonnet on GitHub Copilot",
+      "date_published": "2025-05-03T04:26:55.982504+00:00",
+      "date_modified": "2025-05-03T04:26:55.982504+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/the-case-for-targeted-regulation",
+      "url": "https://www.anthropic.com/news/the-case-for-targeted-regulation",
+      "title": "The case for targeted regulation",
+      "date_published": "2025-05-03T04:26:55.982450+00:00",
+      "date_modified": "2025-05-03T04:26:55.982450+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/prompt-improver",
+      "url": "https://www.anthropic.com/news/prompt-improver",
+      "title": "Improve your prompts in the developer console",
+      "date_published": "2025-05-03T04:26:55.982397+00:00",
+      "date_modified": "2025-05-03T04:26:55.982397+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-amazon-trainium",
+      "url": "https://www.anthropic.com/news/anthropic-amazon-trainium",
+      "title": "Powering the next generation of AI development with AWS",
+      "date_published": "2025-05-03T04:26:55.982343+00:00",
+      "date_modified": "2025-05-03T04:26:55.982343+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/model-context-protocol",
+      "url": "https://www.anthropic.com/news/model-context-protocol",
+      "title": "Introducing the Model Context Protocol",
+      "date_published": "2025-05-03T04:26:55.982290+00:00",
+      "date_modified": "2025-05-03T04:26:55.982290+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/styles",
+      "url": "https://www.anthropic.com/news/styles",
+      "title": "Tailor Claude\u2019s responses to your personal style",
+      "date_published": "2025-05-03T04:26:55.982236+00:00",
+      "date_modified": "2025-05-03T04:26:55.982236+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/trainium2-and-distillation",
+      "url": "https://www.anthropic.com/news/trainium2-and-distillation",
+      "title": "Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock",
+      "date_published": "2025-05-03T04:26:55.982183+00:00",
+      "date_modified": "2025-05-03T04:26:55.982183+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/elections-ai-2024",
+      "url": "https://www.anthropic.com/news/elections-ai-2024",
+      "title": "Elections and AI in 2024: observations and learnings",
+      "date_published": "2025-05-03T04:26:55.982129+00:00",
+      "date_modified": "2025-05-03T04:26:55.982129+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai",
+      "url": "https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai",
+      "title": "Anthropic achieves ISO 42001 certification for responsible AI",
+      "date_published": "2025-05-03T04:26:55.982076+00:00",
+      "date_modified": "2025-05-03T04:26:55.982076+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/introducing-citations-api",
+      "url": "https://www.anthropic.com/news/introducing-citations-api",
+      "title": "Introducing Citations on the Anthropic API",
+      "date_published": "2025-05-03T04:26:55.982023+00:00",
+      "date_modified": "2025-05-03T04:26:55.982023+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/lyft-announcement",
+      "url": "https://www.anthropic.com/news/lyft-announcement",
+      "title": "Lyft to bring Claude to more than 40 million riders and over 1 million drivers",
+      "date_published": "2025-05-03T04:26:55.981970+00:00",
+      "date_modified": "2025-05-03T04:26:55.981970+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/the-anthropic-economic-index",
+      "url": "https://www.anthropic.com/news/the-anthropic-economic-index",
+      "title": "The Anthropic Economic Index",
+      "date_published": "2025-05-03T04:26:55.981928+00:00",
+      "date_modified": "2025-05-03T04:26:55.981928+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/paris-ai-summit",
+      "url": "https://www.anthropic.com/news/paris-ai-summit",
+      "title": "Statement from Dario Amodei on the Paris AI Action Summit",
+      "date_published": "2025-05-03T04:26:55.981870+00:00",
+      "date_modified": "2025-05-03T04:26:55.981870+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/mou-uk-government",
+      "url": "https://www.anthropic.com/news/mou-uk-government",
+      "title": "Anthropic signs MOU with UK Government to explore how AI can transform UK public services",
+      "date_published": "2025-05-03T04:26:55.981812+00:00",
+      "date_modified": "2025-05-03T04:26:55.981812+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-3-7-sonnet",
+      "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
+      "title": "Claude 3.7 Sonnet and Claude Code",
+      "date_published": "2025-05-03T04:26:55.981753+00:00",
+      "date_modified": "2025-05-03T04:26:55.981753+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-and-alexa-plus",
+      "url": "https://www.anthropic.com/news/claude-and-alexa-plus",
+      "title": "Claude and Alexa+",
+      "date_published": "2025-05-03T04:26:55.981700+00:00",
+      "date_modified": "2025-05-03T04:26:55.981700+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/introducing-anthropic-transparency-hub",
+      "url": "https://www.anthropic.com/news/introducing-anthropic-transparency-hub",
+      "title": "Introducing Anthropic's Transparency Hub",
+      "date_published": "2025-05-03T04:26:55.981647+00:00",
+      "date_modified": "2025-05-03T04:26:55.981647+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam",
+      "url": "https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam",
+      "title": "Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam",
+      "date_published": "2025-05-03T04:26:55.981595+00:00",
+      "date_modified": "2025-05-03T04:26:55.981595+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
+      "title": "Anthropic raises Series E at $61.5B post-money valuation",
+      "date_published": "2025-05-03T04:26:55.981551+00:00",
+      "date_modified": "2025-05-03T04:26:55.981551+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan",
+      "url": "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan",
+      "title": "Anthropic\u2019s Recommendations to OSTP for the U.S. AI Action Plan",
+      "date_published": "2025-05-03T04:26:55.981499+00:00",
+      "date_modified": "2025-05-03T04:26:55.981499+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/upgraded-anthropic-console",
+      "url": "https://www.anthropic.com/news/upgraded-anthropic-console",
+      "title": "Get to production faster with the upgraded Anthropic Console",
+      "date_published": "2025-05-03T04:26:55.981442+00:00",
+      "date_modified": "2025-05-03T04:26:55.981442+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/token-saving-updates",
+      "url": "https://www.anthropic.com/news/token-saving-updates",
+      "title": "Token-saving updates on the Anthropic API",
+      "date_published": "2025-05-03T04:26:55.981391+00:00",
+      "date_modified": "2025-05-03T04:26:55.981391+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
+      "url": "https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
+      "title": "Progress from our Frontier Red Team",
+      "date_published": "2025-05-03T04:26:55.981340+00:00",
+      "date_modified": "2025-05-03T04:26:55.981340+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
+      "url": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
+      "title": "Anthropic\u2019s Response to Governor Newsom\u2019s AI Working Group Draft Report",
+      "date_published": "2025-05-03T04:26:55.981299+00:00",
+      "date_modified": "2025-05-03T04:26:55.981299+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/web-search",
+      "url": "https://www.anthropic.com/news/web-search",
+      "title": "Claude can now search the web",
+      "date_published": "2025-05-03T04:26:55.981247+00:00",
+      "date_modified": "2025-05-03T04:26:55.981247+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7",
+      "title": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
+      "date_published": "2025-05-03T04:26:55.981196+00:00",
+      "date_modified": "2025-05-03T04:26:55.981196+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/introducing-claude-for-education",
+      "url": "https://www.anthropic.com/news/introducing-claude-for-education",
+      "title": "Introducing Claude for Education",
+      "date_published": "2025-05-03T04:26:55.981140+00:00",
+      "date_modified": "2025-05-03T04:26:55.981140+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high",
+      "url": "https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high",
+      "title": "Claude on Google Cloud\u2019s Vertex AI: FedRAMP High and IL2 Authorized",
+      "date_published": "2025-05-03T04:26:55.981085+00:00",
+      "date_modified": "2025-05-03T04:26:55.981085+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/Introducing-code-with-claude",
+      "url": "https://www.anthropic.com/news/Introducing-code-with-claude",
+      "title": "Introducing Anthropic's first developer conference: Code with Claude",
+      "date_published": "2025-05-03T04:26:55.981033+00:00",
+      "date_modified": "2025-05-03T04:26:55.981033+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/head-of-EMEA-new-roles",
+      "url": "https://www.anthropic.com/news/head-of-EMEA-new-roles",
+      "title": "Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region",
+      "date_published": "2025-05-03T04:26:55.980991+00:00",
+      "date_modified": "2025-05-03T04:26:55.980991+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
+      "url": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
+      "title": "Anthropic Education Report: How University Students Use Claude",
+      "date_published": "2025-05-03T04:26:55.980943+00:00",
+      "date_modified": "2025-05-03T04:26:55.980943+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/max-plan",
+      "url": "https://www.anthropic.com/news/max-plan",
+      "title": "Introducing the Max Plan",
+      "date_published": "2025-05-03T04:26:55.980881+00:00",
+      "date_modified": "2025-05-03T04:26:55.980881+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/research",
+      "url": "https://www.anthropic.com/news/research",
+      "title": "Claude takes research to new places",
+      "date_published": "2025-05-03T04:26:55.980830+00:00",
+      "date_modified": "2025-05-03T04:26:55.980830+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
+      "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
+      "title": "Our Approach to Understanding and Addressing AI Harms",
+      "date_published": "2025-05-03T04:26:55.980778+00:00",
+      "date_modified": "2025-05-03T04:26:55.980778+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
+      "url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
+      "title": "Detecting and Countering Malicious Uses of Claude: March 2025",
+      "date_published": "2025-05-03T04:26:55.980726+00:00",
+      "date_modified": "2025-05-03T04:26:55.980726+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council",
+      "url": "https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council",
+      "title": "Introducing the Anthropic Economic Advisory Council",
+      "date_published": "2025-05-03T04:26:55.980673+00:00",
+      "date_modified": "2025-05-03T04:26:55.980673+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule",
+      "url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule",
+      "title": "Securing America's Compute Advantage: Anthropic\u2019s Position on the Diffusion Rule",
+      "date_published": "2025-05-03T04:26:55.980612+00:00",
+      "date_modified": "2025-05-03T04:26:55.980612+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/integrations",
+      "url": "https://www.anthropic.com/news/integrations",
+      "title": "Claude can now connect to your world",
+      "date_published": "2025-05-03T04:26:55.980546+00:00",
+      "date_modified": "2025-05-03T04:26:55.980546+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p>Source: news</p>"
+    }
+  ]
+}
