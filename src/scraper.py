@@ -583,7 +583,9 @@ class AnthropicScraper:
             # Include this article in the filtered list
             filtered_articles.append(article)
             
-        logger.info(f"Filtered out {len(all_articles) - len(filtered_articles)} non-article pages")
+        filtered_count = len(all_articles) - len(filtered_articles)
+        if filtered_count > 0:
+            logger.info(f"Filtered out {filtered_count} non-article pages")
         
         # Sort by date, most recent first
         filtered_articles.sort(key=lambda x: x.get("date", ""), reverse=True)
