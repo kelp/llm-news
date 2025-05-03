@@ -63,8 +63,8 @@ def main():
     # Generate the feed
     feed_generator = AtomFeedGenerator(output_dir=args.output_dir)
     
-    # Determine the feed URL based on GitHub Pages pattern
-    feed_url = "https://kelp.github.io/llm-news/feed.atom"
+    # Determine the feed URL based on final hosting URL
+    feed_url = "https://tcole.net/llm-news/feed.atom"
     
     logger.info(f"Generating Atom feed at {feed_url}")
     feed_generator.generate_feed(

@@ -12,9 +12,9 @@ An automated Atom feed generator for Anthropic's news and research pages.
 
 ## Feed URLs
 
-- Atom Feed: https://kelp.github.io/llm-news/feed.atom
-- XML Feed: https://kelp.github.io/llm-news/feed.xml
-- JSON Feed: https://kelp.github.io/llm-news/feed.json
+- Atom Feed: https://tcole.net/llm-news/feed.atom
+- XML Feed: https://tcole.net/llm-news/feed.xml
+- JSON Feed: https://tcole.net/llm-news/feed.json
 
 ## Local Development
 

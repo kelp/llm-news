@@ -22,7 +22,7 @@ class AtomFeedGenerator:
         feed_id: str = "anthropic-feed",
         title: str = "Anthropic News and Research",
         author: str = "Anthropic Feed Generator",
-        feed_url: str = "https://kelp.github.io/llm-news/feed.atom"
+        feed_url: str = "https://tcole.net/llm-news/feed.atom"
     ) -> None:
         """Generate an Atom feed from the articles and save it to a file."""
         # Create feed generator
