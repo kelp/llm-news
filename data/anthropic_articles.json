@@ -1,6 +1,13 @@
 {
-  "timestamp": 1746457295.0722544,
+  "timestamp": 1746464498.5341609,
   "articles": [
+    {
+      "title": "Introducing Anthropic's AI for Science Program",
+      "url": "https://www.anthropic.com/news/ai-for-science-program",
+      "date": "2025-05-05T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we\u2019re launching Anthropic's AI for Science program \u2013 a new initiative designed to accelerate scientific research and discovery through access to our API. This program will provide free API credits to support researchers working on high-impact scientific projects, with a particular focus on biology and life sciences applications."
+    },
     {
       "title": "Claude can now connect to your world",
       "url": "https://www.anthropic.com/news/integrations",

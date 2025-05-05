@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-05-05T16:01:33.159699+00:00</updated>
+  <updated>2025-05-05T17:01:38.536540+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1024,5 +1024,14 @@
     <link href="https://www.anthropic.com/news/integrations"/>
     <category term="news" label="News"/>
     <published>2025-05-01T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/ai-for-science-program</id>
+    <title>Introducing Anthropic's AI for Science Program</title>
+    <updated>2025-05-05T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re launching Anthropic's AI for Science program – a new initiative designed to accelerate scientific research and discovery through access to our API. This program will provide free API credits to support researchers working on high-impact scientific projects, with a particular focus on biology and life sciences applications.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/ai-for-science-program"/>
+    <category term="news" label="News"/>
+    <published>2025-05-05T12:00:00+00:00</published>
   </entry>
 </feed>
