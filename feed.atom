@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-05-07T19:01:37.800941+00:00</updated>
+  <updated>2025-05-07T20:01:43.300606+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1033,5 +1033,14 @@
     <link href="https://www.anthropic.com/news/ai-for-science-program"/>
     <category term="news" label="News"/>
     <published>2025-05-05T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/web-search-api</id>
+    <title>Introducing web search on the Anthropic API</title>
+    <updated>2025-05-07T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're introducing web search on the Anthropic API—a new tool that gives Claude access to current information from across the web. With web search enabled, developers can build Claude-powered applications and agents that deliver up-to-date insights.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/web-search-api"/>
+    <category term="news" label="News"/>
+    <published>2025-05-07T12:00:00+00:00</published>
   </entry>
 </feed>

@@ -1,6 +1,13 @@
 {
-  "timestamp": 1746640910.8112814,
+  "timestamp": 1746648103.2988856,
   "articles": [
+    {
+      "title": "Introducing web search on the Anthropic API",
+      "url": "https://www.anthropic.com/news/web-search-api",
+      "date": "2025-05-07T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're introducing web search on the Anthropic API\u2014a new tool that gives Claude access to current information from across the web. With web search enabled, developers can build Claude-powered applications and agents that deliver up-to-date insights."
+    },
     {
       "title": "Introducing Anthropic's AI for Science Program",
       "url": "https://www.anthropic.com/news/ai-for-science-program",
