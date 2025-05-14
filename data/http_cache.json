@@ -1,13 +1,13 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1747234896.9212809,
-    "last_modified_check": 1747234896.9212813,
-    "date": "Wed, 14 May 2025 15:01:36 GMT"
+    "last_checked": 1747242108.9189425,
+    "last_modified_check": 1747242108.9189427,
+    "date": "Wed, 14 May 2025 17:01:48 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1747234897.4227612,
-    "last_modified_check": 1747234897.4227617,
-    "date": "Wed, 14 May 2025 15:01:37 GMT"
+    "last_checked": 1747242109.4595065,
+    "last_modified_check": 1747242109.459507,
+    "date": "Wed, 14 May 2025 17:01:49 GMT"
   },
   "https://www.anthropic.com/news/ai-for-science-program": {
     "last_checked": 1746921842.7666197,
@@ -686,5 +686,11 @@
     "last_modified_check": 1746921955.7697947,
     "date": "Sun, 11 May 2025 00:05:55 GMT",
     "content_cache": "Anthropic, an AI safety and research company, has raised $124 million in a Series A. The financing round will support Anthropic in executing against its research roadmap and building prototypes of reliable and steerable AI systems.The company is led by siblings Dario Amodei (CEO) and Daniela Amodei (President). The Anthropic team has previously conducted research intoGPT-3,Circuit-Based Interpretability,Multimodal Neurons,Scaling Laws,AI & Compute,Concrete Problems in AI Safety, andLearning from Human Preferences. Anthropic will use the funding for computationally-intensive research to develop large-scale AI systems that are steerable, interpretable, and robust.\u201cAnthropic\u2019s goal is to make the fundamental research advances that will let us build more capable, general, and reliable AI systems, then deploy these systems in a way that benefits people. We\u2019re thrilled to be working with investors that support us in this mission and expect to concentrate on research in the immediate term,\u201d said Anthropic CEO Dario Amodei.Anthropic will focus on research into increasing the safety of AI systems; specifically, the company is focusing on increasing the reliability of large-scale AI models, developing the techniques and tools to make them more interpretable, and building ways to more tightly integrate human feedback into the development and deployment of these systems.The Series A round was led by Jaan Tallinn, technology investor and co-founder of Skype. The round included participation from James McClave, Dustin Moskovitz, the Center for Emerging Risk Research, Eric Schmidt, and others.To find out more about Anthropic\u2019s research agenda and approach, you can read our website and its job postings. The company is hiring researchers, engineers, and operational experts to support it in executing against its research roadmap. Find out more here: Anthropic.com."
+  },
+  "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program": {
+    "last_checked": 1747242109.6955059,
+    "last_modified_check": 1747242109.695506,
+    "date": "Wed, 14 May 2025 17:01:49 GMT",
+    "content_cache": "Today, we're launching a new bug bounty program to stress-test our latest safety measures. Similar to the program we announced lastsummer, we're challenging researchers to find universal jailbreaks in safety classifiers that we haven't yet deployed publicly. These safeguards are part of the advanced protections we\u2019ve developed to help us meet the AI Safety Level-3 (ASL-3) Deployment Standard as part of ourResponsible Scaling Policy, the framework that governs how we develop and deploy increasingly capable AI models safely."
   }
 }
