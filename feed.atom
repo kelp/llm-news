@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-05-18T00:04:31.256414+00:00</updated>
+  <updated>2025-05-18T00:05:15.719545+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -966,7 +966,7 @@
     <id>https://www.anthropic.com/news/max-plan</id>
     <title>Introducing the Max Plan</title>
     <updated>2025-04-09T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today we're introducing the Max plan—designed for those who collaborate with Claude extensively and need expanded access for their most important work.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Four major upgrades to the Max plan&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/max-plan"/>
     <category term="news" label="News"/>
     <published>2025-04-09T12:00:00+00:00</published>

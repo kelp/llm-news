@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747526671.2546332,
+  "timestamp": 1747526715.7179148,
   "articles": [
     {
       "title": "Testing our safety defenses with a new bug bounty program",
@@ -69,7 +69,7 @@
       "url": "https://www.anthropic.com/news/max-plan",
       "date": "2025-04-09T12:00:00+00:00",
       "source": "news",
-      "summary": "Today we're introducing the Max plan\u2014designed for those who collaborate with Claude extensively and need expanded access for their most important work."
+      "summary": "Four major upgrades to the Max plan"
     },
     {
       "title": "Anthropic Education Report: How University Students Use Claude",
