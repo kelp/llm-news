@@ -1,13 +1,13 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1747929705.7148912,
-    "last_modified_check": 1747929705.7148917,
-    "date": "Thu, 22 May 2025 16:01:45 GMT"
+    "last_checked": 1747936908.7316062,
+    "last_modified_check": 1747936908.731607,
+    "date": "Thu, 22 May 2025 18:01:48 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1747929706.269806,
-    "last_modified_check": 1747929706.2698061,
-    "date": "Thu, 22 May 2025 16:01:46 GMT"
+    "last_checked": 1747936909.214546,
+    "last_modified_check": 1747936909.2145464,
+    "date": "Thu, 22 May 2025 18:01:49 GMT"
   },
   "https://www.anthropic.com/news/ai-for-science-program": {
     "last_checked": 1747526633.8497682,
@@ -692,5 +692,23 @@
     "last_modified_check": 1747526625.3249562,
     "date": "Sun, 18 May 2025 00:03:45 GMT",
     "content_cache": "Today, we're launching a new bug bounty program to stress-test our latest safety measures. Similar to the program we announced lastsummer, we're challenging researchers to find universal jailbreaks in safety classifiers that we haven't yet deployed publicly. These safeguards are part of the advanced protections we\u2019ve developed to help us meet the AI Safety Level-3 (ASL-3) Deployment Standard as part of ourResponsible Scaling Policy, the framework that governs how we develop and deploy increasingly capable AI models safely."
+  },
+  "https://www.anthropic.com/news/agent-capabilities-api": {
+    "last_checked": 1747936909.3746774,
+    "last_modified_check": 1747936909.3746777,
+    "date": "Thu, 22 May 2025 18:01:49 GMT",
+    "content_cache": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
+  },
+  "https://www.anthropic.com/news/activating-asl3-protections": {
+    "last_checked": 1747936913.2381115,
+    "last_modified_check": 1747936913.238112,
+    "date": "Thu, 22 May 2025 18:01:52 GMT",
+    "content_cache": "We have activated the AI Safety Level 3 (ASL-3) Deployment and Security Standards described in Anthropic\u2019s Responsible Scaling Policy (RSP) in conjunction with launching Claude Opus 4. The ASL-3 Security Standard involves increased internal security measures that make it harder to steal model weights, while the corresponding Deployment Standard covers a narrowly targeted set of deployment measures designed to limit the risk of Claude being misused specifically for the development or acquisition of chemical, biological, radiological, and nuclear (CBRN) weapons. These measures should not lead Claude to refuse queries except on a very narrow set of topics."
+  },
+  "https://www.anthropic.com/news/claude-4": {
+    "last_checked": 1747936913.4189463,
+    "last_modified_check": 1747936913.4189467,
+    "date": "Thu, 22 May 2025 18:01:53 GMT",
+    "content_cache": "Today, we\u2019re introducing the next generation of Claude models:Claude Opus 4andClaude Sonnet 4, setting new standards for coding, advanced reasoning, and AI agents."
   }
 }

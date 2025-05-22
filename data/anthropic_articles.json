@@ -1,6 +1,20 @@
 {
-  "timestamp": 1747929707.116368,
+  "timestamp": 1747936923.021382,
   "articles": [
+    {
+      "title": "Activating AI Safety Level 3 Protections",
+      "url": "https://www.anthropic.com/news/activating-asl3-protections",
+      "date": "2025-05-22T12:00:00+00:00",
+      "source": "news",
+      "summary": "We have activated the AI Safety Level 3 (ASL-3) Deployment and Security Standards described in Anthropic\u2019s Responsible Scaling Policy (RSP) in conjunction with launching Claude Opus 4. The ASL-3 Security Standard involves increased internal security measures that make it harder to steal model weights, while the corresponding Deployment Standard covers a narrowly targeted set of deployment measures designed to limit the risk of Claude being misused specifically for the development or acquisition of chemical, biological, radiological, and nuclear (CBRN) weapons. These measures should not lead Claude to refuse queries except on a very narrow set of topics."
+    },
+    {
+      "title": "Introducing Claude 4",
+      "url": "https://www.anthropic.com/news/claude-4",
+      "date": "2025-05-22T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we\u2019re introducing the next generation of Claude models:Claude Opus 4andClaude Sonnet 4, setting new standards for coding, advanced reasoning, and AI agents."
+    },
     {
       "title": "Testing our safety defenses with a new bug bounty program",
       "url": "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program",
@@ -551,6 +565,13 @@
       "date": "2024-03-25T12:00:00+00:00",
       "source": "news",
       "summary": "We believe that the AI sector needs effective third-party testing for frontier AI systems. Developing a testing regime and associated policy interventions based on the insights of industry, government, and academia is the best way to avoid societal harm\u2014whether deliberate or accidental\u2014from AI systems."
+    },
+    {
+      "title": "New capabilities for building agents on the Anthropic API",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "date": "2024-03-24T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
     },
     {
       "title": "Anthropic, AWS, and Accenture team up to build trusted solutions for enterprises",
