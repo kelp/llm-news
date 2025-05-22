@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747947692.4270954,
+  "timestamp": 1747951297.9523685,
   "articles": [
     {
       "title": "Activating AI Safety Level 3 Protections",
@@ -364,6 +364,13 @@
       "summary": "We're introducing Workspaces in the Anthropic API Console to help developers efficiently manage multiple Claude deployments. Workspaces are unique environments that enable you to organize resources, streamline access controls, and set custom spend and rate limits on a more granular level."
     },
     {
+      "title": "New capabilities for building agents on the Anthropic API",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "date": "2024-09-04T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
+    },
+    {
       "title": "Claude for Enterprise",
       "url": "https://www.anthropic.com/news/claude-for-enterprise",
       "date": "2024-09-04T12:00:00+00:00",
@@ -397,13 +404,6 @@
       "date": "2024-08-08T12:00:00+00:00",
       "source": "news",
       "summary": "The rapid progression of AI model capabilities demands an equally swift advancement in safety protocols. As we work on developing the next generation of our AI safeguarding systems, we\u2019re expanding our bug bounty program to introduce a new initiative focused on finding flaws in the mitigations we use to prevent misuse of our models."
-    },
-    {
-      "title": "New capabilities for building agents on the Anthropic API",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "date": "2024-08-07T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
     },
     {
       "title": "Claude is now available in Brazil",
