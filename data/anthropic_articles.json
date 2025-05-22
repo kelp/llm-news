@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747936923.021382,
+  "timestamp": 1747944083.86001,
   "articles": [
     {
       "title": "Activating AI Safety Level 3 Protections",
@@ -229,6 +229,13 @@
       "date": "2025-02-06T12:00:00+00:00",
       "source": "news",
       "summary": "Lyft is working with Anthropic to introduce customer-first, AI-powered Lyft products. This is to enhance the rideshare experience for its community of more than 40 million annual riders and over 1 million drivers. The work includes early research testing of new models and technology, alongside initiatives to advance Lyft's engineering capabilities."
+    },
+    {
+      "title": "New capabilities for building agents on the Anthropic API",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "date": "2025-02-05T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
     },
     {
       "title": "Introducing Citations on the Anthropic API",
@@ -565,13 +572,6 @@
       "date": "2024-03-25T12:00:00+00:00",
       "source": "news",
       "summary": "We believe that the AI sector needs effective third-party testing for frontier AI systems. Developing a testing regime and associated policy interventions based on the insights of industry, government, and academia is the best way to avoid societal harm\u2014whether deliberate or accidental\u2014from AI systems."
-    },
-    {
-      "title": "New capabilities for building agents on the Anthropic API",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "date": "2024-03-24T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
     },
     {
       "title": "Anthropic, AWS, and Accenture team up to build trusted solutions for enterprises",
