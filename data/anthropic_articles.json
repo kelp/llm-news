@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748001720.4872048,
+  "timestamp": 1748005769.4936924,
   "articles": [
     {
       "title": "Activating AI Safety Level 3 Protections",
@@ -285,6 +285,13 @@
       "date": "2024-11-14T12:00:00+00:00",
       "source": "news",
       "summary": "Today, we're introducing the ability to improve prompts and manage examples directly in theAnthropic Console. These features make it easier to leverage prompt engineering best practices and build more reliable AI applications."
+    },
+    {
+      "title": "New capabilities for building agents on the Anthropic API",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "date": "2024-11-02T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
     },
     {
       "title": "The case for targeted regulation",
@@ -691,13 +698,6 @@
       "date": "2023-09-07T12:00:00+00:00",
       "source": "news",
       "summary": "Today, we\u2019re introducing a paid plan for ourClaude.aichat experience, currently available in the US and UK.Since launching in July, users tell us they\u2019ve chosen Claude.ai as their day-to-day AI assistant for its longer context windows, faster outputs, complex reasoning capabilities, and more.\u00a0Many also shared that they would value more file uploads and conversations over longer periods.WithClaude Pro, subscribers can now gain5x more usageof our latest model, Claude 2, for a monthly price of $20 (US) or \u00a318 (UK).This means you can level up your productivity across a range of tasks, including summarizing research papers, querying contracts, and iterating further on coding projects\u2014like this recentdemoof building an interactive map."
-    },
-    {
-      "title": "New capabilities for building agents on the Anthropic API",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "date": "2023-08-26T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
     },
     {
       "title": "Claude 2 on Amazon Bedrock",
