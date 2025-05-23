@@ -1229,20 +1229,6 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Over half of the world\u2019s population will vote this year with high profile elections taking place around the world, including in the United States, India, Europe, and many other countries and regions. At Anthropic, we\u2019ve been preparing since last July for how our AI systems might be used during elections. In this post, we\u2019ll discuss some of the specific steps we\u2019ve taken to help us detect and mitigate potential misuse of our AI tools in political contexts.</p>"
     },
     {
-      "id": "https://www.anthropic.com/news/agent-capabilities-api",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "title": "New capabilities for building agents on the Anthropic API",
-      "date_published": "2023-12-26T12:00:00+00:00",
-      "date_modified": "2023-12-26T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/expanded-legal-protections-api-improvements",
       "url": "https://www.anthropic.com/news/expanded-legal-protections-api-improvements",
       "title": "Expanded legal protections and improvements to our API",
@@ -1409,6 +1395,20 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re introducing a paid plan for ourClaude.aichat experience, currently available in the US and UK.Since launching in July, users tell us they\u2019ve chosen Claude.ai as their day-to-day AI assistant for its longer context windows, faster outputs, complex reasoning capabilities, and more.\u00a0Many also shared that they would value more file uploads and conversations over longer periods.WithClaude Pro, subscribers can now gain5x more usageof our latest model, Claude 2, for a monthly price of $20 (US) or \u00a318 (UK).This means you can level up your productivity across a range of tasks, including summarizing research papers, querying contracts, and iterating further on coding projects\u2014like this recentdemoof building an interactive map.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/agent-capabilities-api",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "title": "New capabilities for building agents on the Anthropic API",
+      "date_published": "2023-08-26T12:00:00+00:00",
+      "date_modified": "2023-08-26T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/claude-2-amazon-bedrock",
