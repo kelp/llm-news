@@ -501,6 +501,20 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>We are excited to announce that Anthropic has achieved accredited certification under the newISO/IEC 42001:2023 standardfor our AI management system. ISO 42001 is the first international standard outlining requirements for AI governance and helps ensure AI systems are developed and used responsibly.</p>"
     },
     {
+      "id": "https://www.anthropic.com/news/agent-capabilities-api",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "title": "New capabilities for building agents on the Anthropic API",
+      "date_published": "2025-01-03T12:00:00+00:00",
+      "date_modified": "2025-01-03T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/elections-ai-2024",
       "url": "https://www.anthropic.com/news/elections-ai-2024",
       "title": "Elections and AI in 2024: observations and learnings",
@@ -933,20 +947,6 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re launching Claude 3.5 Sonnet\u2014our first release in the forthcoming Claude 3.5 model family. Claude 3.5 Sonnet raises the industry bar for intelligence, outperforming competitor models and Claude 3 Opus on a wide range of evaluations, with the speed and cost of our mid-tier model, Claude 3 Sonnet.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/agent-capabilities-api",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "title": "New capabilities for building agents on the Anthropic API",
-      "date_published": "2024-06-19T12:00:00+00:00",
-      "date_modified": "2024-06-19T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
