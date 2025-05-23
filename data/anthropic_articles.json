@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748019687.9859579,
+  "timestamp": 1748026881.5318754,
   "articles": [
     {
       "title": "Activating AI Safety Level 3 Protections",
@@ -567,6 +567,13 @@
       "summary": "We believe that the AI sector needs effective third-party testing for frontier AI systems. Developing a testing regime and associated policy interventions based on the insights of industry, government, and academia is the best way to avoid societal harm\u2014whether deliberate or accidental\u2014from AI systems."
     },
     {
+      "title": "New capabilities for building agents on the Anthropic API",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "date": "2024-03-23T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
+    },
+    {
       "title": "Anthropic, AWS, and Accenture team up to build trusted solutions for enterprises",
       "url": "https://www.anthropic.com/news/accenture-aws-anthropic",
       "date": "2024-03-20T12:00:00+00:00",
@@ -607,13 +614,6 @@
       "date": "2024-02-16T12:00:00+00:00",
       "source": "news",
       "summary": "Over half of the world\u2019s population will vote this year with high profile elections taking place around the world, including in the United States, India, Europe, and many other countries and regions. At Anthropic, we\u2019ve been preparing since last July for how our AI systems might be used during elections. In this post, we\u2019ll discuss some of the specific steps we\u2019ve taken to help us detect and mitigate potential misuse of our AI tools in political contexts."
-    },
-    {
-      "title": "New capabilities for building agents on the Anthropic API",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "date": "2023-12-23T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
     },
     {
       "title": "Expanded legal protections and improvements to our API",
