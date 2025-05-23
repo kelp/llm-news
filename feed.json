@@ -403,20 +403,6 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing that Claude models are helping power Alexa+. This collaboration is part of our ongoing partnership with Amazon to deliver advanced AI technology to businesses and consumers around the world.</p>"
     },
     {
-      "id": "https://www.anthropic.com/news/agent-capabilities-api",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "title": "New capabilities for building agents on the Anthropic API",
-      "date_published": "2025-02-25T12:00:00+00:00",
-      "date_modified": "2025-02-25T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/claude-3-7-sonnet",
       "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
       "title": "Claude 3.7 Sonnet and Claude Code",
@@ -1269,6 +1255,20 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>We recently launchedClaude 2.1, our state-of-the-art model offering a 200K token context window - the equivalent of around 500 pages of information. Claude 2.1 excels at real-world retrieval tasks across longer contexts.Claude 2.1 was trained using large amounts of feedback on long document tasks that our users find valuable, like summarizing an S-1 length document. This data included real tasks performed on real documents, with Claude being trained to make fewer mistakes and to avoid expressing unsupported claims.Being trained on real-world, complex retrieval tasks is why Claude 2.1 shows a 30% reduction in incorrect answers compared with Claude 2.0, and a 3-4x lower rate of mistakenly stating that a document supports a claim when it does not.Additionally, Claude's memory is improved over these very long contexts:</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/agent-capabilities-api",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "title": "New capabilities for building agents on the Anthropic API",
+      "date_published": "2023-12-04T12:00:00+00:00",
+      "date_modified": "2023-12-04T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/claude-2-1",
