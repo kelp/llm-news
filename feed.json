@@ -403,6 +403,20 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing that Claude models are helping power Alexa+. This collaboration is part of our ongoing partnership with Amazon to deliver advanced AI technology to businesses and consumers around the world.</p>"
     },
     {
+      "id": "https://www.anthropic.com/news/agent-capabilities-api",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "title": "New capabilities for building agents on the Anthropic API",
+      "date_published": "2025-02-25T12:00:00+00:00",
+      "date_modified": "2025-02-25T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/claude-3-7-sonnet",
       "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
       "title": "Claude 3.7 Sonnet and Claude Code",
@@ -1227,20 +1241,6 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Over half of the world\u2019s population will vote this year with high profile elections taking place around the world, including in the United States, India, Europe, and many other countries and regions. At Anthropic, we\u2019ve been preparing since last July for how our AI systems might be used during elections. In this post, we\u2019ll discuss some of the specific steps we\u2019ve taken to help us detect and mitigate potential misuse of our AI tools in political contexts.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/agent-capabilities-api",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "title": "New capabilities for building agents on the Anthropic API",
-      "date_published": "2024-01-22T12:00:00+00:00",
-      "date_modified": "2024-01-22T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/expanded-legal-protections-api-improvements",
