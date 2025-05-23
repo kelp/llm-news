@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-05-23T14:01:17.644634+00:00</updated>
+  <updated>2025-05-23T15:01:44.113437+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -549,6 +549,15 @@
     <published>2024-07-17T12:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.anthropic.com/news/agent-capabilities-api</id>
+    <title>New capabilities for building agents on the Anthropic API</title>
+    <updated>2024-07-17T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/agent-capabilities-api"/>
+    <category term="news" label="News"/>
+    <published>2024-07-17T12:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.anthropic.com/news/claude-brazil</id>
     <title>Claude is now available in Brazil</title>
     <updated>2024-08-01T12:00:00+00:00</updated>
@@ -700,15 +709,6 @@
     <link href="https://www.anthropic.com/news/the-case-for-targeted-regulation"/>
     <category term="news" label="News"/>
     <published>2024-10-31T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/agent-capabilities-api</id>
-    <title>New capabilities for building agents on the Anthropic API</title>
-    <updated>2024-11-02T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.&lt;/p&gt;</content>
-    <link href="https://www.anthropic.com/news/agent-capabilities-api"/>
-    <category term="news" label="News"/>
-    <published>2024-11-02T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/prompt-improver</id>
