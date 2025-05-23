@@ -739,20 +739,6 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>We're introducing Workspaces in the Anthropic API Console to help developers efficiently manage multiple Claude deployments. Workspaces are unique environments that enable you to organize resources, streamline access controls, and set custom spend and rate limits on a more granular level.</p>"
     },
     {
-      "id": "https://www.anthropic.com/news/agent-capabilities-api",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "title": "New capabilities for building agents on the Anthropic API",
-      "date_published": "2024-09-04T12:00:00+00:00",
-      "date_modified": "2024-09-04T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/claude-for-enterprise",
       "url": "https://www.anthropic.com/news/claude-for-enterprise",
       "title": "Claude for Enterprise",
@@ -1507,6 +1493,20 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>This week, Anthropic submitteda responseto the National Telecommunications and Information Administration\u2019s (NTIA)Request for Comment on AI Accountability. Today, we want to share our recommendations as they capture some of Anthropic\u2019s core AI policy proposals.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/agent-capabilities-api",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "title": "New capabilities for building agents on the Anthropic API",
+      "date_published": "2023-05-24T12:00:00+00:00",
+      "date_modified": "2023-05-24T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-series-c",
