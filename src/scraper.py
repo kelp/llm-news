@@ -232,7 +232,8 @@ class AnthropicScraper:
             'series-e', 'anthropic-raises', 'web-search', 'max-plan', 
             'team-plan', 'android-app', 'ios', 'claude-3-5', '3-5-sonnet',
             'detecting-and-countering', 'march-2025', 'elections-ai-2024',
-            'sonnet-3-7'
+            'sonnet-3-7', 'claude-4', 'activating-asl3', 'asl3-protections',
+            'safety-defenses', 'bug-bounty', 'web-search-api', 'ai-for-science'
         ]
         
         # Recent terms (0-6 months ago)
@@ -338,8 +339,70 @@ class AnthropicScraper:
             title = title_element.get_text(strip=True)
             url = f"https://www.anthropic.com{href}"
             
-            # Extract date using our comprehensive extraction function
-            date = self.extract_date_from_content(article, href)
+            # Extract date - first check for date in the article text
+            article_text = article.get_text(strip=True)
+            date = None
+            
+            # Look for date patterns in the article text
+            date_patterns = [
+                r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}',
+                r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2},\s+\d{4}',
+                r'\d{1,2}/\d{1,2}/\d{4}',
+                r'\d{4}-\d{2}-\d{2}'
+            ]
+            
+            for pattern in date_patterns:
+                date_match = re.search(pattern, article_text)
+                if date_match:
+                    date_str = date_match.group(0)
+                    # Remove date from title if it's appended
+                    if title.endswith(date_str):
+                        title = title[:-len(date_str)].strip()
+                    date = self._parse_date(date_str)
+                    logger.info(f"Found date '{date_str}' in article text for '{title}'")
+                    break
+            
+            # If no date found in article text, check parent and siblings
+            if not date and article.parent:
+                # First check the parent's full text
+                parent_text = article.parent.get_text(strip=True)
+                for pattern in date_patterns:
+                    # Look for dates that are likely associated with this article
+                    # by checking if the date appears after the title
+                    if title in parent_text:
+                        title_pos = parent_text.find(title)
+                        search_text = parent_text[title_pos:]
+                        date_match = re.search(pattern, search_text)
+                        if date_match:
+                            date_str = date_match.group(0)
+                            date = self._parse_date(date_str)
+                            logger.info(f"Found date '{date_str}' in parent text after title for '{title}'")
+                            break
+                
+                # If still no date, check immediate siblings
+                if not date:
+                    # Get all siblings
+                    siblings = list(article.parent.children)
+                    article_index = siblings.index(article)
+                    
+                    # Check next few siblings for date
+                    for i in range(article_index + 1, min(article_index + 5, len(siblings))):
+                        sibling = siblings[i]
+                        if hasattr(sibling, 'get_text'):
+                            sibling_text = sibling.get_text(strip=True)
+                            for pattern in date_patterns:
+                                date_match = re.search(pattern, sibling_text)
+                                if date_match:
+                                    date_str = date_match.group(0)
+                                    date = self._parse_date(date_str)
+                                    logger.info(f"Found date '{date_str}' in sibling element for '{title}'")
+                                    break
+                            if date:
+                                break
+            
+            # If still no date found, use the extraction function
+            if not date:
+                date = self.extract_date_from_content(article, href)
             
             articles.append({
                 "title": title,
