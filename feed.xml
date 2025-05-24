@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-05-24T16:37:50.307361+00:00</updated>
+  <updated>2025-05-24T17:01:37.332290+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -756,15 +756,6 @@
     <published>2024-12-12T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.anthropic.com/news/agent-capabilities-api</id>
-    <title>New capabilities for building agents on the Anthropic API</title>
-    <updated>2025-01-09T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.&lt;/p&gt;</content>
-    <link href="https://www.anthropic.com/news/agent-capabilities-api"/>
-    <category term="news" label="News"/>
-    <published>2025-01-09T12:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai</id>
     <title>Anthropic achieves ISO 42001 certification for responsible AI</title>
     <updated>2025-01-13T12:00:00+00:00</updated>
@@ -1076,6 +1067,15 @@
     <updated>2025-05-22T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We have activated the AI Safety Level 3 (ASL-3) Deployment and Security Standards described in Anthropic’s Responsible Scaling Policy (RSP) in conjunction with launching Claude Opus 4. The ASL-3 Security Standard involves increased internal security measures that make it harder to steal model weights, while the corresponding Deployment Standard covers a narrowly targeted set of deployment measures designed to limit the risk of Claude being misused specifically for the development or acquisition of chemical, biological, radiological, and nuclear (CBRN) weapons. These measures should not lead Claude to refuse queries except on a very narrow set of topics.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/activating-asl3-protections"/>
+    <category term="news" label="News"/>
+    <published>2025-05-22T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/agent-capabilities-api</id>
+    <title>New capabilities for building agents on the Anthropic API</title>
+    <updated>2025-05-22T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/agent-capabilities-api"/>
     <category term="news" label="News"/>
     <published>2025-05-22T12:00:00+00:00</published>
   </entry>
