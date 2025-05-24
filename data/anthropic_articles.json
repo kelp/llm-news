@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748059295.3393867,
+  "timestamp": 1748066497.499073,
   "articles": [
     {
       "title": "Activating AI Safety Level 3 Protections",
@@ -399,13 +399,6 @@
       "summary": "The rapid progression of AI model capabilities demands an equally swift advancement in safety protocols. As we work on developing the next generation of our AI safeguarding systems, we\u2019re expanding our bug bounty program to introduce a new initiative focused on finding flaws in the mitigations we use to prevent misuse of our models."
     },
     {
-      "title": "New capabilities for building agents on the Anthropic API",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "date": "2024-08-04T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
-    },
-    {
       "title": "Claude is now available in Brazil",
       "url": "https://www.anthropic.com/news/claude-brazil",
       "date": "2024-08-01T12:00:00+00:00",
@@ -530,6 +523,13 @@
       "date": "2024-05-20T12:00:00+00:00",
       "source": "news",
       "summary": "Last summer we published our firstResponsible Scaling Policy (RSP), which focuses on addressing catastrophic safety failures and misuse of frontier models. In adopting this policy, our primary goal is to help turn high-level safety concepts into practical guidelines for fast-moving technical organizations and demonstrate their viability as possible standards. As we operationalize the policy, we expect to learn a great deal and plan to share our findings. This post shares reflections from implementing the policy so far. We are also working on an updated RSP and will share this soon."
+    },
+    {
+      "title": "New capabilities for building agents on the Anthropic API",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "date": "2024-05-18T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
     },
     {
       "title": "Mike Krieger joins Anthropic as Chief Product Officer",
