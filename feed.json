@@ -11,6 +11,90 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/agent-capabilities-api",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "title": "New capabilities for building agents on the Anthropic API",
+      "date_published": "2025-05-22T12:00:00+00:00",
+      "date_modified": "2025-05-22T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/activating-asl3-protections",
+      "url": "https://www.anthropic.com/news/activating-asl3-protections",
+      "title": "Activating AI Safety Level 3 Protections",
+      "date_published": "2025-05-22T12:00:00+00:00",
+      "date_modified": "2025-05-22T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>We have activated the AI Safety Level 3 (ASL-3) Deployment and Security Standards described in Anthropic\u2019s Responsible Scaling Policy (RSP) in conjunction with launching Claude Opus 4. The ASL-3 Security Standard involves increased internal security measures that make it harder to steal model weights, while the corresponding Deployment Standard covers a narrowly targeted set of deployment measures designed to limit the risk of Claude being misused specifically for the development or acquisition of chemical, biological, radiological, and nuclear (CBRN) weapons. These measures should not lead Claude to refuse queries except on a very narrow set of topics.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-4",
+      "url": "https://www.anthropic.com/news/claude-4",
+      "title": "Introducing Claude 4",
+      "date_published": "2025-05-22T12:00:00+00:00",
+      "date_modified": "2025-05-22T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re introducing the next generation of Claude models:Claude Opus 4andClaude Sonnet 4, setting new standards for coding, advanced reasoning, and AI agents.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program",
+      "url": "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program",
+      "title": "Testing our safety defenses with a new bug bounty program",
+      "date_published": "2025-05-14T12:00:00+00:00",
+      "date_modified": "2025-05-14T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're launching a new bug bounty program to stress-test our latest safety measures. Similar to the program we announced lastsummer, we're challenging researchers to find universal jailbreaks in safety classifiers that we haven't yet deployed publicly. These safeguards are part of the advanced protections we\u2019ve developed to help us meet the AI Safety Level-3 (ASL-3) Deployment Standard as part of ourResponsible Scaling Policy, the framework that governs how we develop and deploy increasingly capable AI models safely.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/web-search-api",
+      "url": "https://www.anthropic.com/news/web-search-api",
+      "title": "Introducing web search on the Anthropic API",
+      "date_published": "2025-05-07T12:00:00+00:00",
+      "date_modified": "2025-05-07T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're introducing web search on the Anthropic API\u2014a new tool that gives Claude access to current information from across the web. With web search enabled, developers can build Claude-powered applications and agents that deliver up-to-date insights.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/ai-for-science-program",
+      "url": "https://www.anthropic.com/news/ai-for-science-program",
+      "title": "Introducing Anthropic's AI for Science Program",
+      "date_published": "2025-05-05T12:00:00+00:00",
+      "date_modified": "2025-05-05T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re launching Anthropic's AI for Science program \u2013 a new initiative designed to accelerate scientific research and discovery through access to our API. This program will provide free API credits to support researchers working on high-impact scientific projects, with a particular focus on biology and life sciences applications.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/integrations",
       "url": "https://www.anthropic.com/news/integrations",
       "title": "Claude can now connect to your world",
@@ -106,7 +190,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today we're introducing the Max plan\u2014designed for those who collaborate with Claude extensively and need expanded access for their most important work.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Four major upgrades to the Max plan</p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
