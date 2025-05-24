@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748092078.755318,
+  "timestamp": 1748098878.14597,
   "articles": [
     {
       "title": "Activating AI Safety Level 3 Protections",
@@ -441,6 +441,13 @@
       "summary": "Arobust, third-party evaluation ecosystemis essential for assessing AI capabilities and risks, but the current evaluations landscape is limited. Developing high-quality, safety-relevant evaluations remains challenging, and the demand is outpacing the supply. To address this, today we're introducing a new initiative to fund evaluations developed by third-party organizations that can effectively measure advanced capabilities in AI models. Our investment in these evaluations is intended to elevate the entire field of AI safety, providing valuable tools that benefit the whole ecosystem."
     },
     {
+      "title": "New capabilities for building agents on the Anthropic API",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "date": "2024-06-30T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
+    },
+    {
       "title": "Expanding access to Claude for government",
       "url": "https://www.anthropic.com/news/expanding-access-to-claude-for-government",
       "date": "2024-06-26T12:00:00+00:00",
@@ -642,13 +649,6 @@
       "date": "2023-11-01T12:00:00+00:00",
       "source": "news",
       "summary": "Before I get into Anthropic\u2019sResponsible Scaling Policy (RSP), it\u2019s worth explaining some of the unique challenges around measuring AI risks that led us to develop our RSP. The most important thing to understand about AI is how quickly it is moving. A few years ago, AI systems could barely string together a coherent sentence. Today they can pass medical exams, write poetry, and tell jokes. This rapid progress is ultimately driven by the amount of available computation, which is growing by 8x per year and is unlikely to slow down in the next few years. Thegeneraltrend of rapid improvement is predictable, however, it is actually very difficult to predict when AI will acquirespecificskills or knowledge. This unfortunately includes dangerous skills, such as the ability to construct biological weapons1. We are thus facing a number of potential AI-related threats which, although relatively limited given today\u2019s systems, are likely to become very serious at some unknown point in the near future. This is very different from most other industries: imagine if each new model of car had some chance of spontaneously sprouting a new (and dangerous) power, like the ability to fire a rocket boost or accelerate to supersonic speeds.We need both a way to frequently monitor these emerging risks, and a protocol for responding appropriately when they occur. Responsible scaling policies\u2014initially suggested by the Alignment Research Center\u2014attempt to meet this need. Anthropic published its RSP in September, and was the first major AI company to do so. It has two major components:"
-    },
-    {
-      "title": "New capabilities for building agents on the Anthropic API",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "date": "2023-10-05T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
     },
     {
       "title": "Claude on Amazon Bedrock now available to every AWS customer",
