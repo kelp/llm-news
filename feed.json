@@ -781,6 +781,20 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re makingArtifactsavailable for allClaude.aiusers across our Free, Pro, and Team plans. And now, you can create and view Artifacts on ouriOSandAndroidapps.</p>"
     },
     {
+      "id": "https://www.anthropic.com/news/agent-capabilities-api",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "title": "New capabilities for building agents on the Anthropic API",
+      "date_published": "2024-08-22T12:00:00+00:00",
+      "date_modified": "2024-08-22T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/prompt-caching",
       "url": "https://www.anthropic.com/news/prompt-caching",
       "title": "Prompt caching with Claude",
@@ -1059,20 +1073,6 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Last summer we published our firstResponsible Scaling Policy (RSP), which focuses on addressing catastrophic safety failures and misuse of frontier models. In adopting this policy, our primary goal is to help turn high-level safety concepts into practical guidelines for fast-moving technical organizations and demonstrate their viability as possible standards. As we operationalize the policy, we expect to learn a great deal and plan to share our findings. This post shares reflections from implementing the policy so far. We are also working on an updated RSP and will share this soon.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/agent-capabilities-api",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "title": "New capabilities for building agents on the Anthropic API",
-      "date_published": "2024-05-18T12:00:00+00:00",
-      "date_modified": "2024-05-18T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/mike-krieger-joins-anthropic",
