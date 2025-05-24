@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748098878.14597,
+  "timestamp": 1748102491.2641313,
   "articles": [
     {
       "title": "Activating AI Safety Level 3 Protections",
@@ -245,6 +245,13 @@
       "summary": "We are excited to announce that Anthropic has achieved accredited certification under the newISO/IEC 42001:2023 standardfor our AI management system. ISO 42001 is the first international standard outlining requirements for AI governance and helps ensure AI systems are developed and used responsibly."
     },
     {
+      "title": "New capabilities for building agents on the Anthropic API",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "date": "2025-01-09T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
+    },
+    {
       "title": "Elections and AI in 2024: observations and learnings",
       "url": "https://www.anthropic.com/news/elections-ai-2024",
       "date": "2024-12-12T12:00:00+00:00",
@@ -439,13 +446,6 @@
       "date": "2024-07-01T12:00:00+00:00",
       "source": "news",
       "summary": "Arobust, third-party evaluation ecosystemis essential for assessing AI capabilities and risks, but the current evaluations landscape is limited. Developing high-quality, safety-relevant evaluations remains challenging, and the demand is outpacing the supply. To address this, today we're introducing a new initiative to fund evaluations developed by third-party organizations that can effectively measure advanced capabilities in AI models. Our investment in these evaluations is intended to elevate the entire field of AI safety, providing valuable tools that benefit the whole ecosystem."
-    },
-    {
-      "title": "New capabilities for building agents on the Anthropic API",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "date": "2024-06-30T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
     },
     {
       "title": "Expanding access to Claude for government",
