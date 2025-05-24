@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-05-24T09:01:20.674565+00:00</updated>
+  <updated>2025-05-24T10:01:31.979653+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -286,6 +286,15 @@
     <link href="https://www.anthropic.com/news/expanded-legal-protections-api-improvements"/>
     <category term="news" label="News"/>
     <published>2023-12-19T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/agent-capabilities-api</id>
+    <title>New capabilities for building agents on the Anthropic API</title>
+    <updated>2024-01-06T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/agent-capabilities-api"/>
+    <category term="news" label="News"/>
+    <published>2024-01-06T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/preparing-for-global-elections-in-2024</id>
@@ -574,15 +583,6 @@
     <link href="https://www.anthropic.com/news/prompt-caching"/>
     <category term="news" label="News"/>
     <published>2024-08-14T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/agent-capabilities-api</id>
-    <title>New capabilities for building agents on the Anthropic API</title>
-    <updated>2024-08-22T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.&lt;/p&gt;</content>
-    <link href="https://www.anthropic.com/news/agent-capabilities-api"/>
-    <category term="news" label="News"/>
-    <published>2024-08-22T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/artifacts</id>
