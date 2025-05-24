@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748041295.7441645,
+  "timestamp": 1748045050.4506943,
   "articles": [
     {
       "title": "Activating AI Safety Level 3 Protections",
@@ -245,13 +245,6 @@
       "summary": "We are excited to announce that Anthropic has achieved accredited certification under the newISO/IEC 42001:2023 standardfor our AI management system. ISO 42001 is the first international standard outlining requirements for AI governance and helps ensure AI systems are developed and used responsibly."
     },
     {
-      "title": "New capabilities for building agents on the Anthropic API",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "date": "2025-01-03T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
-    },
-    {
       "title": "Elections and AI in 2024: observations and learnings",
       "url": "https://www.anthropic.com/news/elections-ai-2024",
       "date": "2024-12-12T12:00:00+00:00",
@@ -411,6 +404,13 @@
       "date": "2024-08-01T12:00:00+00:00",
       "source": "news",
       "summary": "Claude, Anthropic\u2019s trusted AI assistant, is now available in Brazil. Starting today, consumers and businesses in Brazil will be able to access Claude via:"
+    },
+    {
+      "title": "New capabilities for building agents on the Anthropic API",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "date": "2024-07-21T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour."
     },
     {
       "title": "Anthropic partners with Menlo Ventures to launch Anthology Fund",
