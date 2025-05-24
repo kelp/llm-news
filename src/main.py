@@ -48,6 +48,11 @@ def main():
         default=14400,  # 4 hours in seconds
         help="Maximum age (in seconds) of cached data before forcing a check"
     )
+    parser.add_argument(
+        "--http-cache-file",
+        default="http_cache.json",
+        help="Filename for HTTP cache (default: http_cache.json)"
+    )
     args = parser.parse_args()
     
     # Create directories if they don't exist
@@ -58,7 +63,7 @@ def main():
     start_time = datetime.now(timezone.utc)
     
     # Initialize scraper
-    scraper = AnthropicScraper(cache_dir=args.cache_dir)
+    scraper = AnthropicScraper(cache_dir=args.cache_dir, http_cache_filename=args.http_cache_file)
     
     # Determine the refresh strategy based on args and cache age
     check_for_updates = True

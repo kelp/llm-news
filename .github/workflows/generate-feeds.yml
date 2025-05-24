@@ -26,7 +26,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: data
-          key: ${{ runner.os }}-anthropic-data-${{ github.run_id }}
+          key: ${{ runner.os }}-anthropic-data-${{ hashFiles('data/anthropic_articles.json') }}
           restore-keys: |
             ${{ runner.os }}-anthropic-data-
       
@@ -39,17 +39,17 @@ jobs:
       # Use conditional checks for hourly runs
       - name: Check for updates (hourly run)
         if: github.event_name == 'schedule' && github.event.schedule != '0 0 * * 0'
-        run: python src/main.py --check-updates --max-age 3600
+        run: python src/main.py --check-updates --max-age 3600 --http-cache-file github_http_cache.json
       
       # Force refresh for weekly runs
       - name: Force refresh (weekly run)
         if: github.event_name == 'schedule' && github.event.schedule == '0 0 * * 0'
-        run: python src/main.py --force-refresh
+        run: python src/main.py --force-refresh --http-cache-file github_http_cache.json
       
       # For manual and push triggers, use the default behavior
       - name: Normal update (manual/push)
         if: github.event_name != 'schedule'
-        run: python src/main.py
+        run: python src/main.py --http-cache-file github_http_cache.json
       
       - uses: peaceiris/actions-gh-pages@v3
         with:

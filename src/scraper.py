@@ -26,10 +26,10 @@ class AnthropicScraper:
     NEWS_URL = "https://www.anthropic.com/news"
     RESEARCH_URL = "https://www.anthropic.com/research"
     
-    def __init__(self, cache_dir: str = "data"):
-        """Initialize the scraper with cache directory."""
+    def __init__(self, cache_dir: str = "data", http_cache_filename: str = "http_cache.json"):
+        """Initialize the scraper with cache directory and optional HTTP cache filename."""
         self.cache_dir = cache_dir
-        self.http_cache_file = os.path.join(cache_dir, "http_cache.json")
+        self.http_cache_file = os.path.join(cache_dir, http_cache_filename)
         self.articles_cache_file = os.path.join(cache_dir, "anthropic_articles.json")
         self.http_cache = self._load_http_cache()
         os.makedirs(cache_dir, exist_ok=True)

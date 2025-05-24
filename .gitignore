@@ -13,6 +13,6 @@ venv.bak/
 .env
 .venv
 data/potential_json.txt
-data/http_cache.json
+data/github_http_cache.json
 test_data/
 test_output/
