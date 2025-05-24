@@ -697,6 +697,20 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Update: As of December 17, 2024, the Message Batches API is Generally Available on the Anthropic API. Customers using Claude in Amazon Bedrock can use batch inference. Batch predictions is also available in preview on Google Cloud\u2019s Vertex AI.We\u2019re introducing a newMessage Batches API\u2014a powerful, cost-effective way to process large volumes of queries asynchronously.</p>"
     },
     {
+      "id": "https://www.anthropic.com/news/agent-capabilities-api",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "title": "New capabilities for building agents on the Anthropic API",
+      "date_published": "2024-09-28T12:00:00+00:00",
+      "date_modified": "2024-09-28T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga",
       "url": "https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga",
       "title": "Fine-tuning for Claude 3 Haiku in Amazon Bedrock is now generally available",
@@ -821,20 +835,6 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Claude, Anthropic\u2019s trusted AI assistant, is now available in Brazil. Starting today, consumers and businesses in Brazil will be able to access Claude via:</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/agent-capabilities-api",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "title": "New capabilities for building agents on the Anthropic API",
-      "date_published": "2024-07-21T12:00:00+00:00",
-      "date_modified": "2024-07-21T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund",
