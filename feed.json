@@ -473,6 +473,20 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Lyft is working with Anthropic to introduce customer-first, AI-powered Lyft products. This is to enhance the rideshare experience for its community of more than 40 million annual riders and over 1 million drivers. The work includes early research testing of new models and technology, alongside initiatives to advance Lyft's engineering capabilities.</p>"
     },
     {
+      "id": "https://www.anthropic.com/news/agent-capabilities-api",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "title": "New capabilities for building agents on the Anthropic API",
+      "date_published": "2025-02-05T12:00:00+00:00",
+      "date_modified": "2025-02-05T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/introducing-citations-api",
       "url": "https://www.anthropic.com/news/introducing-citations-api",
       "title": "Introducing Citations on the Anthropic API",
@@ -695,20 +709,6 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Update: As of December 17, 2024, the Message Batches API is Generally Available on the Anthropic API. Customers using Claude in Amazon Bedrock can use batch inference. Batch predictions is also available in preview on Google Cloud\u2019s Vertex AI.We\u2019re introducing a newMessage Batches API\u2014a powerful, cost-effective way to process large volumes of queries asynchronously.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/agent-capabilities-api",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "title": "New capabilities for building agents on the Anthropic API",
-      "date_published": "2024-09-28T12:00:00+00:00",
-      "date_modified": "2024-09-28T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga",
