@@ -11,18 +11,18 @@
   ],
   "items": [
     {
-      "id": "https://www.anthropic.com/news/agent-capabilities-api",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "title": "New capabilities for building agents on the Anthropic API",
-      "date_published": "2025-05-22T12:00:00+00:00",
-      "date_modified": "2025-05-22T12:00:00+00:00",
+      "id": "https://www.anthropic.com/news/reed-hastings",
+      "url": "https://www.anthropic.com/news/reed-hastings",
+      "title": "Reed Hastings appointed to Anthropic\u2019s board of directors",
+      "date_published": "2025-05-28T12:00:00+00:00",
+      "date_modified": "2025-05-28T12:00:00+00:00",
       "tags": [
         {
           "term": "news",
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/activating-asl3-protections",
@@ -51,6 +51,20 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re introducing the next generation of Claude models:Claude Opus 4andClaude Sonnet 4, setting new standards for coding, advanced reasoning, and AI agents.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/agent-capabilities-api",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "title": "New capabilities for building agents on the Anthropic API",
+      "date_published": "2025-05-22T12:00:00+00:00",
+      "date_modified": "2025-05-22T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program",
