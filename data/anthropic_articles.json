@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748732489.298684,
+  "timestamp": 1748736306.8513694,
   "articles": [
     {
       "title": "Reed Hastings appointed to Anthropic\u2019s board of directors",
@@ -144,7 +144,7 @@
       "url": "https://www.anthropic.com/news/web-search",
       "date": "2025-03-20T12:00:00+00:00",
       "source": "news",
-      "summary": "You can now use Claude to search the internet to provide more up-to-date and relevant responses. With web search, Claude has access to the latest events and information, boosting its accuracy on tasks that benefit from the most recent data."
+      "summary": "Web search is now available globally on all Claude plans"
     },
     {
       "title": "Anthropic\u2019s Response to Governor Newsom\u2019s AI Working Group Draft Report",
