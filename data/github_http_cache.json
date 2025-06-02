@@ -1,18 +1,18 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1748831617.4667573,
-    "last_modified_check": 1748831617.4667578,
-    "date": "Mon, 02 Jun 2025 02:33:37 GMT"
+    "last_checked": 1748834715.702286,
+    "last_modified_check": 1748834715.7022862,
+    "date": "Mon, 02 Jun 2025 03:25:15 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1748831617.7473583,
-    "last_modified_check": 1748831617.7473586,
-    "date": "Mon, 02 Jun 2025 02:33:37 GMT"
+    "last_checked": 1748834716.200104,
+    "last_modified_check": 1748834716.2001045,
+    "date": "Mon, 02 Jun 2025 03:25:15 GMT"
   },
   "https://www.anthropic.com/news/reed-hastings": {
-    "last_checked": 1748831617.8958733,
-    "last_modified_check": 1748831617.8958735,
-    "date": "Mon, 02 Jun 2025 02:33:37 GMT",
+    "last_checked": 1748834716.3324594,
+    "last_modified_check": 1748834716.3324597,
+    "date": "Mon, 02 Jun 2025 03:25:16 GMT",
     "content_cache": "Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg."
   }
 }
