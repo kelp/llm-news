@@ -1,24 +1,24 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1749150098.8469036,
-    "last_modified_check": 1749150098.846904,
-    "date": "Thu, 05 Jun 2025 19:01:38 GMT"
+    "last_checked": 1749153713.9460924,
+    "last_modified_check": 1749153713.9460926,
+    "date": "Thu, 05 Jun 2025 20:01:53 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1749150099.1475513,
-    "last_modified_check": 1749150099.1475518,
-    "date": "Thu, 05 Jun 2025 19:01:39 GMT"
+    "last_checked": 1749153714.3309767,
+    "last_modified_check": 1749153714.3309777,
+    "date": "Thu, 05 Jun 2025 20:01:54 GMT"
   },
   "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers": {
-    "last_checked": 1749150099.3500516,
-    "last_modified_check": 1749150099.3500519,
-    "date": "Thu, 05 Jun 2025 19:01:39 GMT",
+    "last_checked": 1749153714.560192,
+    "last_modified_check": 1749153714.5601926,
+    "date": "Thu, 05 Jun 2025 20:01:54 GMT",
     "content_cache": "We\u2019re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments."
   },
   "https://www.anthropic.com/news/reed-hastings": {
-    "last_checked": 1749150099.5166054,
-    "last_modified_check": 1749150099.5166056,
-    "date": "Thu, 05 Jun 2025 19:01:39 GMT",
+    "last_checked": 1749153714.7933109,
+    "last_modified_check": 1749153714.7933116,
+    "date": "Thu, 05 Jun 2025 20:01:54 GMT",
     "content_cache": "Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg."
   }
 }
