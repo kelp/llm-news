@@ -1,6 +1,13 @@
 {
-  "timestamp": 1749124914.8286614,
+  "timestamp": 1749129033.6944613,
   "articles": [
+    {
+      "title": "Claude Gov Models for U.S. National Security Customers",
+      "url": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
+      "date": "2025-06-06T12:00:00+00:00",
+      "source": "news",
+      "summary": "We\u2019re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments."
+    },
     {
       "title": "Reed Hastings appointed to Anthropic\u2019s board of directors",
       "url": "https://www.anthropic.com/news/reed-hastings",

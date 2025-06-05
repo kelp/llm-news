@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-06-05T12:01:54.830297+00:00</updated>
+  <updated>2025-06-05T13:10:33.696098+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1087,5 +1087,14 @@
     <link href="https://www.anthropic.com/news/reed-hastings"/>
     <category term="news" label="News"/>
     <published>2025-05-28T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers</id>
+    <title>Claude Gov Models for U.S. National Security Customers</title>
+    <updated>2025-06-06T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We’re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers"/>
+    <category term="news" label="News"/>
+    <published>2025-06-06T12:00:00+00:00</published>
   </entry>
 </feed>
