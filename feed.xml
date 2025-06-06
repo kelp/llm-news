@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-06-06T13:09:39.647726+00:00</updated>
+  <updated>2025-06-06T14:01:18.733086+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1096,5 +1096,14 @@
     <link href="https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers"/>
     <category term="news" label="News"/>
     <published>2025-06-06T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust</id>
+    <title>National Security Expert Richard Fontaine appointed to Anthropic’s Long-Term Benefit Trust</title>
+    <updated>2025-06-07T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic's Long-Term Benefit Trust today announced the appointment of Richard Fontaine, CEO of the Center for a New American Security, as a new member of the Trust. The Long-Term Benefit Trust (LTBT) is an independent body designed to help Anthropic achieve its public benefit mission.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust"/>
+    <category term="news" label="News"/>
+    <published>2025-06-07T12:00:00+00:00</published>
   </entry>
 </feed>

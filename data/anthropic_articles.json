@@ -1,6 +1,13 @@
 {
-  "timestamp": 1749215379.645241,
+  "timestamp": 1749218478.7314427,
   "articles": [
+    {
+      "title": "National Security Expert Richard Fontaine appointed to Anthropic\u2019s Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust",
+      "date": "2025-06-07T12:00:00+00:00",
+      "source": "news",
+      "summary": "Anthropic's Long-Term Benefit Trust today announced the appointment of Richard Fontaine, CEO of the Center for a New American Security, as a new member of the Trust. The Long-Term Benefit Trust (LTBT) is an independent body designed to help Anthropic achieve its public benefit mission."
+    },
     {
       "title": "Claude Gov Models for U.S. National Security Customers",
       "url": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
