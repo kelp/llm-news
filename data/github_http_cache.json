@@ -1,24 +1,24 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1749196907.571732,
-    "last_modified_check": 1749196907.5717323,
-    "date": "Fri, 06 Jun 2025 08:01:47 GMT"
+    "last_checked": 1749200484.4752705,
+    "last_modified_check": 1749200484.4752707,
+    "date": "Fri, 06 Jun 2025 09:01:24 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1749196907.8557382,
-    "last_modified_check": 1749196907.8557384,
-    "date": "Fri, 06 Jun 2025 08:01:47 GMT"
+    "last_checked": 1749200484.7780507,
+    "last_modified_check": 1749200484.7780511,
+    "date": "Fri, 06 Jun 2025 09:01:24 GMT"
   },
   "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers": {
-    "last_checked": 1749196908.036043,
-    "last_modified_check": 1749196908.0360432,
-    "date": "Fri, 06 Jun 2025 08:01:48 GMT",
+    "last_checked": 1749200484.978034,
+    "last_modified_check": 1749200484.9780345,
+    "date": "Fri, 06 Jun 2025 09:01:24 GMT",
     "content_cache": "We\u2019re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments."
   },
   "https://www.anthropic.com/news/reed-hastings": {
-    "last_checked": 1749196908.2530468,
-    "last_modified_check": 1749196908.253047,
-    "date": "Fri, 06 Jun 2025 08:01:48 GMT",
+    "last_checked": 1749200485.1380172,
+    "last_modified_check": 1749200485.1380177,
+    "date": "Fri, 06 Jun 2025 09:01:25 GMT",
     "content_cache": "Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg."
   }
 }
