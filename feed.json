@@ -330,7 +330,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Web search is now available globally on all Claude plans</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>You can now use Claude to search the internet to provide more up-to-date and relevant responses. With web search, Claude has access to the latest events and information, boosting its accuracy on tasks that benefit from the most recent data.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
