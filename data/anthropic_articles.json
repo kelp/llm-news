@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749341076.9561212,
+  "timestamp": 1749341086.7681532,
   "articles": [
     {
       "title": "National Security Expert Richard Fontaine appointed to Anthropic\u2019s Long-Term Benefit Trust",
@@ -158,7 +158,7 @@
       "url": "https://www.anthropic.com/news/web-search",
       "date": "2025-03-20T12:00:00+00:00",
       "source": "news",
-      "summary": "You can now use Claude to search the internet to provide more up-to-date and relevant responses. With web search, Claude has access to the latest events and information, boosting its accuracy on tasks that benefit from the most recent data."
+      "summary": "Web search is now available globally on all Claude plans"
     },
     {
       "title": "Anthropic\u2019s Response to Governor Newsom\u2019s AI Working Group Draft Report",
