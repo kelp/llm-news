@@ -1,30 +1,30 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1749442071.5996125,
-    "last_modified_check": 1749442071.5996127,
-    "date": "Mon, 09 Jun 2025 04:07:51 GMT"
+    "last_checked": 1749445321.9567423,
+    "last_modified_check": 1749445321.9567428,
+    "date": "Mon, 09 Jun 2025 05:02:01 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1749442071.9309983,
-    "last_modified_check": 1749442071.9309988,
-    "date": "Mon, 09 Jun 2025 04:07:51 GMT"
+    "last_checked": 1749445322.287432,
+    "last_modified_check": 1749445322.2874322,
+    "date": "Mon, 09 Jun 2025 05:02:02 GMT"
   },
   "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust": {
-    "last_checked": 1749442072.208478,
-    "last_modified_check": 1749442072.2084785,
-    "date": "Mon, 09 Jun 2025 04:07:52 GMT",
+    "last_checked": 1749445322.441322,
+    "last_modified_check": 1749445322.4413223,
+    "date": "Mon, 09 Jun 2025 05:02:02 GMT",
     "content_cache": "Anthropic's Long-Term Benefit Trust today announced the appointment of Richard Fontaine, CEO of the Center for a New American Security, as a new member of the Trust. The Long-Term Benefit Trust (LTBT) is an independent body designed to help Anthropic achieve its public benefit mission."
   },
   "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers": {
-    "last_checked": 1749442072.3424828,
-    "last_modified_check": 1749442072.342483,
-    "date": "Mon, 09 Jun 2025 04:07:52 GMT",
+    "last_checked": 1749445322.5952795,
+    "last_modified_check": 1749445322.5952797,
+    "date": "Mon, 09 Jun 2025 05:02:02 GMT",
     "content_cache": "We\u2019re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments."
   },
   "https://www.anthropic.com/news/reed-hastings": {
-    "last_checked": 1749442072.7380395,
-    "last_modified_check": 1749442072.7380402,
-    "date": "Mon, 09 Jun 2025 04:07:52 GMT",
+    "last_checked": 1749445322.7778342,
+    "last_modified_check": 1749445322.7778344,
+    "date": "Mon, 09 Jun 2025 05:02:02 GMT",
     "content_cache": "Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg."
   }
 }
