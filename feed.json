@@ -39,6 +39,20 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>We\u2019re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments.</p>"
     },
     {
+      "id": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
+      "url": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
+      "title": "Claude in Amazon Bedrock: Approved for Use in FedRAMP High and DoD IL4/5 Workloads",
+      "date_published": "2025-05-28T12:00:00+00:00",
+      "date_modified": "2025-05-28T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads through Amazon Bedrock in AWS GovCloud (US) regions.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/reed-hastings",
       "url": "https://www.anthropic.com/news/reed-hastings",
       "title": "Reed Hastings appointed to Anthropic\u2019s board of directors",
