@@ -50,7 +50,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads through Amazon Bedrock in AWS GovCloud (US) regions.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/reed-hastings",

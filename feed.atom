@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-06-11T17:01:28.701554+00:00</updated>
+  <updated>2025-06-11T18:01:49.320772+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1092,7 +1092,7 @@
     <id>https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high</id>
     <title>Claude in Amazon Bedrock: Approved for Use in FedRAMP High and DoD IL4/5 Workloads</title>
     <updated>2025-05-28T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads through Amazon Bedrock in AWS GovCloud (US) regions.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high"/>
     <category term="news" label="News"/>
     <published>2025-05-28T12:00:00+00:00</published>
