@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-06-15T00:04:40.925244+00:00</updated>
+  <updated>2025-06-15T00:04:52.228784+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -903,7 +903,7 @@
     <id>https://www.anthropic.com/news/web-search</id>
     <title>Claude can now search the web</title>
     <updated>2025-03-20T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;You can now use Claude to search the internet to provide more up-to-date and relevant responses. With web search, Claude has access to the latest events and information, boosting its accuracy on tasks that benefit from the most recent data.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Web search is now available globally on all Claude plans&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/web-search"/>
     <category term="news" label="News"/>
     <published>2025-03-20T12:00:00+00:00</published>
