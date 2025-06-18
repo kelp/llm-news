@@ -1,6 +1,13 @@
 {
-  "timestamp": 1750258896.8082042,
+  "timestamp": 1750262507.6574183,
   "articles": [
+    {
+      "title": "Remote MCP support in Claude Code",
+      "url": "https://www.anthropic.com/news/claude-code-remote-mcp",
+      "date": "2025-06-18T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we\u2019re announcing support for remote MCP servers in Claude Code. Connect your favorite tools and data sources to personalize your coding experience without needing to manage local servers."
+    },
     {
       "title": "National Security Expert Richard Fontaine appointed to Anthropic\u2019s Long-Term Benefit Trust",
       "url": "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust",
