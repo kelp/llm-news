@@ -1,5 +1,5 @@
 {
-  "timestamp": 1750269701.7992039,
+  "timestamp": 1750273283.306923,
   "articles": [
     {
       "title": "Remote MCP support in Claude Code",
@@ -7,6 +7,13 @@
       "date": "2025-06-18T12:00:00+00:00",
       "source": "news",
       "summary": "Today, we\u2019re announcing support for remote MCP servers in Claude Code. Connect your favorite tools and data sources to personalize your coding experience without needing to manage local servers."
+    },
+    {
+      "title": "Claude in Amazon Bedrock: Approved for Use in FedRAMP High and DoD IL4/5 Workloads",
+      "url": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
+      "date": "2025-06-11T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions."
     },
     {
       "title": "National Security Expert Richard Fontaine appointed to Anthropic\u2019s Long-Term Benefit Trust",
@@ -21,13 +28,6 @@
       "date": "2025-06-06T12:00:00+00:00",
       "source": "news",
       "summary": "We\u2019re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments."
-    },
-    {
-      "title": "Claude in Amazon Bedrock: Approved for Use in FedRAMP High and DoD IL4/5 Workloads",
-      "url": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
-      "date": "2025-05-28T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions."
     },
     {
       "title": "Reed Hastings appointed to Anthropic\u2019s board of directors",

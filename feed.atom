@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-06-18T18:01:41.801693+00:00</updated>
+  <updated>2025-06-18T19:01:23.308611+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1089,15 +1089,6 @@
     <published>2025-05-28T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high</id>
-    <title>Claude in Amazon Bedrock: Approved for Use in FedRAMP High and DoD IL4/5 Workloads</title>
-    <updated>2025-05-28T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions.&lt;/p&gt;</content>
-    <link href="https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high"/>
-    <category term="news" label="News"/>
-    <published>2025-05-28T12:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers</id>
     <title>Claude Gov Models for U.S. National Security Customers</title>
     <updated>2025-06-06T12:00:00+00:00</updated>
@@ -1114,6 +1105,15 @@
     <link href="https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust"/>
     <category term="news" label="News"/>
     <published>2025-06-07T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high</id>
+    <title>Claude in Amazon Bedrock: Approved for Use in FedRAMP High and DoD IL4/5 Workloads</title>
+    <updated>2025-06-11T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high"/>
+    <category term="news" label="News"/>
+    <published>2025-06-11T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-code-remote-mcp</id>
