@@ -1,42 +1,42 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1750766501.6427445,
-    "last_modified_check": 1750766501.6427448,
-    "date": "Tue, 24 Jun 2025 12:01:41 GMT"
+    "last_checked": 1750770711.412885,
+    "last_modified_check": 1750770711.4128852,
+    "date": "Tue, 24 Jun 2025 13:11:51 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1750766501.9240499,
-    "last_modified_check": 1750766501.92405,
-    "date": "Tue, 24 Jun 2025 12:01:41 GMT"
+    "last_checked": 1750770711.6580057,
+    "last_modified_check": 1750770711.658006,
+    "date": "Tue, 24 Jun 2025 13:11:51 GMT"
   },
   "https://www.anthropic.com/news/claude-code-remote-mcp": {
-    "last_checked": 1750766502.2885396,
-    "last_modified_check": 1750766502.2885401,
-    "date": "Tue, 24 Jun 2025 12:01:42 GMT",
+    "last_checked": 1750770711.842475,
+    "last_modified_check": 1750770711.8424752,
+    "date": "Tue, 24 Jun 2025 13:11:51 GMT",
     "content_cache": "Today, we\u2019re announcing support for remote MCP servers in Claude Code. Connect your favorite tools and data sources to personalize your coding experience without needing to manage local servers."
   },
   "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high": {
-    "last_checked": 1750766502.447293,
-    "last_modified_check": 1750766502.4472935,
-    "date": "Tue, 24 Jun 2025 12:01:42 GMT",
+    "last_checked": 1750770722.713376,
+    "last_modified_check": 1750770722.7133765,
+    "date": "Tue, 24 Jun 2025 13:11:53 GMT",
     "content_cache": "Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions."
   },
   "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust": {
-    "last_checked": 1750766502.8163676,
-    "last_modified_check": 1750766502.8163683,
-    "date": "Tue, 24 Jun 2025 12:01:42 GMT",
+    "last_checked": 1750770722.884421,
+    "last_modified_check": 1750770722.8844213,
+    "date": "Tue, 24 Jun 2025 13:12:02 GMT",
     "content_cache": "Anthropic's Long-Term Benefit Trust today announced the appointment of Richard Fontaine, CEO of the Center for a New American Security, as a new member of the Trust. The Long-Term Benefit Trust (LTBT) is an independent body designed to help Anthropic achieve its public benefit mission."
   },
   "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers": {
-    "last_checked": 1750766502.9505231,
-    "last_modified_check": 1750766502.9505234,
-    "date": "Tue, 24 Jun 2025 12:01:42 GMT",
+    "last_checked": 1750770723.2582483,
+    "last_modified_check": 1750770723.258249,
+    "date": "Tue, 24 Jun 2025 13:12:02 GMT",
     "content_cache": "We\u2019re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments."
   },
   "https://www.anthropic.com/news/reed-hastings": {
-    "last_checked": 1750766503.2867773,
-    "last_modified_check": 1750766503.286778,
-    "date": "Tue, 24 Jun 2025 12:01:43 GMT",
+    "last_checked": 1750770723.3972323,
+    "last_modified_check": 1750770723.3972325,
+    "date": "Tue, 24 Jun 2025 13:12:03 GMT",
     "content_cache": "Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg."
   }
 }
