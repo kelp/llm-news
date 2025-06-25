@@ -11,6 +11,34 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/claude-powered-artifacts",
+      "url": "https://www.anthropic.com/news/claude-powered-artifacts",
+      "title": "Build and share AI-powered apps with Claude",
+      "date_published": "2025-06-25T12:00:00+00:00",
+      "date_modified": "2025-06-25T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re introducing the ability to build, host, and share interactive AI-powered apps directly in the Claude app. Now developers can iterate faster on their AI apps without worrying about the complexity and cost of scaling for a growing audience.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/build-artifacts",
+      "url": "https://www.anthropic.com/news/build-artifacts",
+      "title": "Turn ideas into interactive AI-powered apps",
+      "date_published": "2025-06-25T12:00:00+00:00",
+      "date_modified": "2025-06-25T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re introducing a dedicated space to view artifacts in the Claude app, and the ability to embed AI capabilities directly into your creations\u2014transforming artifacts into interactive, AI-powered apps.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/claude-code-remote-mcp",
       "url": "https://www.anthropic.com/news/claude-code-remote-mcp",
       "title": "Remote MCP support in Claude Code",
