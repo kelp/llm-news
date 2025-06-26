@@ -1,60 +1,60 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1750943481.1872883,
-    "last_modified_check": 1750943481.1872885,
-    "date": "Thu, 26 Jun 2025 13:11:21 GMT"
+    "last_checked": 1750946489.5701294,
+    "last_modified_check": 1750946489.5701299,
+    "date": "Thu, 26 Jun 2025 14:01:29 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1750943482.361008,
-    "last_modified_check": 1750943482.3610084,
-    "date": "Thu, 26 Jun 2025 13:11:21 GMT"
+    "last_checked": 1750946489.9405334,
+    "last_modified_check": 1750946489.9405339,
+    "date": "Thu, 26 Jun 2025 14:01:29 GMT"
   },
   "https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship": {
-    "last_checked": 1750943482.5814002,
-    "last_modified_check": 1750943482.5814004,
-    "date": "Thu, 26 Jun 2025 13:11:22 GMT",
+    "last_checked": 1750946490.1162336,
+    "last_modified_check": 1750946490.1162338,
+    "date": "Thu, 26 Jun 2025 14:01:30 GMT",
     "content_cache": "We spend a lot of time studying Claude's IQ\u2014its capabilities on tests of coding, reasoning, general knowledge, and more. But what about itsEQ? That is, what about Claude\u2019semotionalintelligence?"
   },
   "https://www.anthropic.com/news/claude-powered-artifacts": {
-    "last_checked": 1750943482.801523,
-    "last_modified_check": 1750943482.8015232,
-    "date": "Thu, 26 Jun 2025 13:11:22 GMT",
+    "last_checked": 1750946490.4524693,
+    "last_modified_check": 1750946490.4524698,
+    "date": "Thu, 26 Jun 2025 14:01:30 GMT",
     "content_cache": "Today, we\u2019re introducing the ability to build, host, and share interactive AI-powered apps directly in the Claude app. Now developers can iterate faster on their AI apps without worrying about the complexity and cost of scaling for a growing audience."
   },
   "https://www.anthropic.com/news/build-artifacts": {
-    "last_checked": 1750943483.0161624,
-    "last_modified_check": 1750943483.0161629,
-    "date": "Thu, 26 Jun 2025 13:11:23 GMT",
+    "last_checked": 1750946490.6032853,
+    "last_modified_check": 1750946490.6032856,
+    "date": "Thu, 26 Jun 2025 14:01:30 GMT",
     "content_cache": "Today, we\u2019re introducing a dedicated space to view artifacts in the Claude app, and the ability to embed AI capabilities directly into your creations\u2014transforming artifacts into interactive, AI-powered apps."
   },
   "https://www.anthropic.com/news/claude-code-remote-mcp": {
-    "last_checked": 1750943483.388411,
-    "last_modified_check": 1750943483.3884118,
-    "date": "Thu, 26 Jun 2025 13:11:23 GMT",
+    "last_checked": 1750946490.972011,
+    "last_modified_check": 1750946490.9720116,
+    "date": "Thu, 26 Jun 2025 14:01:30 GMT",
     "content_cache": "Today, we\u2019re announcing support for remote MCP servers in Claude Code. Connect your favorite tools and data sources to personalize your coding experience without needing to manage local servers."
   },
   "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high": {
-    "last_checked": 1750943483.5850735,
-    "last_modified_check": 1750943483.5850737,
-    "date": "Thu, 26 Jun 2025 13:11:23 GMT",
+    "last_checked": 1750946491.134934,
+    "last_modified_check": 1750946491.1349342,
+    "date": "Thu, 26 Jun 2025 14:01:31 GMT",
     "content_cache": "Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions."
   },
   "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust": {
-    "last_checked": 1750943483.80239,
-    "last_modified_check": 1750943483.8023903,
-    "date": "Thu, 26 Jun 2025 13:11:23 GMT",
+    "last_checked": 1750946491.307633,
+    "last_modified_check": 1750946491.3076332,
+    "date": "Thu, 26 Jun 2025 14:01:31 GMT",
     "content_cache": "Anthropic's Long-Term Benefit Trust today announced the appointment of Richard Fontaine, CEO of the Center for a New American Security, as a new member of the Trust. The Long-Term Benefit Trust (LTBT) is an independent body designed to help Anthropic achieve its public benefit mission."
   },
   "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers": {
-    "last_checked": 1750943484.1709936,
-    "last_modified_check": 1750943484.1709943,
-    "date": "Thu, 26 Jun 2025 13:11:24 GMT",
+    "last_checked": 1750946492.0391502,
+    "last_modified_check": 1750946492.039151,
+    "date": "Thu, 26 Jun 2025 14:01:31 GMT",
     "content_cache": "We\u2019re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments."
   },
   "https://www.anthropic.com/news/reed-hastings": {
-    "last_checked": 1750943484.613797,
-    "last_modified_check": 1750943484.613798,
-    "date": "Thu, 26 Jun 2025 13:11:24 GMT",
+    "last_checked": 1750946492.26173,
+    "last_modified_check": 1750946492.2617307,
+    "date": "Thu, 26 Jun 2025 14:01:32 GMT",
     "content_cache": "Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg."
   }
 }
