@@ -1,54 +1,54 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1750914117.4038465,
-    "last_modified_check": 1750914117.4038467,
-    "date": "Thu, 26 Jun 2025 05:01:57 GMT"
+    "last_checked": 1750917702.031942,
+    "last_modified_check": 1750917702.0319421,
+    "date": "Thu, 26 Jun 2025 06:01:42 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1750914117.8868582,
-    "last_modified_check": 1750914117.8868587,
-    "date": "Thu, 26 Jun 2025 05:01:57 GMT"
+    "last_checked": 1750917702.3874037,
+    "last_modified_check": 1750917702.387404,
+    "date": "Thu, 26 Jun 2025 06:01:42 GMT"
   },
   "https://www.anthropic.com/news/claude-powered-artifacts": {
-    "last_checked": 1750914118.1260328,
-    "last_modified_check": 1750914118.126033,
-    "date": "Thu, 26 Jun 2025 05:01:58 GMT",
+    "last_checked": 1750917702.5981855,
+    "last_modified_check": 1750917702.5981858,
+    "date": "Thu, 26 Jun 2025 06:01:42 GMT",
     "content_cache": "Today, we\u2019re introducing the ability to build, host, and share interactive AI-powered apps directly in the Claude app. Now developers can iterate faster on their AI apps without worrying about the complexity and cost of scaling for a growing audience."
   },
   "https://www.anthropic.com/news/build-artifacts": {
-    "last_checked": 1750914118.3596618,
-    "last_modified_check": 1750914118.359662,
-    "date": "Thu, 26 Jun 2025 05:01:58 GMT",
+    "last_checked": 1750917702.7809985,
+    "last_modified_check": 1750917702.780999,
+    "date": "Thu, 26 Jun 2025 06:01:42 GMT",
     "content_cache": "Today, we\u2019re introducing a dedicated space to view artifacts in the Claude app, and the ability to embed AI capabilities directly into your creations\u2014transforming artifacts into interactive, AI-powered apps."
   },
   "https://www.anthropic.com/news/claude-code-remote-mcp": {
-    "last_checked": 1750914118.515127,
-    "last_modified_check": 1750914118.5151272,
-    "date": "Thu, 26 Jun 2025 05:01:58 GMT",
+    "last_checked": 1750917702.9839277,
+    "last_modified_check": 1750917702.983928,
+    "date": "Thu, 26 Jun 2025 06:01:42 GMT",
     "content_cache": "Today, we\u2019re announcing support for remote MCP servers in Claude Code. Connect your favorite tools and data sources to personalize your coding experience without needing to manage local servers."
   },
   "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high": {
-    "last_checked": 1750914118.7527099,
-    "last_modified_check": 1750914118.7527103,
-    "date": "Thu, 26 Jun 2025 05:01:58 GMT",
+    "last_checked": 1750917703.1840284,
+    "last_modified_check": 1750917703.1840286,
+    "date": "Thu, 26 Jun 2025 06:01:43 GMT",
     "content_cache": "Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions."
   },
   "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust": {
-    "last_checked": 1750914118.9188793,
-    "last_modified_check": 1750914118.9188795,
-    "date": "Thu, 26 Jun 2025 05:01:58 GMT",
+    "last_checked": 1750917703.3845394,
+    "last_modified_check": 1750917703.3845398,
+    "date": "Thu, 26 Jun 2025 06:01:43 GMT",
     "content_cache": "Anthropic's Long-Term Benefit Trust today announced the appointment of Richard Fontaine, CEO of the Center for a New American Security, as a new member of the Trust. The Long-Term Benefit Trust (LTBT) is an independent body designed to help Anthropic achieve its public benefit mission."
   },
   "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers": {
-    "last_checked": 1750914119.1058602,
-    "last_modified_check": 1750914119.1058607,
-    "date": "Thu, 26 Jun 2025 05:01:59 GMT",
+    "last_checked": 1750917703.5685592,
+    "last_modified_check": 1750917703.5685596,
+    "date": "Thu, 26 Jun 2025 06:01:43 GMT",
     "content_cache": "We\u2019re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments."
   },
   "https://www.anthropic.com/news/reed-hastings": {
-    "last_checked": 1750914119.2884736,
-    "last_modified_check": 1750914119.2884738,
-    "date": "Thu, 26 Jun 2025 05:01:59 GMT",
+    "last_checked": 1750917703.7213058,
+    "last_modified_check": 1750917703.7213063,
+    "date": "Thu, 26 Jun 2025 06:01:43 GMT",
     "content_cache": "Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg."
   }
 }
