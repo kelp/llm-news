@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-06-26T08:01:48.837058+00:00</updated>
+  <updated>2025-06-26T09:02:03.264130+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1141,5 +1141,14 @@
     <link href="https://www.anthropic.com/news/claude-powered-artifacts"/>
     <category term="news" label="News"/>
     <published>2025-06-25T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship</id>
+    <title>How People Use Claude for Support, Advice, and Companionship</title>
+    <updated>2025-06-27T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We spend a lot of time studying Claude's IQ—its capabilities on tests of coding, reasoning, general knowledge, and more. But what about itsEQ? That is, what about Claude’semotionalintelligence?&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship"/>
+    <category term="news" label="News"/>
+    <published>2025-06-27T12:00:00+00:00</published>
   </entry>
 </feed>

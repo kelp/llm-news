@@ -1,6 +1,13 @@
 {
-  "timestamp": 1750924908.8352993,
+  "timestamp": 1750928523.2616081,
   "articles": [
+    {
+      "title": "How People Use Claude for Support, Advice, and Companionship",
+      "url": "https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship",
+      "date": "2025-06-27T12:00:00+00:00",
+      "source": "news",
+      "summary": "We spend a lot of time studying Claude's IQ\u2014its capabilities on tests of coding, reasoning, general knowledge, and more. But what about itsEQ? That is, what about Claude\u2019semotionalintelligence?"
+    },
     {
       "title": "Build and share AI-powered apps with Claude",
       "url": "https://www.anthropic.com/news/claude-powered-artifacts",
