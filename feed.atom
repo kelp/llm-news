@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-06-27T10:01:35.547196+00:00</updated>
+  <updated>2025-06-27T11:01:23.503898+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1148,6 +1148,15 @@
     <updated>2025-06-27T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We spend a lot of time studying Claude's IQ—its capabilities on tests of coding, reasoning, general knowledge, and more. But what about itsEQ? That is, what about Claude’semotionalintelligence?&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship"/>
+    <category term="news" label="News"/>
+    <published>2025-06-27T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program</id>
+    <title>Introducing the Anthropic Economic Futures Program</title>
+    <updated>2025-06-27T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing theAnthropic Economic Futures Program, a new initiative to support research and policy development focused on addressing AI’s economic impacts. We’re launching this initiative to understand how AI is reshaping the way we work and surface proposals on how to prepare for this shift. This program will serve as an extension of Anthropic’s Economic Index and its insights on AI usage across the workforce. Our goal for this program is to contribute to the development of new research and potential responses to the impacts of AI on the labor market and global economy. To accomplish this, the Economic Futures Program will focus on three pillars:&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program"/>
     <category term="news" label="News"/>
     <published>2025-06-27T12:00:00+00:00</published>
   </entry>
