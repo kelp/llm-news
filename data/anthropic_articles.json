@@ -1,5 +1,5 @@
 {
-  "timestamp": 1751155484.1619306,
+  "timestamp": 1751155493.7791638,
   "articles": [
     {
       "title": "Introducing the Anthropic Economic Futures Program",
@@ -200,7 +200,7 @@
       "url": "https://www.anthropic.com/news/web-search",
       "date": "2025-03-20T12:00:00+00:00",
       "source": "news",
-      "summary": "You can now use Claude to search the internet to provide more up-to-date and relevant responses. With web search, Claude has access to the latest events and information, boosting its accuracy on tasks that benefit from the most recent data."
+      "summary": "Web search is now available globally on all Claude plans"
     },
     {
       "title": "Anthropic\u2019s Response to Governor Newsom\u2019s AI Working Group Draft Report",
@@ -452,7 +452,7 @@
       "url": "https://www.anthropic.com/news/artifacts",
       "date": "2024-08-27T12:00:00+00:00",
       "source": "news",
-      "summary": "Today, we\u2019re makingArtifactsavailable for allClaude.aiusers across our Free, Pro, and Team plans. And now, you can create and view Artifacts on ouriOSandAndroidapps."
+      "summary": "Two major upgrades to artifacts"
     },
     {
       "title": "Prompt caching with Claude",
