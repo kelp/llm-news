@@ -1,66 +1,66 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1751310079.3320205,
-    "last_modified_check": 1751310079.3320212,
-    "date": "Mon, 30 Jun 2025 19:01:19 GMT"
+    "last_checked": 1751313687.879725,
+    "last_modified_check": 1751313687.8797255,
+    "date": "Mon, 30 Jun 2025 20:01:27 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1751310079.713911,
-    "last_modified_check": 1751310079.7139113,
-    "date": "Mon, 30 Jun 2025 19:01:19 GMT"
+    "last_checked": 1751313688.300993,
+    "last_modified_check": 1751313688.3009934,
+    "date": "Mon, 30 Jun 2025 20:01:28 GMT"
   },
   "https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program": {
-    "last_checked": 1751310079.8704216,
-    "last_modified_check": 1751310079.8704221,
-    "date": "Mon, 30 Jun 2025 19:01:19 GMT",
+    "last_checked": 1751313688.4979494,
+    "last_modified_check": 1751313688.4979496,
+    "date": "Mon, 30 Jun 2025 20:01:28 GMT",
     "content_cache": "Today, we're announcing theAnthropic Economic Futures Program, a new initiative to support research and policy development focused on addressing AI\u2019s economic impacts. We\u2019re launching this initiative to understand how AI is reshaping the way we work and surface proposals on how to prepare for this shift. This program will serve as an extension of Anthropic\u2019s Economic Index and its insights on AI usage across the workforce. Our goal for this program is to contribute to the development of new research and potential responses to the impacts of AI on the labor market and global economy. To accomplish this, the Economic Futures Program will focus on three pillars:"
   },
   "https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship": {
-    "last_checked": 1751310080.0618546,
-    "last_modified_check": 1751310080.061855,
-    "date": "Mon, 30 Jun 2025 19:01:20 GMT",
+    "last_checked": 1751313688.8694575,
+    "last_modified_check": 1751313688.869458,
+    "date": "Mon, 30 Jun 2025 20:01:28 GMT",
     "content_cache": "We spend a lot of time studying Claude's IQ\u2014its capabilities on tests of coding, reasoning, general knowledge, and more. But what about itsEQ? That is, what about Claude\u2019semotionalintelligence?"
   },
   "https://www.anthropic.com/news/claude-powered-artifacts": {
-    "last_checked": 1751310080.2821937,
-    "last_modified_check": 1751310080.2821941,
-    "date": "Mon, 30 Jun 2025 19:01:20 GMT",
+    "last_checked": 1751313689.0461197,
+    "last_modified_check": 1751313689.04612,
+    "date": "Mon, 30 Jun 2025 20:01:29 GMT",
     "content_cache": "Today, we\u2019re introducing the ability to build, host, and share interactive AI-powered apps directly in the Claude app. Now developers can iterate faster on their AI apps without worrying about the complexity and cost of scaling for a growing audience."
   },
   "https://www.anthropic.com/news/build-artifacts": {
-    "last_checked": 1751310080.4814298,
-    "last_modified_check": 1751310080.48143,
-    "date": "Mon, 30 Jun 2025 19:01:20 GMT",
+    "last_checked": 1751313689.4744694,
+    "last_modified_check": 1751313689.47447,
+    "date": "Mon, 30 Jun 2025 20:01:29 GMT",
     "content_cache": "Today, we\u2019re introducing a dedicated space to view artifacts in the Claude app, and the ability to embed AI capabilities directly into your creations\u2014transforming artifacts into interactive, AI-powered apps."
   },
   "https://www.anthropic.com/news/claude-code-remote-mcp": {
-    "last_checked": 1751310080.6486053,
-    "last_modified_check": 1751310080.6486056,
-    "date": "Mon, 30 Jun 2025 19:01:20 GMT",
+    "last_checked": 1751313689.736788,
+    "last_modified_check": 1751313689.7367883,
+    "date": "Mon, 30 Jun 2025 20:01:29 GMT",
     "content_cache": "Today, we\u2019re announcing support for remote MCP servers in Claude Code. Connect your favorite tools and data sources to personalize your coding experience without needing to manage local servers."
   },
   "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high": {
-    "last_checked": 1751310080.8241093,
-    "last_modified_check": 1751310080.8241096,
-    "date": "Mon, 30 Jun 2025 19:01:20 GMT",
+    "last_checked": 1751313689.9225588,
+    "last_modified_check": 1751313689.922559,
+    "date": "Mon, 30 Jun 2025 20:01:29 GMT",
     "content_cache": "Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions."
   },
   "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust": {
-    "last_checked": 1751310080.9878488,
-    "last_modified_check": 1751310080.987849,
-    "date": "Mon, 30 Jun 2025 19:01:20 GMT",
+    "last_checked": 1751313690.1243987,
+    "last_modified_check": 1751313690.1243992,
+    "date": "Mon, 30 Jun 2025 20:01:30 GMT",
     "content_cache": "Anthropic's Long-Term Benefit Trust today announced the appointment of Richard Fontaine, CEO of the Center for a New American Security, as a new member of the Trust. The Long-Term Benefit Trust (LTBT) is an independent body designed to help Anthropic achieve its public benefit mission."
   },
   "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers": {
-    "last_checked": 1751310081.3806067,
-    "last_modified_check": 1751310081.3806071,
-    "date": "Mon, 30 Jun 2025 19:01:21 GMT",
+    "last_checked": 1751313690.3774166,
+    "last_modified_check": 1751313690.3774173,
+    "date": "Mon, 30 Jun 2025 20:01:30 GMT",
     "content_cache": "We\u2019re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments."
   },
   "https://www.anthropic.com/news/reed-hastings": {
-    "last_checked": 1751310081.769966,
-    "last_modified_check": 1751310081.7699664,
-    "date": "Mon, 30 Jun 2025 19:01:21 GMT",
+    "last_checked": 1751313690.6130247,
+    "last_modified_check": 1751313690.613025,
+    "date": "Mon, 30 Jun 2025 20:01:30 GMT",
     "content_cache": "Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg."
   }
 }
