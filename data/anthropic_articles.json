@@ -1,6 +1,13 @@
 {
-  "timestamp": 1751907699.2539742,
+  "timestamp": 1751911293.6397908,
   "articles": [
+    {
+      "title": "The Need for Transparency in Frontier AI",
+      "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
+      "date": "2025-07-07T12:00:00+00:00",
+      "source": "news",
+      "summary": "Frontier AI developmentneeds greater transparencyto ensure public safety and accountability for the companies developing this powerful technology. AI is advancing rapidly. While industry, governments, academia, and others work to develop agreed-upon safety standards and comprehensive evaluation methods\u2014a process that could take months to years\u2014we need interim steps to ensure that very powerful AI is developed securely, responsibly, and transparently."
+    },
     {
       "title": "Introducing the Anthropic Economic Futures Program",
       "url": "https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-07-07T17:01:39.255635+00:00</updated>
+  <updated>2025-07-07T18:01:33.642372+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1159,5 +1159,14 @@
     <link href="https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program"/>
     <category term="news" label="News"/>
     <published>2025-06-27T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai</id>
+    <title>The Need for Transparency in Frontier AI</title>
+    <updated>2025-07-07T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Frontier AI developmentneeds greater transparencyto ensure public safety and accountability for the companies developing this powerful technology. AI is advancing rapidly. While industry, governments, academia, and others work to develop agreed-upon safety standards and comprehensive evaluation methods—a process that could take months to years—we need interim steps to ensure that very powerful AI is developed securely, responsibly, and transparently.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai"/>
+    <category term="news" label="News"/>
+    <published>2025-07-07T12:00:00+00:00</published>
   </entry>
 </feed>
