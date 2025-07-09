@@ -1,6 +1,13 @@
 {
-  "timestamp": 1752073293.3403206,
+  "timestamp": 1752076887.3126893,
   "articles": [
+    {
+      "title": "Advancing Claude for Education",
+      "url": "https://www.anthropic.com/news/advancing-claude-for-education",
+      "date": "2025-07-09T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we\u2019re sharing a first look at upcoming integrations with Canvas, Panopto, and Wiley that bring Claude to Canvas and rich educational context to student conversations inClaude for Education."
+    },
     {
       "title": "Lawrence Livermore National Laboratory expands Claude for Enterprise use to empower scientists and researchers",
       "url": "https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and",

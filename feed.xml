@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-07-09T15:01:33.341997+00:00</updated>
+  <updated>2025-07-09T16:01:27.315225+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1175,6 +1175,15 @@
     <updated>2025-07-09T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Lawrence Livermore National Laboratory (LLNL), one of the United States' premier research institutions, is expanding its deployment of Claude for Enterprise to its entire laboratory. This expansion will make advanced AI capabilities available to about 10,000 scientists, researchers, and staff. LLNL's expansion of Claude access will help bolster research across nuclear deterrence, energy, materials science, and climate science in one of the largest deployments of Claude for Enterprise within the U.S. Department of Energy's national laboratory system.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and"/>
+    <category term="news" label="News"/>
+    <published>2025-07-09T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/advancing-claude-for-education</id>
+    <title>Advancing Claude for Education</title>
+    <updated>2025-07-09T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re sharing a first look at upcoming integrations with Canvas, Panopto, and Wiley that bring Claude to Canvas and rich educational context to student conversations inClaude for Education.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/advancing-claude-for-education"/>
     <category term="news" label="News"/>
     <published>2025-07-09T12:00:00+00:00</published>
   </entry>
