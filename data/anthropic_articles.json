@@ -1,6 +1,13 @@
 {
-  "timestamp": 1752512553.2827024,
+  "timestamp": 1752516110.0342798,
   "articles": [
+    {
+      "title": "Discover tools that work with Claude",
+      "url": "https://www.anthropic.com/news/connectors-directory",
+      "date": "2025-07-14T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we are introducing a new directory of tools that connect to Claude, which you can explore and try with a single click. We are also featuring new connectors, built by our partners, to remote services like Notion, Canva, and Stripe and local desktop applications like Figma, Socket, and Prisma."
+    },
     {
       "title": "Anthropic and the Department of Defense to advance responsible AI in defense operations",
       "url": "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
