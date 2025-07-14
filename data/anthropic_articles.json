@@ -1,6 +1,13 @@
 {
-  "timestamp": 1752505298.347584,
+  "timestamp": 1752508890.9498417,
   "articles": [
+    {
+      "title": "Anthropic and the Department of Defense to advance responsible AI in defense operations",
+      "url": "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
+      "date": "2025-07-14T12:00:00+00:00",
+      "source": "news",
+      "summary": "The U.S. Department of Defense (DOD), through its Chief Digital and Artificial Intelligence Office (CDAO), has awarded Anthropic a two-year prototype other transaction agreement with a $200 million ceiling. As part of the agreement, Anthropic will prototype frontier AI capabilities that advance U.S. national security."
+    },
     {
       "title": "Advancing Claude for Education",
       "url": "https://www.anthropic.com/news/advancing-claude-for-education",

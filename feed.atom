@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-07-14T15:01:38.349328+00:00</updated>
+  <updated>2025-07-14T16:01:30.951525+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1186,5 +1186,14 @@
     <link href="https://www.anthropic.com/news/advancing-claude-for-education"/>
     <category term="news" label="News"/>
     <published>2025-07-09T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations</id>
+    <title>Anthropic and the Department of Defense to advance responsible AI in defense operations</title>
+    <updated>2025-07-14T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;The U.S. Department of Defense (DOD), through its Chief Digital and Artificial Intelligence Office (CDAO), has awarded Anthropic a two-year prototype other transaction agreement with a $200 million ceiling. As part of the agreement, Anthropic will prototype frontier AI capabilities that advance U.S. national security.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations"/>
+    <category term="news" label="News"/>
+    <published>2025-07-14T12:00:00+00:00</published>
   </entry>
 </feed>
