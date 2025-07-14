@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-07-14T16:01:30.951525+00:00</updated>
+  <updated>2025-07-14T17:02:33.285344+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1144,7 +1144,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship</id>
-    <title>How People Use Claude for Support, Advice, and Companionship</title>
+    <title>How people use Claude for support, advice, and companionship</title>
     <updated>2025-06-27T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We spend a lot of time studying Claude's IQ—its capabilities on tests of coding, reasoning, general knowledge, and more. But what about itsEQ? That is, what about Claude’semotionalintelligence?&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship"/>
@@ -1162,7 +1162,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai</id>
-    <title>The Need for Transparency in Frontier AI</title>
+    <title>The need for transparency in Frontier Ai</title>
     <updated>2025-07-07T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Frontier AI developmentneeds greater transparencyto ensure public safety and accountability for the companies developing this powerful technology. AI is advancing rapidly. While industry, governments, academia, and others work to develop agreed-upon safety standards and comprehensive evaluation methods—a process that could take months to years—we need interim steps to ensure that very powerful AI is developed securely, responsibly, and transparently.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai"/>
