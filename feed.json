@@ -11,6 +11,34 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/paul-smith-to-join-anthropic",
+      "url": "https://www.anthropic.com/news/paul-smith-to-join-anthropic",
+      "title": "Paul Smith to join Anthropic as Chief Commercial Officer",
+      "date_published": "2025-07-15T12:00:00+00:00",
+      "date_modified": "2025-07-15T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Anthropic will appoint Paul Smith as its first Chief Commercial Officer, who will assume the role later this year. Paul will bring over 30 years of experience building and scaling global go-to-market organizations at some of the world's most successful enterprise technology companies, including Microsoft, Salesforce, and ServiceNow.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-for-financial-services",
+      "url": "https://www.anthropic.com/news/claude-for-financial-services",
+      "title": "Claude for Financial Services",
+      "date_published": "2025-07-15T12:00:00+00:00",
+      "date_modified": "2025-07-15T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/connectors-directory",
       "url": "https://www.anthropic.com/news/connectors-directory",
       "title": "Discover tools that work with Claude",

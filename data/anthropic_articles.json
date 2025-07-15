@@ -1,6 +1,20 @@
 {
-  "timestamp": 1752577298.0436788,
+  "timestamp": 1752580921.6415977,
   "articles": [
+    {
+      "title": "Paul Smith to join Anthropic as Chief Commercial Officer",
+      "url": "https://www.anthropic.com/news/paul-smith-to-join-anthropic",
+      "date": "2025-07-15T12:00:00+00:00",
+      "source": "news",
+      "summary": "Anthropic will appoint Paul Smith as its first Chief Commercial Officer, who will assume the role later this year. Paul will bring over 30 years of experience building and scaling global go-to-market organizations at some of the world's most successful enterprise technology companies, including Microsoft, Salesforce, and ServiceNow."
+    },
+    {
+      "title": "Claude for Financial Services",
+      "url": "https://www.anthropic.com/news/claude-for-financial-services",
+      "date": "2025-07-15T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude."
+    },
     {
       "title": "Discover tools that work with Claude",
       "url": "https://www.anthropic.com/news/connectors-directory",

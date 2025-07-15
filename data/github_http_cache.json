@@ -1,96 +1,108 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1752577292.829273,
-    "last_modified_check": 1752577292.8292737,
-    "date": "Tue, 15 Jul 2025 11:01:32 GMT"
+    "last_checked": 1752580917.030943,
+    "last_modified_check": 1752580917.0309434,
+    "date": "Tue, 15 Jul 2025 12:01:56 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1752577293.5125868,
-    "last_modified_check": 1752577293.512587,
-    "date": "Tue, 15 Jul 2025 11:01:33 GMT"
+    "last_checked": 1752580917.3395407,
+    "last_modified_check": 1752580917.339541,
+    "date": "Tue, 15 Jul 2025 12:01:57 GMT"
+  },
+  "https://www.anthropic.com/news/paul-smith-to-join-anthropic": {
+    "last_checked": 1752580917.5245852,
+    "last_modified_check": 1752580917.5245855,
+    "date": "Tue, 15 Jul 2025 12:01:57 GMT",
+    "content_cache": "Anthropic will appoint Paul Smith as its first Chief Commercial Officer, who will assume the role later this year. Paul will bring over 30 years of experience building and scaling global go-to-market organizations at some of the world's most successful enterprise technology companies, including Microsoft, Salesforce, and ServiceNow."
+  },
+  "https://www.anthropic.com/news/claude-for-financial-services": {
+    "last_checked": 1752580917.6864486,
+    "last_modified_check": 1752580917.6864488,
+    "date": "Tue, 15 Jul 2025 12:01:57 GMT",
+    "content_cache": "Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude."
   },
   "https://www.anthropic.com/news/connectors-directory": {
-    "last_checked": 1752577293.7306597,
-    "last_modified_check": 1752577293.7306602,
-    "date": "Tue, 15 Jul 2025 11:01:33 GMT",
+    "last_checked": 1752580917.9163787,
+    "last_modified_check": 1752580917.916379,
+    "date": "Tue, 15 Jul 2025 12:01:57 GMT",
     "content_cache": "Today, we are introducing a new directory of tools that connect to Claude, which you can explore and try with a single click. We are also featuring new connectors, built by our partners, to remote services like Notion, Canva, and Stripe and local desktop applications like Figma, Socket, and Prisma."
   },
   "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations": {
-    "last_checked": 1752577293.9704254,
-    "last_modified_check": 1752577293.9704258,
-    "date": "Tue, 15 Jul 2025 11:01:33 GMT",
+    "last_checked": 1752580918.0973096,
+    "last_modified_check": 1752580918.0973103,
+    "date": "Tue, 15 Jul 2025 12:01:58 GMT",
     "content_cache": "The U.S. Department of Defense (DOD), through its Chief Digital and Artificial Intelligence Office (CDAO), has awarded Anthropic a two-year prototype other transaction agreement with a $200 million ceiling. As part of the agreement, Anthropic will prototype frontier AI capabilities that advance U.S. national security."
   },
   "https://www.anthropic.com/news/advancing-claude-for-education": {
-    "last_checked": 1752577294.2080648,
-    "last_modified_check": 1752577294.208065,
-    "date": "Tue, 15 Jul 2025 11:01:34 GMT",
+    "last_checked": 1752580918.2748775,
+    "last_modified_check": 1752580918.2748778,
+    "date": "Tue, 15 Jul 2025 12:01:58 GMT",
     "content_cache": "Today, we\u2019re sharing a first look at upcoming integrations with Canvas, Panopto, and Wiley that bring Claude to Canvas and rich educational context to student conversations inClaude for Education."
   },
   "https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and": {
-    "last_checked": 1752577294.4255114,
-    "last_modified_check": 1752577294.4255116,
-    "date": "Tue, 15 Jul 2025 11:01:34 GMT",
+    "last_checked": 1752580918.4668624,
+    "last_modified_check": 1752580918.466863,
+    "date": "Tue, 15 Jul 2025 12:01:58 GMT",
     "content_cache": "Lawrence Livermore National Laboratory (LLNL), one of the United States' premier research institutions, is expanding its deployment of Claude for Enterprise to its entire laboratory. This expansion will make advanced AI capabilities available to about 10,000 scientists, researchers, and staff. LLNL's expansion of Claude access will help bolster research across nuclear deterrence, energy, materials science, and energy security in one of the largest deployments of Claude for Enterprise within the U.S. Department of Energy's national laboratory system."
   },
   "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai": {
-    "last_checked": 1752577294.8735137,
-    "last_modified_check": 1752577294.8735142,
-    "date": "Tue, 15 Jul 2025 11:01:34 GMT",
+    "last_checked": 1752580918.6534624,
+    "last_modified_check": 1752580918.653463,
+    "date": "Tue, 15 Jul 2025 12:01:58 GMT",
     "content_cache": "Frontier AI developmentneeds greater transparencyto ensure public safety and accountability for the companies developing this powerful technology. AI is advancing rapidly. While industry, governments, academia, and others work to develop agreed-upon safety standards and comprehensive evaluation methods\u2014a process that could take months to years\u2014we need interim steps to ensure that very powerful AI is developed securely, responsibly, and transparently."
   },
   "https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program": {
-    "last_checked": 1752577295.0308385,
-    "last_modified_check": 1752577295.0308387,
-    "date": "Tue, 15 Jul 2025 11:01:35 GMT",
+    "last_checked": 1752580918.8419485,
+    "last_modified_check": 1752580918.8419487,
+    "date": "Tue, 15 Jul 2025 12:01:58 GMT",
     "content_cache": "Today, we're announcing theAnthropic Economic Futures Program, a new initiative to support research and policy development focused on addressing AI\u2019s economic impacts. We\u2019re launching this initiative to understand how AI is reshaping the way we work and surface proposals on how to prepare for this shift. This program will serve as an extension of Anthropic\u2019s Economic Index and its insights on AI usage across the workforce. Our goal for this program is to contribute to the development of new research and potential responses to the impacts of AI on the labor market and global economy. To accomplish this, the Economic Futures Program will focus on three pillars:"
   },
   "https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship": {
-    "last_checked": 1752577295.3054526,
-    "last_modified_check": 1752577295.305453,
-    "date": "Tue, 15 Jul 2025 11:01:35 GMT",
+    "last_checked": 1752580919.3178074,
+    "last_modified_check": 1752580919.3178082,
+    "date": "Tue, 15 Jul 2025 12:01:59 GMT",
     "content_cache": "We spend a lot of time studying Claude's IQ\u2014its capabilities on tests of coding, reasoning, general knowledge, and more. But what about itsEQ? That is, what about Claude\u2019semotionalintelligence?"
   },
   "https://www.anthropic.com/news/claude-powered-artifacts": {
-    "last_checked": 1752577295.5230644,
-    "last_modified_check": 1752577295.5230646,
-    "date": "Tue, 15 Jul 2025 11:01:35 GMT",
+    "last_checked": 1752580919.5551136,
+    "last_modified_check": 1752580919.555114,
+    "date": "Tue, 15 Jul 2025 12:01:59 GMT",
     "content_cache": "Today, we\u2019re introducing the ability to build, host, and share interactive AI-powered apps directly in the Claude app. Now developers can iterate faster on their AI apps without worrying about the complexity and cost of scaling for a growing audience."
   },
   "https://www.anthropic.com/news/build-artifacts": {
-    "last_checked": 1752577295.676603,
-    "last_modified_check": 1752577295.6766033,
-    "date": "Tue, 15 Jul 2025 11:01:35 GMT",
+    "last_checked": 1752580919.934627,
+    "last_modified_check": 1752580919.9346275,
+    "date": "Tue, 15 Jul 2025 12:01:59 GMT",
     "content_cache": "Today, we\u2019re introducing a dedicated space to view artifacts in the Claude app, and the ability to embed AI capabilities directly into your creations\u2014transforming artifacts into interactive, AI-powered apps."
   },
   "https://www.anthropic.com/news/claude-code-remote-mcp": {
-    "last_checked": 1752577295.8372328,
-    "last_modified_check": 1752577295.837233,
-    "date": "Tue, 15 Jul 2025 11:01:35 GMT",
+    "last_checked": 1752580920.1525984,
+    "last_modified_check": 1752580920.1525989,
+    "date": "Tue, 15 Jul 2025 12:02:00 GMT",
     "content_cache": "Today, we\u2019re announcing support for remote MCP servers in Claude Code. Connect your favorite tools and data sources to personalize your coding experience without needing to manage local servers."
   },
   "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high": {
-    "last_checked": 1752577296.1994672,
-    "last_modified_check": 1752577296.1994681,
-    "date": "Tue, 15 Jul 2025 11:01:35 GMT",
+    "last_checked": 1752580920.3191042,
+    "last_modified_check": 1752580920.3191044,
+    "date": "Tue, 15 Jul 2025 12:02:00 GMT",
     "content_cache": "Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions."
   },
   "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust": {
-    "last_checked": 1752577296.6116843,
-    "last_modified_check": 1752577296.6116846,
-    "date": "Tue, 15 Jul 2025 11:01:36 GMT",
+    "last_checked": 1752580920.752001,
+    "last_modified_check": 1752580920.7520015,
+    "date": "Tue, 15 Jul 2025 12:02:00 GMT",
     "content_cache": "Anthropic's Long-Term Benefit Trust today announced the appointment of Richard Fontaine, CEO of the Center for a New American Security, as a new member of the Trust. The Long-Term Benefit Trust (LTBT) is an independent body designed to help Anthropic achieve its public benefit mission."
   },
   "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers": {
-    "last_checked": 1752577296.9973822,
-    "last_modified_check": 1752577296.9973826,
-    "date": "Tue, 15 Jul 2025 11:01:36 GMT",
+    "last_checked": 1752580920.9279134,
+    "last_modified_check": 1752580920.9279137,
+    "date": "Tue, 15 Jul 2025 12:02:00 GMT",
     "content_cache": "We\u2019re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments."
   },
   "https://www.anthropic.com/news/reed-hastings": {
-    "last_checked": 1752577297.4383452,
-    "last_modified_check": 1752577297.4383454,
-    "date": "Tue, 15 Jul 2025 11:01:37 GMT",
+    "last_checked": 1752580921.0894413,
+    "last_modified_check": 1752580921.0894415,
+    "date": "Tue, 15 Jul 2025 12:02:01 GMT",
     "content_cache": "Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg."
   }
 }
