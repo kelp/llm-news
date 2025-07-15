@@ -39,6 +39,20 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.</p>"
     },
     {
+      "id": "https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future",
+      "url": "https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future",
+      "title": "Investing in energy to secure America's AI future",
+      "date_published": "2025-07-15T12:00:00+00:00",
+      "date_modified": "2025-07-15T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Energy is central to winning the AI race and we need to ensure that America has the necessary infrastructure to maintain its lead. This includes reliable, abundant energy sources and modernized electric grids capable of supporting the computational and energy demands of advanced AI systems.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/connectors-directory",
       "url": "https://www.anthropic.com/news/connectors-directory",
       "title": "Discover tools that work with Claude",
@@ -97,7 +111,7 @@
     {
       "id": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
       "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
-      "title": "The need for transparency in Frontier Ai",
+      "title": "The need for transparency in Frontier AI",
       "date_published": "2025-07-07T12:00:00+00:00",
       "date_modified": "2025-07-07T12:00:00+00:00",
       "tags": [

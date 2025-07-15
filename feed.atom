@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-07-15T18:01:45.856771+00:00</updated>
+  <updated>2025-07-15T19:02:35.559591+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1162,7 +1162,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai</id>
-    <title>The need for transparency in Frontier Ai</title>
+    <title>The need for transparency in Frontier AI</title>
     <updated>2025-07-07T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Frontier AI developmentneeds greater transparencyto ensure public safety and accountability for the companies developing this powerful technology. AI is advancing rapidly. While industry, governments, academia, and others work to develop agreed-upon safety standards and comprehensive evaluation methods—a process that could take months to years—we need interim steps to ensure that very powerful AI is developed securely, responsibly, and transparently.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai"/>
@@ -1204,6 +1204,15 @@
     <link href="https://www.anthropic.com/news/connectors-directory"/>
     <category term="news" label="News"/>
     <published>2025-07-14T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future</id>
+    <title>Investing in energy to secure America's AI future</title>
+    <updated>2025-07-15T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Energy is central to winning the AI race and we need to ensure that America has the necessary infrastructure to maintain its lead. This includes reliable, abundant energy sources and modernized electric grids capable of supporting the computational and energy demands of advanced AI systems.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future"/>
+    <category term="news" label="News"/>
+    <published>2025-07-15T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-for-financial-services</id>
