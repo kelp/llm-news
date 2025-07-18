@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-07-18T17:03:51.779308+00:00</updated>
+  <updated>2025-07-18T18:01:40.965533+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1072,7 +1072,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/activating-asl3-protections</id>
-    <title>Activating AI Safety Level 3 Protections</title>
+    <title>Activating AI Safety Level 3 protections</title>
     <updated>2025-05-22T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We have activated the AI Safety Level 3 (ASL-3) Deployment and Security Standards described in Anthropic’s Responsible Scaling Policy (RSP) in conjunction with launching Claude Opus 4. The ASL-3 Security Standard involves increased internal security measures that make it harder to steal model weights, while the corresponding Deployment Standard covers a narrowly targeted set of deployment measures designed to limit the risk of Claude being misused specifically for the development or acquisition of chemical, biological, radiological, and nuclear (CBRN) weapons. These measures should not lead Claude to refuse queries except on a very narrow set of topics.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/activating-asl3-protections"/>
