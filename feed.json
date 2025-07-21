@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/eu-code-practice",
+      "url": "https://www.anthropic.com/news/eu-code-practice",
+      "title": "Anthropic to sign the EU Code of Practice",
+      "date_published": "2025-07-21T12:00:00+00:00",
+      "date_modified": "2025-07-21T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>After review, Anthropic intends to sign the European Union's General-Purpose AI Code of Practice. We believe the Code advances the principles of transparency, safety and accountability\u2014values that have long been championed by Anthropic for frontier AI development. If thoughtfully implemented, the EU AI Act and Code will enable Europe to harness the most significant technology of our time to power innovation and competitiveness.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/paul-smith-to-join-anthropic",
       "url": "https://www.anthropic.com/news/paul-smith-to-join-anthropic",
       "title": "Paul Smith to join Anthropic as Chief Commercial Officer",
