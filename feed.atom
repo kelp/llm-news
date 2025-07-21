@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-07-21T19:02:48.337677+00:00</updated>
+  <updated>2025-07-21T20:01:42.740032+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1238,6 +1238,15 @@
     <updated>2025-07-21T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;After review, Anthropic intends to sign the European Union's General-Purpose AI Code of Practice. We believe the Code advances the principles of transparency, safety and accountability—values that have long been championed by Anthropic for frontier AI development. If thoughtfully implemented, the EU AI Act and Code will enable Europe to harness the most significant technology of our time to power innovation and competitiveness.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/eu-code-practice"/>
+    <category term="news" label="News"/>
+    <published>2025-07-21T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/build-ai-in-america</id>
+    <title>Build AI in America</title>
+    <updated>2025-07-21T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;For the United States to lead the world in AI, we must make substantial investments in computing power and electricity that make it possible to build AI in America. As technology evolves, the required resources, infrastructure, and regulatory conditions need to change too. That’s why we are releasing a set of policy recommendations to support building the necessary domestic infrastructure to train the world’s most capable AI models in the U.S. and support the broad deployment of AI across sectors.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/build-ai-in-america"/>
     <category term="news" label="News"/>
     <published>2025-07-21T12:00:00+00:00</published>
   </entry>

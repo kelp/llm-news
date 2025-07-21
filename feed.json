@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/build-ai-in-america",
+      "url": "https://www.anthropic.com/news/build-ai-in-america",
+      "title": "Build AI in America",
+      "date_published": "2025-07-21T12:00:00+00:00",
+      "date_modified": "2025-07-21T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>For the United States to lead the world in AI, we must make substantial investments in computing power and electricity that make it possible to build AI in America. As technology evolves, the required resources, infrastructure, and regulatory conditions need to change too. That\u2019s why we are releasing a set of policy recommendations to support building the necessary domestic infrastructure to train the world\u2019s most capable AI models in the U.S. and support the broad deployment of AI across sectors.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/eu-code-practice",
       "url": "https://www.anthropic.com/news/eu-code-practice",
       "title": "Anthropic to sign the EU Code of Practice",
