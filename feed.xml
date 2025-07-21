@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-07-21T12:01:57.794202+00:00</updated>
+  <updated>2025-07-21T13:13:32.951745+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -856,7 +856,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan</id>
-    <title>Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan</title>
+    <title>Anthropic’s recommendations to OSTP for the U.S. AI action plan</title>
     <updated>2025-03-06T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;In response to the White House’sRequest for Information on an AI Action Plan, Anthropichas submitted recommendationsto the Office of Science and Technology Policy (OSTP). Our recommendations are designed to better prepare America to capture the economic benefits and national security implications of powerful AI systems.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan"/>
@@ -892,7 +892,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report</id>
-    <title>Anthropic’s Response to Governor Newsom’s AI Working Group Draft Report</title>
+    <title>Anthropic’s response to Governor Newsom’s AI working group draft report</title>
     <updated>2025-03-19T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;This week, the California Governor’sWorking Group on AI Frontier Modelsreleased its draft report. We agree with the working group’s focus on the need forobjective standardsand evidence-based policy guidance, and especially its emphasis on transparency as a means to create a well functioning AI policy environment.When done thoughtfully, transparency can be a low-cost, high-impact means of growing the evidence base around a new technology, increasing consumer trust, and causing companies to enter into positive-sum competitions with one another. We welcome greater discussion of how frontier labs should be transparent about their AI development practices and were glad to see the working group emphasize this - in particular, we appreciated the focus on the need for labs to disclose how they secure their models from theft, and how they test their models for potential national security risks.Many of the report’s recommendations already reflect industry best practices which Anthropic adheres to: for example Anthropic’sResponsible Scaling Policypublicly lays out how we assess our models for misuse and autonomy risks and thresholds that trigger increased safety and security measures for us. We also publicly describe the results of our safety and security testing as part of each major model release, and performthird-party testingto augment our own internal tests. Many other frontier AI companies have similar practices.In line with the report’s findings, we believe governments could play a constructive role in improving transparency in the safety and security practices of frontier AI companies. At present frontier AI companies are notrequiredto have a safety and security policy (even one entirely of their choice), nor to describe it publicly, nor to publicly document the tests they run – and therefore not all companies do. We believe this could be done in alight-touch waythat does not impede innovation. As we wrote in ourrecent policy submission to the White House, we believe powerful AI systems will arrive soon - perhaps as early as the end of 2026 - so it is important we all devote effort to building a policy regime that creates greater transparency about the safety and security protocols of how AI systems are built.The Working Group has also highlighted areas where academia, civil society, and industry will need to apply more focus in the coming years - particularly on the economic impacts of AI, where Anthropic is today trying to contribute viaour Economic Index. We look forward to providing further feedback to the working group to aid and inform the work of finalizing the report. We commend the Governor for his foresight in kicking off this conversation, and we look forward to helping shape California’s approach to frontier model safety.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report"/>
@@ -955,7 +955,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude</id>
-    <title>Anthropic Education Report: How University Students Use Claude</title>
+    <title>Anthropic Education Report: How university students use Claude</title>
     <updated>2025-04-08T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;AI systems are no longer just specialized research tools: they’re everyday academic companions. As AIs integrate more deeply into educational environments, we need to consider important questions about learning, assessment, and skill development. Until now, most discussions have relied on surveys and controlled experiments rather than direct evidence of how students naturally integrate AI into their academic work in real settings.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude"/>
@@ -982,7 +982,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms</id>
-    <title>Our Approach to Understanding and Addressing AI Harms</title>
+    <title>Our approach to understanding and addressing AI harms</title>
     <updated>2025-04-21T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;As AI capabilities rapidly advance, understanding and addressing the full spectrum of potential impacts becomes increasingly important. Today, we're sharing insights into our evolving approach to assessing and mitigating various harms that could result from our systems, ranging from catastrophic scenarios like biological threats to critical concerns like child safety, disinformation and fraud.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"/>
@@ -991,7 +991,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025</id>
-    <title>Detecting and Countering Malicious Uses of Claude: March 2025</title>
+    <title>Detecting and countering malicious uses of Claude: March 2025</title>
     <updated>2025-04-23T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We are committed to preventing misuse of our Claude models by adversarial actors while maintaining their utility for legitimate users. While our safety measures successfully prevent many harmful outputs, threat actors continue to explore methods to circumvent these protections. We are continuously using learnings to upgrade our safeguards.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025"/>

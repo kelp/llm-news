@@ -1,5 +1,5 @@
 {
-  "timestamp": 1753099317.791557,
+  "timestamp": 1753103612.948993,
   "articles": [
     {
       "title": "Anthropic to sign the EU Code of Practice",
@@ -191,14 +191,14 @@
       "summary": "Today, we\u2019re announcing the formation of the Anthropic Economic Advisory Council, a group of distinguished economists who will provide Anthropic with expert guidance on the economic implications of AI development and deployment. The Council will advise Anthropic on AI's impact on labor markets, economic growth, and broader socioeconomic systems. This work will inform the research agenda for theAnthropic Economic Index, an initiative that aims to understand AI\u2019s impact on the labor market and global economy over time."
     },
     {
-      "title": "Detecting and Countering Malicious Uses of Claude: March 2025",
+      "title": "Detecting and countering malicious uses of Claude: March 2025",
       "url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
       "date": "2025-04-23T12:00:00+00:00",
       "source": "news",
       "summary": "We are committed to preventing misuse of our Claude models by adversarial actors while maintaining their utility for legitimate users. While our safety measures successfully prevent many harmful outputs, threat actors continue to explore methods to circumvent these protections. We are continuously using learnings to upgrade our safeguards."
     },
     {
-      "title": "Our Approach to Understanding and Addressing AI Harms",
+      "title": "Our approach to understanding and addressing AI harms",
       "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
       "date": "2025-04-21T12:00:00+00:00",
       "source": "news",
@@ -219,7 +219,7 @@
       "summary": "Four major upgrades to the Max plan"
     },
     {
-      "title": "Anthropic Education Report: How University Students Use Claude",
+      "title": "Anthropic Education Report: How university students use Claude",
       "url": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
       "date": "2025-04-08T12:00:00+00:00",
       "source": "news",
@@ -266,7 +266,7 @@
       "summary": "You can now use Claude to search the internet to provide more up-to-date and relevant responses. With web search, Claude has access to the latest events and information, boosting its accuracy on tasks that benefit from the most recent data."
     },
     {
-      "title": "Anthropic\u2019s Response to Governor Newsom\u2019s AI Working Group Draft Report",
+      "title": "Anthropic\u2019s response to Governor Newsom\u2019s AI working group draft report",
       "url": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
       "date": "2025-03-19T12:00:00+00:00",
       "source": "news",
@@ -294,7 +294,7 @@
       "summary": "We've redesigned the Anthropic Console to serve as one place to build, test, and iterate on your AI deployment with Claude and your teammates."
     },
     {
-      "title": "Anthropic\u2019s Recommendations to OSTP for the U.S. AI Action Plan",
+      "title": "Anthropic\u2019s recommendations to OSTP for the U.S. AI action plan",
       "url": "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan",
       "date": "2025-03-06T12:00:00+00:00",
       "source": "news",
