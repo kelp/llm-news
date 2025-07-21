@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-07-21T17:03:07.219646+00:00</updated>
+  <updated>2025-07-21T18:01:50.035669+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -19,7 +19,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai</id>
-    <title>Anthropic Raises Series B to Build Steerable, Interpretable, Robust AI Systems</title>
+    <title>Anthropic Raises Series B to build steerable, interpretable, robust AI systems</title>
     <updated>2022-04-29T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic, an AI safety and research company, has raised $580 million in a Series B. The financing will help Anthropic build large-scale experimental infrastructure to explore and improve the safety properties of computationally intensive AI models.Since its founding at the beginning of 2021, Anthropic has conducted research into making systems that are more steerable, robust, and interpretable. On interpretability, it has made progress in mathematicallyreverse engineering the behavior of small language modelsand begun to understand the source ofpattern-matching behavior in large language models. On steerability and robustness, it has developedbaseline techniques to make large language models more “helpful and harmless”, and followed this up withreinforcement learning to further improve these properties, as well as releasing a dataset to help other research labs train models that are morealigned with human preferences. It has also released an analysis ofsudden changes in performance in large language models and the societal impacts of this phenomenon, which demonstrates the need for studying safety issues at scale.The purpose of this research is to develop the technical components necessary to build large-scale models which have better implicit safeguards and require less after-training interventions, as well as to develop the tools necessary to further look inside these models to be confident that the safeguards actually work. The company is also building out teams and partnerships dedicated to exploring the policy and societal impacts of these models.“With this fundraise, we’re going to explore the predictable scaling properties of machine learning systems, while closely examining the unpredictable ways in which capabilities and safety issues can emerge at-scale,” said Anthropic co-founder and CEO Dario Amodei. “We’ve made strong initial progress on understanding and steering the behavior of AI systems, and are gradually assembling the pieces needed to make usable, integrated AI systems that benefit society.”Anthropic is now a growing team of around 40 people based in a plant-filled office in San Francisco, California, with plans to expand further this year. “Now that we’ve built out the organization, we’re focusing on ensuring Anthropic has the culture and governance to continue to responsibly explore and develop safe AI systems as we scale,” said Anthropic co-founder and President Daniela Amodei. “We’re excited about what’s ahead, and grateful to all be working together.”The Series B follows the company raising $124 million in a Series A round in 2021. The Series B round was led by Sam Bankman-Fried, CEO of FTX. The round also included participation from Caroline Ellison, Jim McClave, Nishad Singh, Jaan Tallinn, and the Center for Emerging Risk Research (CERR).&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai"/>
@@ -946,7 +946,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/head-of-EMEA-new-roles</id>
-    <title>Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region</title>
+    <title>Anthropic appoints Guillaume Princen as Head of EMEA and announces 100+ new roles across the region</title>
     <updated>2025-04-08T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/head-of-EMEA-new-roles"/>
@@ -1009,7 +1009,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule</id>
-    <title>Securing America's Compute Advantage: Anthropic’s Position on the Diffusion Rule</title>
+    <title>Securing America's compute advantage: Anthropic’s position on the diffusion rule</title>
     <updated>2025-04-30T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;In response to the Department of Commerce's "Framework for Artificial Intelligence Diffusion" interim final rule, Anthropic hassubmitted detailed analysis and recommendationsfor maintaining and strengthening export controls on advanced semiconductors. At the heart of our recommendations is a clear message: maintaining America's compute advantage through export controls is essential for national security and economic prosperity as powerful new AI systems are developed in the coming years.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule"/>
@@ -1108,7 +1108,7 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high</id>
-    <title>Claude in Amazon Bedrock: Approved for Use in FedRAMP High and DoD IL4/5 Workloads</title>
+    <title>Claude in Amazon Bedrock: Approved for use in FedRAMP High and DoD IL4/5 workloads</title>
     <updated>2025-06-11T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high"/>
