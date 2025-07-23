@@ -1,6 +1,13 @@
 {
-  "timestamp": 1753297370.7498937,
+  "timestamp": 1753300907.3454957,
   "articles": [
+    {
+      "title": "Thoughts on America\u2019s AI Action Plan",
+      "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "date": "2025-07-23T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, the White House released \"Winning the Race: America's AI Action Plan\"\u2014a comprehensive strategy to maintain America's advantage in AI development. We are encouraged by the plan\u2019s focus on accelerating AI infrastructure and federal adoption, as well as strengthening safety testing and security coordination. Many of the plan\u2019s recommendations reflect Anthropic\u2019sresponseto the Office of Science and Technology Policy\u2019s (OSTP) priorrequest for information. While the plan positions America for AI advancement, we believe strict export controls and AI development transparency standards remain crucial next steps for securing American AI leadership."
+    },
     {
       "title": "Anthropic partners with the University of Chicago\u2019s Becker Friedman Institute on AI economic research",
       "url": "https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic",
