@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-07-23T14:02:32.941537+00:00</updated>
+  <updated>2025-07-23T15:02:16.311704+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1249,5 +1249,14 @@
     <link href="https://www.anthropic.com/news/build-ai-in-america"/>
     <category term="news" label="News"/>
     <published>2025-07-21T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic</id>
+    <title>Anthropic partners with the University of Chicago’s Becker Friedman Institute on AI economic research</title>
+    <updated>2025-07-23T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re announcing a partnership with the University of Chicago's Becker Friedman Institute for Economics (BFI) to study AI's impact on labor markets and the economy. As part of this, we will equip BFI faculty economists with Claude for Enterprise access, provide training sessions on applying AI in economic research, and offer virtual workshops on our research to measure AI’s economic impacts. This partnership is an extension of ourEconomic Indexinitiative, which is dedicated to tracking and understanding AI’s effects on the economy over time.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic"/>
+    <category term="news" label="News"/>
+    <published>2025-07-23T12:00:00+00:00</published>
   </entry>
 </feed>
