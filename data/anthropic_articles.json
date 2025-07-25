@@ -1,6 +1,13 @@
 {
-  "timestamp": 1753398088.9788432,
+  "timestamp": 1753401872.1614113,
   "articles": [
+    {
+      "title": "How Anthropic teams use Claude Code",
+      "url": "https://www.anthropic.com/news/how-anthropic-teams-use-claude-code",
+      "date": "2025-07-24T12:00:00+00:00",
+      "source": "news",
+      "summary": "Anthropic's internal teams are transforming their workflows withClaude Code, enabling developers and non-technical staff to tackle complex projects, automate tasks, and bridge skill gaps that previously limited their productivity."
+    },
     {
       "title": "Thoughts on America\u2019s AI Action Plan",
       "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
