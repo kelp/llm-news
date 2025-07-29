@@ -1,12 +1,12 @@
 {
-  "timestamp": 1753762702.0542545,
+  "timestamp": 1753765676.6710129,
   "articles": [
     {
       "title": "How Anthropic teams use Claude Code",
       "url": "https://www.anthropic.com/news/how-anthropic-teams-use-claude-code",
       "date": "2025-07-24T12:00:00+00:00",
       "source": "news",
-      "summary": "Anthropic's internal teams are transforming their workflows withClaude Code, enabling developers and non-technical staff to tackle complex projects, automate tasks, and bridge skill gaps that previously limited their productivity."
+      "summary": "Agentic coding tools likeClaude Codehelp developers accelerate workflows, automate repetitive tasks, and tackle complex programming projects. As the field evolves, we're learning about new applications everyday from users, including our own employees."
     },
     {
       "title": "Thoughts on America\u2019s AI Action Plan",

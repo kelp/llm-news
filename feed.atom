@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-07-29T04:18:22.056919+00:00</updated>
+  <updated>2025-07-29T05:07:56.672890+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1272,7 +1272,7 @@
     <id>https://www.anthropic.com/news/how-anthropic-teams-use-claude-code</id>
     <title>How Anthropic teams use Claude Code</title>
     <updated>2025-07-24T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic's internal teams are transforming their workflows withClaude Code, enabling developers and non-technical staff to tackle complex projects, automate tasks, and bridge skill gaps that previously limited their productivity.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Agentic coding tools likeClaude Codehelp developers accelerate workflows, automate repetitive tasks, and tackle complex programming projects. As the field evolves, we're learning about new applications everyday from users, including our own employees.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/how-anthropic-teams-use-claude-code"/>
     <category term="news" label="News"/>
     <published>2025-07-24T12:00:00+00:00</published>
