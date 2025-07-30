@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-07-30T19:03:29.394796+00:00</updated>
+  <updated>2025-07-30T20:01:34.675244+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1276,5 +1276,14 @@
     <link href="https://www.anthropic.com/news/how-anthropic-teams-use-claude-code"/>
     <category term="news" label="News"/>
     <published>2025-07-24T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability</id>
+    <title>Anthropic Signs CMS Health Tech Ecosystem Pledge to Advance Healthcare Interoperability</title>
+    <updated>2025-07-30T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic is pleased to sign the Centers for Medicare &amp; Medicaid Services (CMS) Health Tech Ecosystem pledge supporting conversational AI, a collaborative effort between government and industry to modernize healthcare data sharing and improve patient outcomes across America. CMS’s public-private collaboration recognizes that solving interoperability requires both technical innovation and coordinated partnership across the entire healthcare ecosystem.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability"/>
+    <category term="news" label="News"/>
+    <published>2025-07-30T12:00:00+00:00</published>
   </entry>
 </feed>

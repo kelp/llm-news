@@ -1,6 +1,13 @@
 {
-  "timestamp": 1753902209.392985,
+  "timestamp": 1753905694.6735172,
   "articles": [
+    {
+      "title": "Anthropic Signs CMS Health Tech Ecosystem Pledge to Advance Healthcare Interoperability",
+      "url": "https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability",
+      "date": "2025-07-30T12:00:00+00:00",
+      "source": "news",
+      "summary": "Anthropic is pleased to sign the Centers for Medicare & Medicaid Services (CMS) Health Tech Ecosystem pledge supporting conversational AI, a collaborative effort between government and industry to modernize healthcare data sharing and improve patient outcomes across America. CMS\u2019s public-private collaboration recognizes that solving interoperability requires both technical innovation and coordinated partnership across the entire healthcare ecosystem."
+    },
     {
       "title": "How Anthropic teams use Claude Code",
       "url": "https://www.anthropic.com/news/how-anthropic-teams-use-claude-code",
