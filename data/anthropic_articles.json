@@ -1,6 +1,13 @@
 {
-  "timestamp": 1754341279.824225,
+  "timestamp": 1754344895.2999697,
   "articles": [
+    {
+      "title": "Our framework for developing safe and trustworthy agents",
+      "url": "https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents",
+      "date": "2025-08-04T12:00:00+00:00",
+      "source": "news",
+      "summary": "The most popular AI tools today are assistants that respond to specific questions or prompts. But we\u2019re now seeing the emergence ofAI agents, which pursue tasks autonomously when given a goal. Think of an agent like a virtual collaborator that can independently handle complex projects from start to finish - all while you focus on other priorities."
+    },
     {
       "title": "Anthropic Signs CMS Health Tech Ecosystem Pledge to Advance Healthcare Interoperability",
       "url": "https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability",
