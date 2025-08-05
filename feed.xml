@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-05T16:01:42.140800+00:00</updated>
+  <updated>2025-08-05T17:01:34.395848+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1294,5 +1294,14 @@
     <link href="https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents"/>
     <category term="news" label="News"/>
     <published>2025-08-04T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-opus-4-1</id>
+    <title>Claude Opus 4.1</title>
+    <updated>2025-08-05T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today we're releasing Claude Opus 4.1, an upgrade to Claude Opus 4 on agentic tasks, real-world coding, and reasoning. We plan to release substantially larger improvements to our models in the coming weeks.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-opus-4-1"/>
+    <category term="news" label="News"/>
+    <published>2025-08-05T12:00:00+00:00</published>
   </entry>
 </feed>

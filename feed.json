@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/claude-opus-4-1",
+      "url": "https://www.anthropic.com/news/claude-opus-4-1",
+      "title": "Claude Opus 4.1",
+      "date_published": "2025-08-05T12:00:00+00:00",
+      "date_modified": "2025-08-05T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today we're releasing Claude Opus 4.1, an upgrade to Claude Opus 4 on agentic tasks, real-world coding, and reasoning. We plan to release substantially larger improvements to our models in the coming weeks.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents",
       "url": "https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents",
       "title": "Our framework for developing safe and trustworthy agents",
