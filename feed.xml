@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-05T21:01:34.214417+00:00</updated>
+  <updated>2025-08-05T22:01:38.420267+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1294,6 +1294,15 @@
     <link href="https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents"/>
     <category term="news" label="News"/>
     <published>2025-08-04T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule</id>
+    <title>Federal government departments and agencies can now purchase Claude through the GSA schedule</title>
+    <updated>2025-08-05T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Claude is now available for purchase through the General Services Administration (GSA) schedule, making it easier for all U.S. federal government departments and agencies to quickly access Claude, with pre-negotiated pricing and terms that comply with federal acquisition regulations.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule"/>
+    <category term="news" label="News"/>
+    <published>2025-08-05T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/claude-opus-4-1</id>

@@ -25,6 +25,20 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Today we're releasing Claude Opus 4.1, an upgrade to Claude Opus 4 on agentic tasks, real-world coding, and reasoning. We plan to release substantially larger improvements to our models in the coming weeks.</p>"
     },
     {
+      "id": "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule",
+      "url": "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule",
+      "title": "Federal government departments and agencies can now purchase Claude through the GSA schedule",
+      "date_published": "2025-08-05T12:00:00+00:00",
+      "date_modified": "2025-08-05T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Claude is now available for purchase through the General Services Administration (GSA) schedule, making it easier for all U.S. federal government departments and agencies to quickly access Claude, with pre-negotiated pricing and terms that comply with federal acquisition regulations.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents",
       "url": "https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents",
       "title": "Our framework for developing safe and trustworthy agents",
