@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-05T20:01:42.024178+00:00</updated>
+  <updated>2025-08-05T21:01:34.214417+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1290,7 +1290,7 @@
     <id>https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents</id>
     <title>Our framework for developing safe and trustworthy agents</title>
     <updated>2025-08-04T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;The most popular AI tools today are assistants that respond to specific questions or prompts. But we’re now seeing the emergence ofAI agents, which pursue tasks autonomously when given a goal. Think of an agent like a virtual collaborator that can independently handle complex projects from start to finish - all while you focus on other priorities.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;The most popular AI tools today are assistants that respond to specific questions or prompts. But we’re now seeing the emergence ofAI agents, which pursue tasks autonomously when given a goal. Think of an agent like a virtual collaborator that can independently handle complex projects from start to finish — all while you focus on other priorities.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents"/>
     <category term="news" label="News"/>
     <published>2025-08-04T12:00:00+00:00</published>
