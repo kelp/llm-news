@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-06T16:01:45.686191+00:00</updated>
+  <updated>2025-08-06T17:04:05.116537+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1312,5 +1312,14 @@
     <link href="https://www.anthropic.com/news/claude-opus-4-1"/>
     <category term="news" label="News"/>
     <published>2025-08-05T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/automate-security-reviews-with-claude-code</id>
+    <title>Automate security reviews with Claude Code</title>
+    <updated>2025-08-06T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today we're introducing automated security reviews in Claude Code. Using our GitHub Actions integration and a new /security-review command, developers can easily ask Claude to identify security concerns—and then have it fix them.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/automate-security-reviews-with-claude-code"/>
+    <category term="news" label="News"/>
+    <published>2025-08-06T12:00:00+00:00</published>
   </entry>
 </feed>

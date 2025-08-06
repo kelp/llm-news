@@ -1,6 +1,13 @@
 {
-  "timestamp": 1754496105.6843572,
+  "timestamp": 1754499845.1147516,
   "articles": [
+    {
+      "title": "Automate security reviews with Claude Code",
+      "url": "https://www.anthropic.com/news/automate-security-reviews-with-claude-code",
+      "date": "2025-08-06T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today we're introducing automated security reviews in Claude Code. Using our GitHub Actions integration and a new /security-review command, developers can easily ask Claude to identify security concerns\u2014and then have it fix them."
+    },
     {
       "title": "Claude Opus 4.1",
       "url": "https://www.anthropic.com/news/claude-opus-4-1",
