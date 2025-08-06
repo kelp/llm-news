@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-06T21:01:40.031497+00:00</updated>
+  <updated>2025-08-06T22:01:33.906366+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1319,6 +1319,15 @@
     <updated>2025-08-06T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today we're introducing automated security reviews in Claude Code. Using our GitHub Actions integration and a new /security-review command, developers can easily ask Claude to identify security concerns—and then have it fix them.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/automate-security-reviews-with-claude-code"/>
+    <category term="news" label="News"/>
+    <published>2025-08-06T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/head-of-japan-hiring-plans</id>
+    <title>Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans</title>
+    <updated>2025-08-06T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic today announced the appointment of Hidetoshi Tojo as Head of Japan. The appointment comes as the company deepens its commitment to the Japanese market after choosing Tokyo as its first Asia office.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/head-of-japan-hiring-plans"/>
     <category term="news" label="News"/>
     <published>2025-08-06T12:00:00+00:00</published>
   </entry>

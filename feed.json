@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/head-of-japan-hiring-plans",
+      "url": "https://www.anthropic.com/news/head-of-japan-hiring-plans",
+      "title": "Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans",
+      "date_published": "2025-08-06T12:00:00+00:00",
+      "date_modified": "2025-08-06T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Anthropic today announced the appointment of Hidetoshi Tojo as Head of Japan. The appointment comes as the company deepens its commitment to the Japanese market after choosing Tokyo as its first Asia office.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/automate-security-reviews-with-claude-code",
       "url": "https://www.anthropic.com/news/automate-security-reviews-with-claude-code",
       "title": "Automate security reviews with Claude Code",
