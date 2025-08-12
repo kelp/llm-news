@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
+      "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
+      "title": "Offering expanded Claude access across all three branches of the U.S. government",
+      "date_published": "2025-08-12T12:00:00+00:00",
+      "date_modified": "2025-08-12T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today we are removing barriers to government AI adoption by offering Claude for Enterprise and Claude for Government to all three branches of government, including federal civilian executive branch agencies, as well as legislative and judiciary branches of government, for $1.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/head-of-japan-hiring-plans",
       "url": "https://www.anthropic.com/news/head-of-japan-hiring-plans",
       "title": "Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans",
