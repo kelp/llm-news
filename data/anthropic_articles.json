@@ -1,6 +1,13 @@
 {
-  "timestamp": 1755007294.417683,
+  "timestamp": 1755010883.913676,
   "articles": [
+    {
+      "title": "Building Safeguards for Claude",
+      "url": "https://www.anthropic.com/news/building-safeguards-for-claude",
+      "date": "2025-08-12T12:00:00+00:00",
+      "source": "news",
+      "summary": "Claude empowers millions of users to tackle complex challenges, spark creativity, and deepen their understanding of the world. We want to amplify human potential while ensuring our models\u2019 capabilities are channeled toward beneficial outcomes. This means continuously refining how we support our users\u2019 learning and problem-solving, while preventing misuse that could cause real-world harm."
+    },
     {
       "title": "Offering expanded Claude access across all three branches of the U.S. government",
       "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
