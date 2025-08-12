@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755036105.8386595,
+  "timestamp": 1755039705.042806,
   "articles": [
     {
       "title": "Claude Sonnet 4 now supports 1M tokens of context",
@@ -181,7 +181,7 @@
       "url": "https://www.anthropic.com/news/build-artifacts",
       "date": "2025-06-25T12:00:00+00:00",
       "source": "news",
-      "summary": "Today, we\u2019re introducing a dedicated space to view artifacts in the Claude app, and the ability to embed AI capabilities directly into your creations\u2014transforming artifacts into interactive, AI-powered apps."
+      "summary": "Now available on Team and Enterprise plans"
     },
     {
       "title": "Remote MCP support in Claude Code",

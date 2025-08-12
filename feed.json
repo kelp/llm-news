@@ -372,7 +372,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re introducing a dedicated space to view artifacts in the Claude app, and the ability to embed AI capabilities directly into your creations\u2014transforming artifacts into interactive, AI-powered apps.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Now available on Team and Enterprise plans</p>"
     },
     {
       "id": "https://www.anthropic.com/news/claude-code-remote-mcp",

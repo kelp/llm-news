@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-12T22:01:45.840552+00:00</updated>
+  <updated>2025-08-12T23:01:45.045719+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1128,7 +1128,7 @@
     <id>https://www.anthropic.com/news/build-artifacts</id>
     <title>Turn ideas into interactive AI-powered apps</title>
     <updated>2025-06-25T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re introducing a dedicated space to view artifacts in the Claude app, and the ability to embed AI capabilities directly into your creations—transforming artifacts into interactive, AI-powered apps.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Now available on Team and Enterprise plans&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/build-artifacts"/>
     <category term="news" label="News"/>
     <published>2025-06-25T12:00:00+00:00</published>
