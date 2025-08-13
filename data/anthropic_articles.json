@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755039705.042806,
+  "timestamp": 1755043455.7835753,
   "articles": [
     {
       "title": "Claude Sonnet 4 now supports 1M tokens of context",
@@ -174,7 +174,7 @@
       "url": "https://www.anthropic.com/news/claude-powered-artifacts",
       "date": "2025-06-25T12:00:00+00:00",
       "source": "news",
-      "summary": "Today, we\u2019re introducing the ability to build, host, and share interactive AI-powered apps directly in the Claude app. Now developers can iterate faster on their AI apps without worrying about the complexity and cost of scaling for a growing audience."
+      "summary": "Now available on Team and Enterprise plans"
     },
     {
       "title": "Turn ideas into interactive AI-powered apps",

@@ -358,7 +358,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re introducing the ability to build, host, and share interactive AI-powered apps directly in the Claude app. Now developers can iterate faster on their AI apps without worrying about the complexity and cost of scaling for a growing audience.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Now available on Team and Enterprise plans</p>"
     },
     {
       "id": "https://www.anthropic.com/news/build-artifacts",

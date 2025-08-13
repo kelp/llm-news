@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-12T23:01:45.045719+00:00</updated>
+  <updated>2025-08-13T00:04:15.786440+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1137,7 +1137,7 @@
     <id>https://www.anthropic.com/news/claude-powered-artifacts</id>
     <title>Build and share AI-powered apps with Claude</title>
     <updated>2025-06-25T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re introducing the ability to build, host, and share interactive AI-powered apps directly in the Claude app. Now developers can iterate faster on their AI apps without worrying about the complexity and cost of scaling for a growing audience.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Now available on Team and Enterprise plans&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-powered-artifacts"/>
     <category term="news" label="News"/>
     <published>2025-06-25T12:00:00+00:00</published>
