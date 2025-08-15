@@ -1,6 +1,13 @@
 {
-  "timestamp": 1755277285.64941,
+  "timestamp": 1755280907.5554078,
   "articles": [
+    {
+      "title": "Usage Policy Update",
+      "url": "https://www.anthropic.com/news/usage-policy-update",
+      "date": "2025-08-15T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we\u2019re sharing some updates to our Usage Policy that reflect the growing capabilities and evolving usage of our products. Our Usage Policy serves as a framework for how Claude should and shouldn\u2019t be used, providing clear guidance for everyone who uses Anthropic\u2019s products."
+    },
     {
       "title": "Claude Sonnet 4 now supports 1M tokens of context",
       "url": "https://www.anthropic.com/news/1m-context",

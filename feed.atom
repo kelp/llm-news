@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-15T17:01:25.651398+00:00</updated>
+  <updated>2025-08-15T18:01:47.557326+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1357,5 +1357,14 @@
     <link href="https://www.anthropic.com/news/1m-context"/>
     <category term="news" label="News"/>
     <published>2025-08-12T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/usage-policy-update</id>
+    <title>Usage Policy Update</title>
+    <updated>2025-08-15T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re sharing some updates to our Usage Policy that reflect the growing capabilities and evolving usage of our products. Our Usage Policy serves as a framework for how Claude should and shouldn’t be used, providing clear guidance for everyone who uses Anthropic’s products.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/usage-policy-update"/>
+    <category term="news" label="News"/>
+    <published>2025-08-15T12:00:00+00:00</published>
   </entry>
 </feed>
