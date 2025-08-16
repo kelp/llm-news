@@ -1,8 +1,8 @@
 {
-  "timestamp": 1755352880.6479156,
+  "timestamp": 1755356504.7725737,
   "articles": [
     {
-      "title": "Usage Policy Update",
+      "title": "Usage policy update",
       "url": "https://www.anthropic.com/news/usage-policy-update",
       "date": "2025-08-15T12:00:00+00:00",
       "source": "news",
@@ -16,7 +16,7 @@
       "summary": "Claude Sonnet 4 now supports up to 1 million tokens of context on the Anthropic API\u2014a 5x increase that lets you process entire codebases with over 75,000 lines of code or dozens of research papers in a single request."
     },
     {
-      "title": "Building Safeguards for Claude",
+      "title": "Building safeguards for Claude",
       "url": "https://www.anthropic.com/news/building-safeguards-for-claude",
       "date": "2025-08-12T12:00:00+00:00",
       "source": "news",
