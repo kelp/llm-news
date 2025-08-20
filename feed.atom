@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-20T17:01:47.167734+00:00</updated>
+  <updated>2025-08-20T18:02:04.949046+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1366,5 +1366,14 @@
     <link href="https://www.anthropic.com/news/usage-policy-update"/>
     <category term="news" label="News"/>
     <published>2025-08-15T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-code-on-team-and-enterprise</id>
+    <title>Claude Code and new admin controls for business plans</title>
+    <updated>2025-08-20T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Enterprise and Team customers can now upgrade to premium seats that include more usage and Claude Code—bringing our app and powerful coding agent together under one subscription. Users can move seamlessly between ideation and implementation, while admins get the visibility and controls they need to scale Claude across their organization.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-code-on-team-and-enterprise"/>
+    <category term="news" label="News"/>
+    <published>2025-08-20T12:00:00+00:00</published>
   </entry>
 </feed>

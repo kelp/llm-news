@@ -1,6 +1,13 @@
 {
-  "timestamp": 1755709307.1657917,
+  "timestamp": 1755712924.9462717,
   "articles": [
+    {
+      "title": "Claude Code and new admin controls for business plans",
+      "url": "https://www.anthropic.com/news/claude-code-on-team-and-enterprise",
+      "date": "2025-08-20T12:00:00+00:00",
+      "source": "news",
+      "summary": "Enterprise and Team customers can now upgrade to premium seats that include more usage and Claude Code\u2014bringing our app and powerful coding agent together under one subscription. Users can move seamlessly between ideation and implementation, while admins get the visibility and controls they need to scale Claude across their organization."
+    },
     {
       "title": "Usage policy update",
       "url": "https://www.anthropic.com/news/usage-policy-update",
