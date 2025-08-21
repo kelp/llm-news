@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-21T15:01:47.992871+00:00</updated>
+  <updated>2025-08-21T16:06:58.490228+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1382,6 +1382,15 @@
     <updated>2025-08-21T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Nuclear technology is inherently dual-use: the same physics principles that power nuclear reactors can be misused for weapons development. As AI models become more capable, we need to keep a close eye on whether they can provide users with dangerous technical knowledge in ways that could threaten national security.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership"/>
+    <category term="news" label="News"/>
+    <published>2025-08-21T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/anthropic-higher-education-initiatives</id>
+    <title>Anthropic launches higher education advisory board and AI fluency courses</title>
+    <updated>2025-08-21T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;The choices made in the next few years about how AI enters the classroom will shape a generation's relationship with both technology and learning. Today, we're announcing two initiatives for AI in education to help navigate these critical decisions: a Higher Education Advisory Board to guide Claude's development for education, and three AI Fluency courses co-created with educators that can help teachers and students build practical, responsible AI skills.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/anthropic-higher-education-initiatives"/>
     <category term="news" label="News"/>
     <published>2025-08-21T12:00:00+00:00</published>
   </entry>
