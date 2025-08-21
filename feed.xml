@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-21T09:01:49.286349+00:00</updated>
+  <updated>2025-08-21T10:01:50.345185+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1375,5 +1375,14 @@
     <link href="https://www.anthropic.com/news/claude-code-on-team-and-enterprise"/>
     <category term="news" label="News"/>
     <published>2025-08-20T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership</id>
+    <title>Developing nuclear safeguards for AI through public-private partnership</title>
+    <updated>2025-08-21T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Nuclear technology is inherently dual-use: the same physics principles that power nuclear reactors can be misused for weapons development. As AI models become more capable, we need to keep a close eye on whether they can provide users with dangerous technical knowledge in ways that could threaten national security.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership"/>
+    <category term="news" label="News"/>
+    <published>2025-08-21T12:00:00+00:00</published>
   </entry>
 </feed>
