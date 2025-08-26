@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
+      "url": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
+      "title": "Anthropic Education Report: How educators use Claude",
+      "date_published": "2025-08-27T12:00:00+00:00",
+      "date_modified": "2025-08-27T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Understandably, much of the conversation of AI in education focuses on how students are using large language models to help them study and write. But educators use AI too. In a recent Gallup survey, teachers reported that AI tools saved them an average of 5.9 hours per week. And in an inversion of the usual discussion, students have begun expressing concerns aboutprofessorsusing AI in the classroom.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
       "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
       "title": "Anthropic launches higher education advisory board and AI Fluency courses",
