@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-26T18:02:01.009077+00:00</updated>
+  <updated>2025-08-26T19:01:29.285260+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1353,7 +1353,7 @@
     <id>https://www.anthropic.com/news/1m-context</id>
     <title>Claude Sonnet 4 now supports 1M tokens of context</title>
     <updated>2025-08-12T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Claude Sonnet 4 now supports up to 1 million tokens of context on the Anthropic API—a 5x increase that lets you process entire codebases with over 75,000 lines of code or dozens of research papers in a single request.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Now available on Google Cloud's Vertex AI&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/1m-context"/>
     <category term="news" label="News"/>
     <published>2025-08-12T12:00:00+00:00</published>
@@ -1393,6 +1393,15 @@
     <link href="https://www.anthropic.com/news/anthropic-higher-education-initiatives"/>
     <category term="news" label="News"/>
     <published>2025-08-21T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-for-chrome</id>
+    <title>Piloting Claude for Chrome</title>
+    <updated>2025-08-26T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We've spent recent months connecting Claude to your calendar, documents, and many other pieces of software. The next logical step is letting Claude work directly in your browser.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-for-chrome"/>
+    <category term="news" label="News"/>
+    <published>2025-08-26T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude</id>
