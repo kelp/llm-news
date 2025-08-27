@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
+      "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
+      "title": "Detecting and countering misuse of AI: August 2025",
+      "date_published": "2025-08-27T12:00:00+00:00",
+      "date_modified": "2025-08-27T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>We\u2019vedevelopedsophisticated safety and security measures to prevent the misuse of our AI models. But cybercriminals and other malicious actors are actively attempting to find ways around them. Today, we\u2019re releasing a report that details how.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
       "url": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
       "title": "Anthropic Education Report: How educators use Claude",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-27T09:01:56.792626+00:00</updated>
+  <updated>2025-08-27T10:02:00.686968+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1409,6 +1409,15 @@
     <updated>2025-08-27T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Understandably, much of the conversation of AI in education focuses on how students are using large language models to help them study and write. But educators use AI too. In a recent Gallup survey, teachers reported that AI tools saved them an average of 5.9 hours per week. And in an inversion of the usual discussion, students have begun expressing concerns aboutprofessorsusing AI in the classroom.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude"/>
+    <category term="news" label="News"/>
+    <published>2025-08-27T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/detecting-countering-misuse-aug-2025</id>
+    <title>Detecting and countering misuse of AI: August 2025</title>
+    <updated>2025-08-27T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We’vedevelopedsophisticated safety and security measures to prevent the misuse of our AI models. But cybercriminals and other malicious actors are actively attempting to find ways around them. Today, we’re releasing a report that details how.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/detecting-countering-misuse-aug-2025"/>
     <category term="news" label="News"/>
     <published>2025-08-27T12:00:00+00:00</published>
   </entry>
