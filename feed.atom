@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-08-27T12:02:24.832953+00:00</updated>
+  <updated>2025-08-27T13:08:40.756296+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1409,6 +1409,15 @@
     <updated>2025-08-27T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Understandably, much of the conversation of AI in education focuses on how students are using large language models to help them study and write. But educators use AI too. In a recent Gallup survey, teachers reported that AI tools saved them an average of 5.9 hours per week. And in an inversion of the usual discussion, students have begun expressing concerns aboutprofessorsusing AI in the classroom.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude"/>
+    <category term="news" label="News"/>
+    <published>2025-08-27T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council</id>
+    <title>Introducing the Anthropic National Security and Public Sector Advisory Council</title>
+    <updated>2025-08-27T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we are announcing the formation of the Anthropic National Security and Public Sector Advisory Council, a group of leading bipartisan national security and public policy practitioners who will help Anthropic support the U.S. government and closely allied democracies in building and maintaining enduring technological advantages in an era of strategic competition.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council"/>
     <category term="news" label="News"/>
     <published>2025-08-27T12:00:00+00:00</published>
   </entry>

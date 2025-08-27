@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756296144.830758,
+  "timestamp": 1756300120.754375,
   "articles": [
     {
       "title": "Detecting and countering misuse of AI: August 2025",
@@ -7,6 +7,13 @@
       "date": "2025-08-27T12:00:00+00:00",
       "source": "news",
       "summary": "We\u2019vedevelopedsophisticated safety and security measures to prevent the misuse of our AI models. But cybercriminals and other malicious actors are actively attempting to find ways around them. Today, we\u2019re releasing a report that details how."
+    },
+    {
+      "title": "Introducing the Anthropic National Security and Public Sector Advisory Council",
+      "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
+      "date": "2025-08-27T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we are announcing the formation of the Anthropic National Security and Public Sector Advisory Council, a group of leading bipartisan national security and public policy practitioners who will help Anthropic support the U.S. government and closely allied democracies in building and maintaining enduring technological advantages in an era of strategic competition."
     },
     {
       "title": "Anthropic Education Report: How educators use Claude",
