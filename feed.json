@@ -834,7 +834,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>You can now use Claude to search the internet to provide more up-to-date and relevant responses. With web search, Claude has access to the latest events and information, boosting its accuracy on tasks that benefit from the most recent data.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Web search is now available globally on all Claude plans</p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
@@ -1044,7 +1044,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're launching Citations, a new API feature that lets Claude ground its answers in source documents. Claude can now provide detailed references to the exact sentences and passages it uses to generate responses, leading to more verifiable, trustworthy outputs.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Now available in Amazon Bedrock</p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai",
@@ -1198,7 +1198,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Claude can now use computers. Thelatest version of Claude 3.5 Sonnetcan, when run through the appropriate software setup, follow a user\u2019s commands to move a cursor around their computer\u2019s screen, click on relevant locations, and input information via a virtual keyboard, emulating the way people interact with their own computer.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Consumer Terms and Privacy Policy</p>"
     },
     {
       "id": "https://www.anthropic.com/news/3-5-models-and-computer-use",
@@ -1338,7 +1338,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re makingArtifactsavailable for allClaude.aiusers across our Free, Pro, and Team plans. And now, you can create and view Artifacts on ouriOSandAndroidapps.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Two major upgrades to artifacts</p>"
     },
     {
       "id": "https://www.anthropic.com/news/prompt-caching",
@@ -1492,7 +1492,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re launching Claude 3.5 Sonnet\u2014our first release in the forthcoming Claude 3.5 model family. Claude 3.5 Sonnet raises the industry bar for intelligence, outperforming competitor models and Claude 3 Opus on a wide range of evaluations, with the speed and cost of our mid-tier model, Claude 3 Sonnet.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Consumer Terms and Privacy Policy</p>"
     },
     {
       "id": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
