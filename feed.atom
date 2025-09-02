@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-09-02T16:02:13.523122+00:00</updated>
+  <updated>2025-09-02T17:01:36.726187+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1429,5 +1429,14 @@
     <link href="https://www.anthropic.com/news/detecting-countering-misuse-aug-2025"/>
     <category term="news" label="News"/>
     <published>2025-08-27T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</id>
+    <title>Anthropic raises $13B Series F at $183B post-money valuation</title>
+    <updated>2025-09-02T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, the round was co-led by Fidelity Management &amp; Research Company and Lightspeed Venture Partners. The investment reflects Anthropic’s continued momentum and reinforces our position as the leading intelligence platform for enterprises, developers, and power users.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation"/>
+    <category term="news" label="News"/>
+    <published>2025-09-02T12:00:00+00:00</published>
   </entry>
 </feed>

@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "title": "Anthropic raises $13B Series F at $183B post-money valuation",
+      "date_published": "2025-09-02T12:00:00+00:00",
+      "date_modified": "2025-09-02T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, the round was co-led by Fidelity Management & Research Company and Lightspeed Venture Partners. The investment reflects Anthropic\u2019s continued momentum and reinforces our position as the leading intelligence platform for enterprises, developers, and power users.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
       "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
       "title": "Detecting and countering misuse of AI: August 2025",
