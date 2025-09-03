@@ -78,7 +78,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>We've spent recent months connecting Claude to your calendar, documents, and many other pieces of software. The next logical step is letting Claude work directly in your browser.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
@@ -92,7 +92,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>The choices made in the next few years about how AI enters the classroom will shape a generation's relationship with both technology and learning. Today, we're announcing two initiatives for AI in education to help navigate these critical decisions: a Higher Education Advisory Board to guide Claude's development for education, and three AI Fluency courses co-created with educators that can help teachers and students build practical, responsible AI skills.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
     },
     {
       "id": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
