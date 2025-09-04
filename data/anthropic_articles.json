@@ -1,6 +1,13 @@
 {
-  "timestamp": 1757008939.1025977,
+  "timestamp": 1757012547.9508169,
   "articles": [
+    {
+      "title": "Anthropic Signs White House Pledge to America's Youth: Investing in AI Education",
+      "url": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
+      "date": "2025-09-04T12:00:00+00:00",
+      "source": "news",
+      "summary": "Following our August signing of the White House's 'Pledge to America's Youth: Investing in AI Education', today we joined companies across the country at the White House's AI Education Taskforce event, deepening our commitment to helping America's students build essential skills to excel and lead with AI."
+    },
     {
       "title": "Anthropic raises $13B Series F at $183B post-money valuation",
       "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
