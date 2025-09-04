@@ -1,6 +1,13 @@
 {
-  "timestamp": 1757023295.8704057,
+  "timestamp": 1757026895.574539,
   "articles": [
+    {
+      "title": "Updating restrictions of sales to unsupported regions",
+      "url": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions",
+      "date": "2025-09-04T12:00:00+00:00",
+      "source": "news",
+      "summary": "Anthropic's Terms of Service prohibit use of our services incertain regionsdue to legal, regulatory, and security risks. However, companies from these restricted regions\u2014including adversarial nations like China\u2014continue accessing our services in various ways, such as through subsidiaries incorporated in other countries."
+    },
     {
       "title": "Anthropic Signs White House Pledge to America's Youth: Investing in AI Education",
       "url": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
