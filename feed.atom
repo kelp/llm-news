@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-09-11T19:01:32.000597+00:00</updated>
+  <updated>2025-09-11T20:01:50.320928+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1474,5 +1474,14 @@
     <link href="https://www.anthropic.com/news/create-files"/>
     <category term="news" label="News"/>
     <published>2025-09-09T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/memory</id>
+    <title>Bringing memory to teams at work</title>
+    <updated>2025-09-11T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re introducing memory to the Claude app, where Claude remembers you and your team’s projects and preferences, eliminating the need to re-explain context and keeping complex work moving forward.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/memory"/>
+    <category term="news" label="News"/>
+    <published>2025-09-11T12:00:00+00:00</published>
   </entry>
 </feed>
