@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-09-12T19:01:46.863687+00:00</updated>
+  <updated>2025-09-12T20:01:44.825674+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1483,5 +1483,14 @@
     <link href="https://www.anthropic.com/news/memory"/>
     <category term="news" label="News"/>
     <published>2025-09-11T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi</id>
+    <title>Strengthening our safeguards through collaboration with US CAISI and UK AISI</title>
+    <updated>2025-09-12T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Over the past year, we've collaborated with the US Center for AI Standards and Innovation (CAISI) and UK AI Security Institute (AISI), government bodies established to measure and improve the security of AI systems. Our voluntary work together began as initial consultations, but over time evolved to an ongoing partnership where CAISI and AISI teams were provided access to our systems at various stages of model development, allowing for ongoing testing of our systems.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi"/>
+    <category term="news" label="News"/>
+    <published>2025-09-12T12:00:00+00:00</published>
   </entry>
 </feed>
