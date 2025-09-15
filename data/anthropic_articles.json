@@ -1,5 +1,5 @@
 {
-  "timestamp": 1757926898.7778106,
+  "timestamp": 1757930500.1047559,
   "articles": [
     {
       "title": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
@@ -205,18 +205,18 @@
       "summary": "After review, Anthropic intends to sign the European Union's General-Purpose AI Code of Practice. We believe the Code advances the principles of transparency, safety and accountability\u2014values that have long been championed by Anthropic for frontier AI development. If thoughtfully implemented, the EU AI Act and Code will enable Europe to harness the most significant technology of our time to power innovation and competitiveness."
     },
     {
-      "title": "Claude for Financial Services",
-      "url": "https://www.anthropic.com/news/claude-for-financial-services",
-      "date": "2025-07-15T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude."
-    },
-    {
       "title": "Paul Smith to join Anthropic as Chief Commercial Officer",
       "url": "https://www.anthropic.com/news/paul-smith-to-join-anthropic",
       "date": "2025-07-15T12:00:00+00:00",
       "source": "news",
       "summary": "Anthropic will appoint Paul Smith as its first Chief Commercial Officer, who will assume the role later this year. Paul will bring over 30 years of experience building and scaling global go-to-market organizations at some of the world's most successful enterprise technology companies, including Microsoft, Salesforce, and ServiceNow."
+    },
+    {
+      "title": "Claude for Financial Services",
+      "url": "https://www.anthropic.com/news/claude-for-financial-services",
+      "date": "2025-07-15T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude."
     },
     {
       "title": "Investing in energy to secure America's AI future",

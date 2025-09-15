@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-09-15T09:01:38.780537+00:00</updated>
+  <updated>2025-09-15T10:01:40.106724+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1215,20 +1215,20 @@
     <published>2025-07-15T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.anthropic.com/news/paul-smith-to-join-anthropic</id>
-    <title>Paul Smith to join Anthropic as Chief Commercial Officer</title>
-    <updated>2025-07-15T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic will appoint Paul Smith as its first Chief Commercial Officer, who will assume the role later this year. Paul will bring over 30 years of experience building and scaling global go-to-market organizations at some of the world's most successful enterprise technology companies, including Microsoft, Salesforce, and ServiceNow.&lt;/p&gt;</content>
-    <link href="https://www.anthropic.com/news/paul-smith-to-join-anthropic"/>
-    <category term="news" label="News"/>
-    <published>2025-07-15T12:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.anthropic.com/news/claude-for-financial-services</id>
     <title>Claude for Financial Services</title>
     <updated>2025-07-15T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-for-financial-services"/>
+    <category term="news" label="News"/>
+    <published>2025-07-15T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/paul-smith-to-join-anthropic</id>
+    <title>Paul Smith to join Anthropic as Chief Commercial Officer</title>
+    <updated>2025-07-15T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic will appoint Paul Smith as its first Chief Commercial Officer, who will assume the role later this year. Paul will bring over 30 years of experience building and scaling global go-to-market organizations at some of the world's most successful enterprise technology companies, including Microsoft, Salesforce, and ServiceNow.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/paul-smith-to-join-anthropic"/>
     <category term="news" label="News"/>
     <published>2025-07-15T12:00:00+00:00</published>
   </entry>
