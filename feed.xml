@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-09-15T21:01:36.204401+00:00</updated>
+  <updated>2025-09-15T22:01:33.645558+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1492,5 +1492,14 @@
     <link href="https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi"/>
     <category term="news" label="News"/>
     <published>2025-09-12T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-in-xcode</id>
+    <title>Claude is now generally available in Xcode</title>
+    <updated>2025-09-15T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Developers can now connect their Claude account to Xcode 26 to power coding intelligence features with Claude Sonnet 4. Xcode is Apple's integrated development environment (IDE) and offers the tools you need to develop, test, and distribute apps for Apple platforms. This integration lets developers use Claude's coding capabilities directly in their workflow, accelerating app development for Apple platforms.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-in-xcode"/>
+    <category term="news" label="News"/>
+    <published>2025-09-15T12:00:00+00:00</published>
   </entry>
 </feed>

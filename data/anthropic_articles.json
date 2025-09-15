@@ -1,6 +1,13 @@
 {
-  "timestamp": 1757970096.2023673,
+  "timestamp": 1757973693.6425104,
   "articles": [
+    {
+      "title": "Claude is now generally available in Xcode",
+      "url": "https://www.anthropic.com/news/claude-in-xcode",
+      "date": "2025-09-15T12:00:00+00:00",
+      "source": "news",
+      "summary": "Developers can now connect their Claude account to Xcode 26 to power coding intelligence features with Claude Sonnet 4. Xcode is Apple's integrated development environment (IDE) and offers the tools you need to develop, test, and distribute apps for Apple platforms. This integration lets developers use Claude's coding capabilities directly in their workflow, accelerating app development for Apple platforms."
+    },
     {
       "title": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
       "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
