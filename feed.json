@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot",
+      "url": "https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot",
+      "title": "Claude is now available in Microsoft 365 Copilot",
+      "date_published": "2025-09-24T12:00:00+00:00",
+      "date_modified": "2025-09-24T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, Microsoft announced that Claude models are now available in Microsoft 365 Copilot, bringing Claude to millions of enterprise users through Microsoft's productivity platform.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/claude-in-xcode",
       "url": "https://www.anthropic.com/news/claude-in-xcode",
       "title": "Claude is now generally available in Xcode",

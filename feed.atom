@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-09-24T15:02:59.065958+00:00</updated>
+  <updated>2025-09-24T16:05:46.758886+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1501,5 +1501,14 @@
     <link href="https://www.anthropic.com/news/claude-in-xcode"/>
     <category term="news" label="News"/>
     <published>2025-09-15T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot</id>
+    <title>Claude is now available in Microsoft 365 Copilot</title>
+    <updated>2025-09-24T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, Microsoft announced that Claude models are now available in Microsoft 365 Copilot, bringing Claude to millions of enterprise users through Microsoft's productivity platform.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot"/>
+    <category term="news" label="News"/>
+    <published>2025-09-24T12:00:00+00:00</published>
   </entry>
 </feed>
