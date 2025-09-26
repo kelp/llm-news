@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-09-26T14:01:54.625346+00:00</updated>
+  <updated>2025-09-26T15:01:45.353626+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1510,5 +1510,14 @@
     <link href="https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot"/>
     <category term="news" label="News"/>
     <published>2025-09-24T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of</id>
+    <title>Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International</title>
+    <updated>2025-09-26T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today we're announcing Anthropic's expanded global presence with key leadership appointments, enterprise customer momentum, and new international offices across multiple continents.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of"/>
+    <category term="news" label="News"/>
+    <published>2025-09-26T12:00:00+00:00</published>
   </entry>
 </feed>

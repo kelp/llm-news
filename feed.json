@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of",
+      "url": "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of",
+      "title": "Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International",
+      "date_published": "2025-09-26T12:00:00+00:00",
+      "date_modified": "2025-09-26T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today we're announcing Anthropic's expanded global presence with key leadership appointments, enterprise customer momentum, and new international offices across multiple continents.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot",
       "url": "https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot",
       "title": "Claude is now available in Microsoft 365 Copilot",
