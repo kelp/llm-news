@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-09-29T16:01:45.489431+00:00</updated>
+  <updated>2025-09-29T17:03:36.452532+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1519,5 +1519,32 @@
     <link href="https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of"/>
     <category term="news" label="News"/>
     <published>2025-09-26T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/context-management</id>
+    <title>Managing context on the Claude Developer Platform</title>
+    <updated>2025-09-29T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re introducing new capabilities for managing your agents’ context on the Claude Developer Platform: context editing and the memory tool.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/context-management"/>
+    <category term="news" label="News"/>
+    <published>2025-09-29T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</id>
+    <title>Enabling Claude Code to work more autonomously</title>
+    <updated>2025-09-29T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We’re introducing several upgrades to Claude Code: a native VS Code extension, version 2.0 of our terminal interface, and checkpoints for autonomous operation. Powered bySonnet 4.5, Claude Code now handles longer, more complex development tasks in your terminal and IDE.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously"/>
+    <category term="news" label="News"/>
+    <published>2025-09-29T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-sonnet-4-5</id>
+    <title>Introducing Claude Sonnet 4.5</title>
+    <updated>2025-09-29T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Claude Sonnet 4.5 is the best coding model in the world. It's the strongest model for building complex agents. It’s the best model at using computers. And it shows substantial gains in reasoning and math.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-sonnet-4-5"/>
+    <category term="news" label="News"/>
+    <published>2025-09-29T12:00:00+00:00</published>
   </entry>
 </feed>
