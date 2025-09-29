@@ -1,5 +1,5 @@
 {
-  "timestamp": 1759104284.459809,
+  "timestamp": 1759109359.8270428,
   "articles": [
     {
       "title": "Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International",
@@ -103,7 +103,8 @@
       "title": "Anthropic launches higher education advisory board and AI Fluency courses",
       "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
       "date": "2025-08-21T12:00:00+00:00",
-      "source": "news"
+      "source": "news",
+      "summary": "The choices made in the next few years about how AI enters the classroom will shape a generation's relationship with both technology and learning. Today, we're announcing two initiatives for AI in education to help navigate these critical decisions: a Higher Education Advisory Board to guide Claude's development for education, and three AI Fluency courses co-created with educators that can help teachers and students build practical, responsible AI skills."
     },
     {
       "title": "Developing nuclear safeguards for AI through public-private partnership",
