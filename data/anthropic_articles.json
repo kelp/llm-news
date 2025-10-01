@@ -1,6 +1,13 @@
 {
-  "timestamp": 1759345308.5414279,
+  "timestamp": 1759348910.7867851,
   "articles": [
+    {
+      "title": "How enterprises are driving AI transformation with Claude",
+      "url": "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
+      "date": "2025-10-01T12:00:00+00:00",
+      "source": "news",
+      "summary": "Asthe leaderin enterprise AI, Anthropic builds state-of-the-art models specializing in industries where precision matters, from coding and cybersecurity to financial services.Claude Sonnet 4.5, our latest release, delivers measurable results\u2014reducing vulnerability response time by 44% for security organizations like HackerOne, enabling investment-grade financial analysis at institutional firms like NBIM, and helping developers at Netflix and GitHub tackle complex, codebase-spanning tasks with unprecedented accuracy."
+    },
     {
       "title": "Claude and Slack",
       "url": "https://www.anthropic.com/news/claude-and-slack",

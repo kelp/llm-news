@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-01T19:01:48.543436+00:00</updated>
+  <updated>2025-10-01T20:01:50.790005+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1553,6 +1553,15 @@
     <updated>2025-10-01T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We're introducing two ways to use Claude with Slack. Add Claude directly to your Slack workspace, or connect Slack to the Claude apps so Claude can search and reference relevant Slack messages during conversations.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-and-slack"/>
+    <category term="news" label="News"/>
+    <published>2025-10-01T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/driving-ai-transformation-with-claude</id>
+    <title>How enterprises are driving AI transformation with Claude</title>
+    <updated>2025-10-01T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Asthe leaderin enterprise AI, Anthropic builds state-of-the-art models specializing in industries where precision matters, from coding and cybersecurity to financial services.Claude Sonnet 4.5, our latest release, delivers measurable results—reducing vulnerability response time by 44% for security organizations like HackerOne, enabling investment-grade financial analysis at institutional firms like NBIM, and helping developers at Netflix and GitHub tackle complex, codebase-spanning tasks with unprecedented accuracy.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/driving-ai-transformation-with-claude"/>
     <category term="news" label="News"/>
     <published>2025-10-01T12:00:00+00:00</published>
   </entry>
