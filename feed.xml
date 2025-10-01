@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-01T17:01:46.662951+00:00</updated>
+  <updated>2025-10-01T18:01:42.998535+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1546,5 +1546,14 @@
     <link href="https://www.anthropic.com/news/claude-sonnet-4-5"/>
     <category term="news" label="News"/>
     <published>2025-09-29T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-and-slack</id>
+    <title>Claude and Slack</title>
+    <updated>2025-10-01T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We're introducing two ways to use Claude with Slack. Add Claude directly to your Slack workspace, or connect Slack to the Claude apps so Claude can search and reference relevant Slack messages during conversations.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-and-slack"/>
+    <category term="news" label="News"/>
+    <published>2025-10-01T12:00:00+00:00</published>
   </entry>
 </feed>

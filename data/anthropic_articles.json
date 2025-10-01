@@ -1,6 +1,13 @@
 {
-  "timestamp": 1759338106.6607857,
+  "timestamp": 1759341702.9965062,
   "articles": [
+    {
+      "title": "Claude and Slack",
+      "url": "https://www.anthropic.com/news/claude-and-slack",
+      "date": "2025-10-01T12:00:00+00:00",
+      "source": "news",
+      "summary": "We're introducing two ways to use Claude with Slack. Add Claude directly to your Slack workspace, or connect Slack to the Claude apps so Claude can search and reference relevant Slack messages during conversations."
+    },
     {
       "title": "Introducing Claude Sonnet 4.5",
       "url": "https://www.anthropic.com/news/claude-sonnet-4-5",

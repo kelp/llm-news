@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/claude-and-slack",
+      "url": "https://www.anthropic.com/news/claude-and-slack",
+      "title": "Claude and Slack",
+      "date_published": "2025-10-01T12:00:00+00:00",
+      "date_modified": "2025-10-01T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>We're introducing two ways to use Claude with Slack. Add Claude directly to your Slack workspace, or connect Slack to the Claude apps so Claude can search and reference relevant Slack messages during conversations.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/claude-sonnet-4-5",
       "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
       "title": "Introducing Claude Sonnet 4.5",
