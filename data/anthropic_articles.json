@@ -1,5 +1,5 @@
 {
-  "timestamp": 1759647690.0073552,
+  "timestamp": 1759651304.8813112,
   "articles": [
     {
       "title": "How enterprises are driving AI transformation with Claude",
@@ -376,7 +376,8 @@
       "title": "Reed Hastings appointed to Anthropic\u2019s board of directors",
       "url": "https://www.anthropic.com/news/reed-hastings",
       "date": "2025-05-28T12:00:00+00:00",
-      "source": "news"
+      "source": "news",
+      "summary": "Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg."
     },
     {
       "title": "Activating AI Safety Level 3 protections",
