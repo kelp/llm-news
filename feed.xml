@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-05T00:05:01.520011+00:00</updated>
+  <updated>2025-10-05T01:29:26.076369+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -480,7 +480,7 @@
     <id>https://www.anthropic.com/news/claude-3-5-sonnet</id>
     <title>Claude 3.5 Sonnet</title>
     <updated>2024-06-21T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Consumer Terms and Privacy Policy&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re launching Claude 3.5 Sonnet—our first release in the forthcoming Claude 3.5 model family. Claude 3.5 Sonnet raises the industry bar for intelligence, outperforming competitor models and Claude 3 Opus on a wide range of evaluations, with the speed and cost of our mid-tier model, Claude 3 Sonnet.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-3-5-sonnet"/>
     <category term="news" label="News"/>
     <published>2024-06-21T12:00:00+00:00</published>
@@ -579,7 +579,7 @@
     <id>https://www.anthropic.com/news/artifacts</id>
     <title>Artifacts are now generally available</title>
     <updated>2024-08-27T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Two major upgrades to artifacts&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re makingArtifactsavailable for allClaude.aiusers across our Free, Pro, and Team plans. And now, you can create and view Artifacts on ouriOSandAndroidapps.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/artifacts"/>
     <category term="news" label="News"/>
     <published>2024-08-27T12:00:00+00:00</published>
@@ -669,7 +669,7 @@
     <id>https://www.anthropic.com/news/developing-computer-use</id>
     <title>Developing a computer use model</title>
     <updated>2024-10-22T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Consumer Terms and Privacy Policy&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Claude can now use computers. Thelatest version of Claude 3.5 Sonnetcan, when run through the appropriate software setup, follow a user’s commands to move a cursor around their computer’s screen, click on relevant locations, and input information via a virtual keyboard, emulating the way people interact with their own computer.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/developing-computer-use"/>
     <category term="news" label="News"/>
     <published>2024-10-22T12:00:00+00:00</published>
@@ -768,7 +768,7 @@
     <id>https://www.anthropic.com/news/introducing-citations-api</id>
     <title>Introducing Citations on the Anthropic API</title>
     <updated>2025-01-23T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Now available in Amazon Bedrock&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're launching Citations, a new API feature that lets Claude ground its answers in source documents. Claude can now provide detailed references to the exact sentences and passages it uses to generate responses, leading to more verifiable, trustworthy outputs.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/introducing-citations-api"/>
     <category term="news" label="News"/>
     <published>2025-01-23T12:00:00+00:00</published>
@@ -903,7 +903,7 @@
     <id>https://www.anthropic.com/news/web-search</id>
     <title>Claude can now search the web</title>
     <updated>2025-03-20T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Web search is now available globally on all Claude plans&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;You can now use Claude to search the internet to provide more up-to-date and relevant responses. With web search, Claude has access to the latest events and information, boosting its accuracy on tasks that benefit from the most recent data.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/web-search"/>
     <category term="news" label="News"/>
     <published>2025-03-20T12:00:00+00:00</published>
@@ -1038,7 +1038,7 @@
     <id>https://www.anthropic.com/news/web-search-api</id>
     <title>Introducing web search on the Anthropic API</title>
     <updated>2025-05-07T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;You can now add the web fetch tool to your requests and Claude will fetch and analyze content from any webpage URL.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're introducing web search on the Anthropic API—a new tool that gives Claude access to current information from across the web. With web search enabled, developers can build Claude-powered applications and agents that deliver up-to-date insights.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/web-search-api"/>
     <category term="news" label="News"/>
     <published>2025-05-07T12:00:00+00:00</published>
