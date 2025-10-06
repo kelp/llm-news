@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-06T16:01:48.492872+00:00</updated>
+  <updated>2025-10-06T17:01:58.113449+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1564,5 +1564,14 @@
     <link href="https://www.anthropic.com/news/driving-ai-transformation-with-claude"/>
     <category term="news" label="News"/>
     <published>2025-10-01T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/deloitte-anthropic-partnership</id>
+    <title>Deloitte will make Claude available to 470,000 people across its global network</title>
+    <updated>2025-10-06T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic and Deloitte today announced an expanded alliance that will make Claude available to Deloitte people across its global network and develop new industry-specific solutions powered by Claude. As part of the collaboration, Deloitte will establish a Claude Center of Excellence with trained specialists who will develop implementation frameworks, share leading practices across deployments, and provide ongoing technical support to create the systems needed to move AI pilots to production at scale. The collaboration represents Anthropic's largest enterprise AI deployment to date, available to more than 470,000 Deloitte people.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/deloitte-anthropic-partnership"/>
+    <category term="news" label="News"/>
+    <published>2025-10-06T12:00:00+00:00</published>
   </entry>
 </feed>

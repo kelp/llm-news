@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/deloitte-anthropic-partnership",
+      "url": "https://www.anthropic.com/news/deloitte-anthropic-partnership",
+      "title": "Deloitte will make Claude available to 470,000 people across its global network",
+      "date_published": "2025-10-06T12:00:00+00:00",
+      "date_modified": "2025-10-06T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Anthropic and Deloitte today announced an expanded alliance that will make Claude available to Deloitte people across its global network and develop new industry-specific solutions powered by Claude. As part of the collaboration, Deloitte will establish a Claude Center of Excellence with trained specialists who will develop implementation frameworks, share leading practices across deployments, and provide ongoing technical support to create the systems needed to move AI pilots to production at scale. The collaboration represents Anthropic's largest enterprise AI deployment to date, available to more than 470,000 Deloitte people.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
       "url": "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
       "title": "How enterprises are driving AI transformation with Claude",
