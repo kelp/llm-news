@@ -1,6 +1,13 @@
 {
-  "timestamp": 1759863703.1331663,
+  "timestamp": 1759867302.6075814,
   "articles": [
+    {
+      "title": "Rahul Patil joins Anthropic as Chief Technology Officer",
+      "url": "https://www.anthropic.com/news/rahul-patil-joins-anthropic",
+      "date": "2025-10-07T12:00:00+00:00",
+      "source": "news",
+      "summary": "We're excited to announce that Rahul Patil has joined Anthropic as our Chief Technology Officer. Rahul will oversee our engineering organization across product, compute, infrastructure, inference, data science, and security as we scale Claude to meet growing enterprise demand worldwide."
+    },
     {
       "title": "Deloitte will make Claude available to 470,000 people across its global network",
       "url": "https://www.anthropic.com/news/deloitte-anthropic-partnership",

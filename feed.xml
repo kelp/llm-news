@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-07T19:01:43.135282+00:00</updated>
+  <updated>2025-10-07T20:01:42.610688+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1573,5 +1573,14 @@
     <link href="https://www.anthropic.com/news/deloitte-anthropic-partnership"/>
     <category term="news" label="News"/>
     <published>2025-10-06T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/rahul-patil-joins-anthropic</id>
+    <title>Rahul Patil joins Anthropic as Chief Technology Officer</title>
+    <updated>2025-10-07T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We're excited to announce that Rahul Patil has joined Anthropic as our Chief Technology Officer. Rahul will oversee our engineering organization across product, compute, infrastructure, inference, data science, and security as we scale Claude to meet growing enterprise demand worldwide.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/rahul-patil-joins-anthropic"/>
+    <category term="news" label="News"/>
+    <published>2025-10-07T12:00:00+00:00</published>
   </entry>
 </feed>
