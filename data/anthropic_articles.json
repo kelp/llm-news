@@ -1,6 +1,13 @@
 {
-  "timestamp": 1760025747.7805686,
+  "timestamp": 1760029329.8407612,
   "articles": [
+    {
+      "title": "Customize Claude Code with plugins",
+      "url": "https://www.anthropic.com/news/claude-code-plugins",
+      "date": "2025-10-09T12:00:00+00:00",
+      "source": "news",
+      "summary": "Claude Code now supports plugins: custom collections of slash commands, agents, MCP servers, and hooks that install with a single command."
+    },
     {
       "title": "Expanding our global operations to India with our second Asia Pacific office",
       "url": "https://www.anthropic.com/news/expanding-global-operations-to-india",

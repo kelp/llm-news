@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-09T16:02:27.782705+00:00</updated>
+  <updated>2025-10-09T17:02:09.842863+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1591,5 +1591,14 @@
     <link href="https://www.anthropic.com/news/expanding-global-operations-to-india"/>
     <category term="news" label="News"/>
     <published>2025-10-07T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-code-plugins</id>
+    <title>Customize Claude Code with plugins</title>
+    <updated>2025-10-09T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Claude Code now supports plugins: custom collections of slash commands, agents, MCP servers, and hooks that install with a single command.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-code-plugins"/>
+    <category term="news" label="News"/>
+    <published>2025-10-09T12:00:00+00:00</published>
   </entry>
 </feed>
