@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-11T08:01:52.919221+00:00</updated>
+  <updated>2025-10-11T09:01:32.311226+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1137,7 +1137,7 @@
     <id>https://www.anthropic.com/news/claude-powered-artifacts</id>
     <title>Build and share AI-powered apps with Claude</title>
     <updated>2025-06-25T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Now available on Team and Enterprise plans&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-powered-artifacts"/>
     <category term="news" label="News"/>
     <published>2025-06-25T12:00:00+00:00</published>
@@ -1155,7 +1155,7 @@
     <id>https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program</id>
     <title>Introducing the Anthropic Economic Futures Program</title>
     <updated>2025-06-27T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing theAnthropic Economic Futures Program, a new initiative to support research and policy development focused on addressing AI’s economic impacts. We’re launching this initiative to understand how AI is reshaping the way we work and surface proposals on how to prepare for this shift. This program will serve as an extension of Anthropic’s Economic Index and its insights on AI usage across the workforce. Our goal for this program is to contribute to the development of new research and potential responses to the impacts of AI on the labor market and global economy. To accomplish this, the Economic Futures Program will focus on three pillars:&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program"/>
     <category term="news" label="News"/>
     <published>2025-06-27T12:00:00+00:00</published>

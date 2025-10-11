@@ -1,5 +1,5 @@
 {
-  "timestamp": 1760169712.9170904,
+  "timestamp": 1760173292.3078578,
   "articles": [
     {
       "title": "Customize Claude Code with plugins",
@@ -348,8 +348,7 @@
       "title": "Introducing the Anthropic Economic Futures Program",
       "url": "https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program",
       "date": "2025-06-27T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we're announcing theAnthropic Economic Futures Program, a new initiative to support research and policy development focused on addressing AI\u2019s economic impacts. We\u2019re launching this initiative to understand how AI is reshaping the way we work and surface proposals on how to prepare for this shift. This program will serve as an extension of Anthropic\u2019s Economic Index and its insights on AI usage across the workforce. Our goal for this program is to contribute to the development of new research and potential responses to the impacts of AI on the labor market and global economy. To accomplish this, the Economic Futures Program will focus on three pillars:"
+      "source": "news"
     },
     {
       "title": "How people use Claude for support, advice, and companionship",
@@ -362,8 +361,7 @@
       "title": "Build and share AI-powered apps with Claude",
       "url": "https://www.anthropic.com/news/claude-powered-artifacts",
       "date": "2025-06-25T12:00:00+00:00",
-      "source": "news",
-      "summary": "Now available on Team and Enterprise plans"
+      "source": "news"
     },
     {
       "title": "Turn ideas into interactive AI-powered apps",
