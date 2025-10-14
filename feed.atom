@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-14T12:02:43.260519+00:00</updated>
+  <updated>2025-10-14T13:10:31.323823+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1600,5 +1600,14 @@
     <link href="https://www.anthropic.com/news/claude-code-plugins"/>
     <category term="news" label="News"/>
     <published>2025-10-09T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership</id>
+    <title>Anthropic and Salesforce expand partnership to bring Claude to regulated industries</title>
+    <updated>2025-10-14T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic and Salesforce today announced an expanded partnership to make Claude a preferred model for Salesforce's Agentforce platform, enabling Salesforce customers in financial services, healthcare, cybersecurity, and life sciences to use trusted AI while keeping sensitive data secure. Additionally, Salesforce is deploying Claude Code across its global engineering organization to help developers build and ship faster, while Anthropic broadens its use of Slack.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership"/>
+    <category term="news" label="News"/>
+    <published>2025-10-14T12:00:00+00:00</published>
   </entry>
 </feed>

@@ -1,6 +1,13 @@
 {
-  "timestamp": 1760443363.2583196,
+  "timestamp": 1760447431.3217862,
   "articles": [
+    {
+      "title": "Anthropic and Salesforce expand partnership to bring Claude to regulated industries",
+      "url": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
+      "date": "2025-10-14T12:00:00+00:00",
+      "source": "news",
+      "summary": "Anthropic and Salesforce today announced an expanded partnership to make Claude a preferred model for Salesforce's Agentforce platform, enabling Salesforce customers in financial services, healthcare, cybersecurity, and life sciences to use trusted AI while keeping sensitive data secure. Additionally, Salesforce is deploying Claude Code across its global engineering organization to help developers build and ship faster, while Anthropic broadens its use of Slack."
+    },
     {
       "title": "Customize Claude Code with plugins",
       "url": "https://www.anthropic.com/news/claude-code-plugins",

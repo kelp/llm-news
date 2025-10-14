@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
+      "url": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
+      "title": "Anthropic and Salesforce expand partnership to bring Claude to regulated industries",
+      "date_published": "2025-10-14T12:00:00+00:00",
+      "date_modified": "2025-10-14T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Anthropic and Salesforce today announced an expanded partnership to make Claude a preferred model for Salesforce's Agentforce platform, enabling Salesforce customers in financial services, healthcare, cybersecurity, and life sciences to use trusted AI while keeping sensitive data secure. Additionally, Salesforce is deploying Claude Code across its global engineering organization to help developers build and ship faster, while Anthropic broadens its use of Slack.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/claude-code-plugins",
       "url": "https://www.anthropic.com/news/claude-code-plugins",
       "title": "Customize Claude Code with plugins",
