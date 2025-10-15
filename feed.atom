@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-15T16:01:54.981754+00:00</updated>
+  <updated>2025-10-15T17:02:03.974047+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1609,5 +1609,14 @@
     <link href="https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership"/>
     <category term="news" label="News"/>
     <published>2025-10-14T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-haiku-4-5</id>
+    <title>Introducing Claude Haiku 4.5</title>
+    <updated>2025-10-15T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Claude Haiku 4.5, our latest small model, is available today to all users.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-haiku-4-5"/>
+    <category term="news" label="News"/>
+    <published>2025-10-15T12:00:00+00:00</published>
   </entry>
 </feed>
