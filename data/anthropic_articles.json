@@ -1,6 +1,13 @@
 {
-  "timestamp": 1760626919.2517169,
+  "timestamp": 1760630520.3733346,
   "articles": [
+    {
+      "title": "Introducing Claude Skills",
+      "url": "https://www.anthropic.com/news/skills",
+      "date": "2025-10-16T12:00:00+00:00",
+      "source": "news",
+      "summary": "Claude can now useSkillsto improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed."
+    },
     {
       "title": "Introducing Claude Haiku 4.5",
       "url": "https://www.anthropic.com/news/claude-haiku-4-5",
