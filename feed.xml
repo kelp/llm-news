@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-16T16:02:00.375593+00:00</updated>
+  <updated>2025-10-16T17:02:32.942479+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1625,6 +1625,15 @@
     <updated>2025-10-16T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Claude can now useSkillsto improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/skills"/>
+    <category term="news" label="News"/>
+    <published>2025-10-16T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/productivity-platforms</id>
+    <title>Claude and your productivity platforms</title>
+    <updated>2025-10-16T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Claude now integrates with Microsoft 365 and offers enterprise search across your connected tools.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/productivity-platforms"/>
     <category term="news" label="News"/>
     <published>2025-10-16T12:00:00+00:00</published>
   </entry>

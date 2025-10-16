@@ -1,6 +1,13 @@
 {
-  "timestamp": 1760630520.3733346,
+  "timestamp": 1760634152.940525,
   "articles": [
+    {
+      "title": "Claude and your productivity platforms",
+      "url": "https://www.anthropic.com/news/productivity-platforms",
+      "date": "2025-10-16T12:00:00+00:00",
+      "source": "news",
+      "summary": "Claude now integrates with Microsoft 365 and offers enterprise search across your connected tools."
+    },
     {
       "title": "Introducing Claude Skills",
       "url": "https://www.anthropic.com/news/skills",
