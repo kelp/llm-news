@@ -1,6 +1,13 @@
 {
-  "timestamp": 1760983339.4689338,
+  "timestamp": 1760986911.8536177,
   "articles": [
+    {
+      "title": "Claude Code on the web",
+      "url": "https://www.anthropic.com/news/claude-code-on-the-web",
+      "date": "2025-10-20T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we're introducing Claude Code on the web, a new way to delegate coding tasks directly from your browser."
+    },
     {
       "title": "Claude for Life Sciences",
       "url": "https://www.anthropic.com/news/claude-for-life-sciences",
