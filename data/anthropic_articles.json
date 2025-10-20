@@ -1,6 +1,13 @@
 {
-  "timestamp": 1760976104.897945,
+  "timestamp": 1760979725.3911004,
   "articles": [
+    {
+      "title": "Claude for Life Sciences",
+      "url": "https://www.anthropic.com/news/claude-for-life-sciences",
+      "date": "2025-10-20T12:00:00+00:00",
+      "source": "news",
+      "summary": "Increasing the rate of scientific progress is a core part of Anthropic\u2019s public benefit mission."
+    },
     {
       "title": "Claude and your productivity platforms",
       "url": "https://www.anthropic.com/news/productivity-platforms",

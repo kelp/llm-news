@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-20T16:01:44.901024+00:00</updated>
+  <updated>2025-10-20T17:02:05.393258+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1636,5 +1636,14 @@
     <link href="https://www.anthropic.com/news/productivity-platforms"/>
     <category term="news" label="News"/>
     <published>2025-10-16T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-for-life-sciences</id>
+    <title>Claude for Life Sciences</title>
+    <updated>2025-10-20T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Increasing the rate of scientific progress is a core part of Anthropic’s public benefit mission.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-for-life-sciences"/>
+    <category term="news" label="News"/>
+    <published>2025-10-20T12:00:00+00:00</published>
   </entry>
 </feed>
