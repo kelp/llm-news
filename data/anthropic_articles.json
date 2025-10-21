@@ -1,6 +1,13 @@
 {
-  "timestamp": 1761052318.9925704,
+  "timestamp": 1761055323.1663582,
   "articles": [
+    {
+      "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
+      "url": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
+      "date": "2025-10-21T12:00:00+00:00",
+      "source": "news",
+      "summary": "A statement from Anthropic CEO Dario Amodei on Anthropic\u2019s commitment to advancing America's leadership in building powerful and beneficial AI."
+    },
     {
       "title": "Claude Code on the web",
       "url": "https://www.anthropic.com/news/claude-code-on-the-web",

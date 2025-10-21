@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
+      "url": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
+      "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
+      "date_published": "2025-10-21T12:00:00+00:00",
+      "date_modified": "2025-10-21T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>A statement from Anthropic CEO Dario Amodei on Anthropic\u2019s commitment to advancing America's leadership in building powerful and beneficial AI.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/claude-code-on-the-web",
       "url": "https://www.anthropic.com/news/claude-code-on-the-web",
       "title": "Claude Code on the web",
