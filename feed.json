@@ -848,7 +848,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Now available on Team and Enterprise plans</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Artifacts now support MCP and persistent storage.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/claude-code-remote-mcp",

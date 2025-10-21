@@ -1,5 +1,5 @@
 {
-  "timestamp": 1761062539.3221526,
+  "timestamp": 1761066125.2907982,
   "articles": [
     {
       "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
@@ -419,7 +419,7 @@
       "url": "https://www.anthropic.com/news/build-artifacts",
       "date": "2025-06-25T12:00:00+00:00",
       "source": "news",
-      "summary": "Now available on Team and Enterprise plans"
+      "summary": "Artifacts now support MCP and persistent storage."
     },
     {
       "title": "Remote MCP support in Claude Code",
