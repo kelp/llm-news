@@ -1,5 +1,5 @@
 {
-  "timestamp": 1761080509.4950197,
+  "timestamp": 1761084114.6524022,
   "articles": [
     {
       "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
@@ -153,7 +153,7 @@
       "url": "https://www.anthropic.com/news/create-files",
       "date": "2025-09-09T12:00:00+00:00",
       "source": "news",
-      "summary": "Claude can now create and edit Excel spreadsheets, documents, PowerPoint slide decks, and PDFs directly inClaude.aiand the desktop app. This transforms how you work with Claude\u2014instead of only receiving text responses or in-app artifacts, you can describe what you need, upload relevant data, and get ready-to-use files in return."
+      "summary": "Now generally available for paid plans with new network egress controls."
     },
     {
       "title": "Anthropic is endorsing SB 53",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-21T21:01:49.497083+00:00</updated>
+  <updated>2025-10-21T22:01:54.655721+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1470,7 +1470,7 @@
     <id>https://www.anthropic.com/news/create-files</id>
     <title>Claude can now create and edit files</title>
     <updated>2025-09-09T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Claude can now create and edit Excel spreadsheets, documents, PowerPoint slide decks, and PDFs directly inClaude.aiand the desktop app. This transforms how you work with Claude—instead of only receiving text responses or in-app artifacts, you can describe what you need, upload relevant data, and get ready-to-use files in return.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Now generally available for paid plans with new network egress controls.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/create-files"/>
     <category term="news" label="News"/>
     <published>2025-09-09T12:00:00+00:00</published>

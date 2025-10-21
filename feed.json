@@ -316,7 +316,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Claude can now create and edit Excel spreadsheets, documents, PowerPoint slide decks, and PDFs directly inClaude.aiand the desktop app. This transforms how you work with Claude\u2014instead of only receiving text responses or in-app artifacts, you can describe what you need, upload relevant data, and get ready-to-use files in return.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Now generally available for paid plans with new network egress controls.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
