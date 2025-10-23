@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
+      "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
+      "title": "Expanding our use of Google Cloud TPUs and Services",
+      "date_published": "2025-10-23T12:00:00+00:00",
+      "date_modified": "2025-10-23T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we are announcing that we plan to expand our use of Google Cloud technologies, including up to one million TPUs, dramatically increasing our compute resources as we continue to push the boundaries of AI research and product development. The expansion is worth tens of billions of dollars and is expected to bring well over a gigawatt of capacity online in 2026.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
       "url": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
       "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",

@@ -1,6 +1,13 @@
 {
-  "timestamp": 1761249718.5463512,
+  "timestamp": 1761253305.9921622,
   "articles": [
+    {
+      "title": "Expanding our use of Google Cloud TPUs and Services",
+      "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
+      "date": "2025-10-23T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, we are announcing that we plan to expand our use of Google Cloud technologies, including up to one million TPUs, dramatically increasing our compute resources as we continue to push the boundaries of AI research and product development. The expansion is worth tens of billions of dollars and is expected to bring well over a gigawatt of capacity online in 2026."
+    },
     {
       "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
       "url": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
