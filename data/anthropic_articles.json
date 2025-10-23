@@ -1,5 +1,5 @@
 {
-  "timestamp": 1761235320.5329328,
+  "timestamp": 1761238916.9200716,
   "articles": [
     {
       "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
@@ -146,7 +146,7 @@
       "url": "https://www.anthropic.com/news/memory",
       "date": "2025-09-11T12:00:00+00:00",
       "source": "news",
-      "summary": "Today, we\u2019re introducing memory to the Claude app, where Claude remembers you and your team\u2019s projects and preferences, eliminating the need to re-explain context and keeping complex work moving forward."
+      "summary": "Memory is now rolling out to Pro and Max plan users"
     },
     {
       "title": "Claude can now create and edit files",

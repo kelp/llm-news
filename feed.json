@@ -302,7 +302,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re introducing memory to the Claude app, where Claude remembers you and your team\u2019s projects and preferences, eliminating the need to re-explain context and keeping complex work moving forward.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Memory is now rolling out to Pro and Max plan users</p>"
     },
     {
       "id": "https://www.anthropic.com/news/create-files",
