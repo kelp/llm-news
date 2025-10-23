@@ -1,5 +1,5 @@
 {
-  "timestamp": 1761238916.9200716,
+  "timestamp": 1761242565.422776,
   "articles": [
     {
       "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
@@ -142,7 +142,7 @@
       "summary": "Over the past year, we've collaborated with the US Center for AI Standards and Innovation (CAISI) and UK AI Security Institute (AISI), government bodies established to measure and improve the security of AI systems. Our voluntary work together began as initial consultations, but over time evolved to an ongoing partnership where CAISI and AISI teams were provided access to our systems at various stages of model development, allowing for ongoing testing of our systems."
     },
     {
-      "title": "Bringing memory to teams at work",
+      "title": "Bringing memory to Claude",
       "url": "https://www.anthropic.com/news/memory",
       "date": "2025-09-11T12:00:00+00:00",
       "source": "news",
