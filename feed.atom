@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-23T23:01:47.861049+00:00</updated>
+  <updated>2025-10-24T00:04:12.677212+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1670,6 +1670,15 @@
     <updated>2025-10-23T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we are announcing that we plan to expand our use of Google Cloud technologies, including up to one million TPUs, dramatically increasing our compute resources as we continue to push the boundaries of AI research and product development. The expansion is worth tens of billions of dollars and is expected to bring well over a gigawatt of capacity online in 2026.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services"/>
+    <category term="news" label="News"/>
+    <published>2025-10-23T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific</id>
+    <title>Seoul becomes Anthropic’s third office in Asia-Pacific as we continue our international growth</title>
+    <updated>2025-10-23T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today we're announcing plans to open an office in Seoul in early 2026 as our global operations expand into Korea. Seoul comes on the heels of new offices in Tokyo and Bengaluru, and together this expansion reflects the extraordinary momentum we're seeing across Asia-Pacific—our run rate revenue in the region has grown over 10x in the past year.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific"/>
     <category term="news" label="News"/>
     <published>2025-10-23T12:00:00+00:00</published>
   </entry>

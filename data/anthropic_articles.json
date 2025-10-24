@@ -1,6 +1,13 @@
 {
-  "timestamp": 1761260507.8589416,
+  "timestamp": 1761264252.6750498,
   "articles": [
+    {
+      "title": "Seoul becomes Anthropic\u2019s third office in Asia-Pacific as we continue our international growth",
+      "url": "https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific",
+      "date": "2025-10-23T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today we're announcing plans to open an office in Seoul in early 2026 as our global operations expand into Korea. Seoul comes on the heels of new offices in Tokyo and Bengaluru, and together this expansion reflects the extraordinary momentum we're seeing across Asia-Pacific\u2014our run rate revenue in the region has grown over 10x in the past year."
+    },
     {
       "title": "Expanding our use of Google Cloud TPUs and Services",
       "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
