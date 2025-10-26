@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-26T10:01:56.296502+00:00</updated>
+  <updated>2025-10-26T11:01:53.824630+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1461,7 +1461,7 @@
     <id>https://www.anthropic.com/news/anthropic-is-endorsing-sb-53</id>
     <title>Anthropic is endorsing SB 53</title>
     <updated>2025-09-08T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic is endorsing SB 53, the California bill that governs powerful AI systems built by frontier AI developers like Anthropic. We’velong advocatedfor thoughtful AI regulation and our support for this bill comes after careful consideration of the lessons learned from California's previous attempt at AI regulation (SB 1047). While we believe that frontier AI safety is best addressed at the federal level instead of a patchwork of state regulations, powerful AI advancements won’t wait for consensus in Washington.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"/>
     <category term="news" label="News"/>
     <published>2025-09-08T12:00:00+00:00</published>
