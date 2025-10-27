@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-10-27T15:02:16.606300+00:00</updated>
+  <updated>2025-10-27T16:02:01.052020+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1681,5 +1681,14 @@
     <link href="https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific"/>
     <category term="news" label="News"/>
     <published>2025-10-23T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/advancing-claude-for-financial-services</id>
+    <title>Advancing Claude for Financial Services</title>
+    <updated>2025-10-27T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We're expandingClaude for Financial Serviceswith an Excel add-in, additional connectors to real-time market data and portfolio analytics, and new pre-built Agent Skills, like building discounted cash flow models and initiating coverage reports.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/advancing-claude-for-financial-services"/>
+    <category term="news" label="News"/>
+    <published>2025-10-27T12:00:00+00:00</published>
   </entry>
 </feed>

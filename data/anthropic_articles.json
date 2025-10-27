@@ -1,6 +1,13 @@
 {
-  "timestamp": 1761577336.6030178,
+  "timestamp": 1761580921.048578,
   "articles": [
+    {
+      "title": "Advancing Claude for Financial Services",
+      "url": "https://www.anthropic.com/news/advancing-claude-for-financial-services",
+      "date": "2025-10-27T12:00:00+00:00",
+      "source": "news",
+      "summary": "We're expandingClaude for Financial Serviceswith an Excel add-in, additional connectors to real-time market data and portfolio analytics, and new pre-built Agent Skills, like building discounted cash flow models and initiating coverage reports."
+    },
     {
       "title": "Seoul becomes Anthropic\u2019s third office in Asia-Pacific as we continue our international growth",
       "url": "https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific",
