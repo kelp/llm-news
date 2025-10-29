@@ -1,6 +1,13 @@
 {
-  "timestamp": 1761746510.3146157,
+  "timestamp": 1761750128.9748752,
   "articles": [
+    {
+      "title": "Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute",
+      "url": "https://www.anthropic.com/news/opening-our-tokyo-office",
+      "date": "2025-10-29T12:00:00+00:00",
+      "source": "news",
+      "summary": "This week, we opened our first Asia-Pacific office in Tokyo, a milestone in Anthropic's international expansion. Our CEO and co-founder Dario Amodei traveled to Tokyo to meet with Prime Minister Takaichi, address members of the LDP Digitization Headquarters Committee, meet customers and sign a Memorandum of Cooperation with the Japan AI Safety Institute. These actions deepen our partnership with Japanese government, enterprises, and cultural institutions."
+    },
     {
       "title": "Advancing Claude for Financial Services",
       "url": "https://www.anthropic.com/news/advancing-claude-for-financial-services",

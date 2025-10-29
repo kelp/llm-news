@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/opening-our-tokyo-office",
+      "url": "https://www.anthropic.com/news/opening-our-tokyo-office",
+      "title": "Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute",
+      "date_published": "2025-10-29T12:00:00+00:00",
+      "date_modified": "2025-10-29T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>This week, we opened our first Asia-Pacific office in Tokyo, a milestone in Anthropic's international expansion. Our CEO and co-founder Dario Amodei traveled to Tokyo to meet with Prime Minister Takaichi, address members of the LDP Digitization Headquarters Committee, meet customers and sign a Memorandum of Cooperation with the Japan AI Safety Institute. These actions deepen our partnership with Japanese government, enterprises, and cultural institutions.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/advancing-claude-for-financial-services",
       "url": "https://www.anthropic.com/news/advancing-claude-for-financial-services",
       "title": "Advancing Claude for Financial Services",
