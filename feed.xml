@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-03T21:01:37.809564+00:00</updated>
+  <updated>2025-11-03T22:01:46.487520+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1420,15 +1420,6 @@
     <link href="https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of"/>
     <category term="news" label="News"/>
     <published>2025-09-26T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/news/context-management</id>
-    <title>Managing context on the Claude Developer Platform</title>
-    <updated>2025-09-29T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re introducing new capabilities for managing your agents’ context on the Claude Developer Platform: context editing and the memory tool.&lt;/p&gt;</content>
-    <link href="https://www.anthropic.com/news/context-management"/>
-    <category term="news" label="News"/>
-    <published>2025-09-29T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</id>

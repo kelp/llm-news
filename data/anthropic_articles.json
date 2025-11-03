@@ -1,5 +1,5 @@
 {
-  "timestamp": 1762203697.8075128,
+  "timestamp": 1762207306.4852502,
   "articles": [
     {
       "title": "Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute",
@@ -91,13 +91,6 @@
       "date": "2025-09-29T12:00:00+00:00",
       "source": "news",
       "summary": "We\u2019re introducing several upgrades to Claude Code: a native VS Code extension, version 2.0 of our terminal interface, and checkpoints for autonomous operation. Powered bySonnet 4.5, Claude Code now handles longer, more complex development tasks in your terminal and IDE."
-    },
-    {
-      "title": "Managing context on the Claude Developer Platform",
-      "url": "https://www.anthropic.com/news/context-management",
-      "date": "2025-09-29T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we\u2019re introducing new capabilities for managing your agents\u2019 context on the Claude Developer Platform: context editing and the memory tool."
     },
     {
       "title": "Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International",
