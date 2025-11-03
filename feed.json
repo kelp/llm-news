@@ -81,20 +81,6 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>A statement from Anthropic CEO Dario Amodei on Anthropic\u2019s commitment to advancing America's leadership in building powerful and beneficial AI.</p>"
     },
     {
-      "id": "https://www.anthropic.com/news/claude-code-on-the-web",
-      "url": "https://www.anthropic.com/news/claude-code-on-the-web",
-      "title": "Claude Code on the web",
-      "date_published": "2025-10-20T12:00:00+00:00",
-      "date_modified": "2025-10-20T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're introducing Claude Code on the web, a new way to delegate coding tasks directly from your browser.</p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/claude-for-life-sciences",
       "url": "https://www.anthropic.com/news/claude-for-life-sciences",
       "title": "Claude for Life Sciences",
@@ -107,34 +93,6 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Increasing the rate of scientific progress is a core part of Anthropic\u2019s public benefit mission.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/productivity-platforms",
-      "url": "https://www.anthropic.com/news/productivity-platforms",
-      "title": "Claude and your productivity platforms",
-      "date_published": "2025-10-16T12:00:00+00:00",
-      "date_modified": "2025-10-16T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Claude now integrates with Microsoft 365 and offers enterprise search across your connected tools.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/skills",
-      "url": "https://www.anthropic.com/news/skills",
-      "title": "Introducing Agent Skills",
-      "date_published": "2025-10-16T12:00:00+00:00",
-      "date_modified": "2025-10-16T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Claude can now useSkillsto improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/claude-haiku-4-5",
@@ -163,20 +121,6 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Anthropic and Salesforce today announced an expanded partnership to make Claude a preferred model for Salesforce's Agentforce platform, enabling Salesforce customers in financial services, healthcare, cybersecurity, and life sciences to use trusted AI while keeping sensitive data secure. Additionally, Salesforce is deploying Claude Code across its global engineering organization to help developers build and ship faster, while Anthropic broadens its use of Slack.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/claude-code-plugins",
-      "url": "https://www.anthropic.com/news/claude-code-plugins",
-      "title": "Customize Claude Code with plugins",
-      "date_published": "2025-10-09T12:00:00+00:00",
-      "date_modified": "2025-10-09T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Claude Code now supports plugins: custom collections of slash commands, agents, MCP servers, and hooks that install with a single command.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/expanding-global-operations-to-india",
@@ -219,34 +163,6 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Anthropic and Deloitte today announced an expanded alliance that will make Claude available to Deloitte people across its global network and develop new industry-specific solutions powered by Claude. As part of the collaboration, Deloitte will establish a Claude Center of Excellence with trained specialists who will develop implementation frameworks, share leading practices across deployments, and provide ongoing technical support to create the systems needed to move AI pilots to production at scale. The collaboration represents Anthropic's largest enterprise AI deployment to date, available to more than 470,000 Deloitte people.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
-      "url": "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
-      "title": "How enterprises are driving AI transformation with Claude",
-      "date_published": "2025-10-01T12:00:00+00:00",
-      "date_modified": "2025-10-01T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Asthe leaderin enterprise AI, Anthropic builds state-of-the-art models specializing in industries where precision matters, from coding and cybersecurity to financial services.Claude Sonnet 4.5, our latest release, delivers measurable results\u2014reducing vulnerability response time by 44% for security organizations like HackerOne, enabling investment-grade financial analysis at institutional firms like NBIM, and helping developers at Netflix and GitHub tackle complex, codebase-spanning tasks with unprecedented accuracy.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/claude-and-slack",
-      "url": "https://www.anthropic.com/news/claude-and-slack",
-      "title": "Claude and Slack",
-      "date_published": "2025-10-01T12:00:00+00:00",
-      "date_modified": "2025-10-01T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>We're introducing two ways to use Claude with Slack. Add Claude directly to your Slack workspace, or connect Slack to the Claude apps so Claude can search and reference relevant Slack messages during conversations.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/claude-sonnet-4-5",
@@ -305,20 +221,6 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Today we're announcing Anthropic's expanded global presence with key leadership appointments, enterprise customer momentum, and new international offices across multiple continents.</p>"
     },
     {
-      "id": "https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot",
-      "url": "https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot",
-      "title": "Claude is now available in Microsoft 365 Copilot",
-      "date_published": "2025-09-24T12:00:00+00:00",
-      "date_modified": "2025-09-24T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, Microsoft announced that Claude models are now available in Microsoft 365 Copilot, bringing Claude to millions of enterprise users through Microsoft's productivity platform.</p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/claude-in-xcode",
       "url": "https://www.anthropic.com/news/claude-in-xcode",
       "title": "Claude is now generally available in Xcode",
@@ -345,34 +247,6 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Over the past year, we've collaborated with the US Center for AI Standards and Innovation (CAISI) and UK AI Security Institute (AISI), government bodies established to measure and improve the security of AI systems. Our voluntary work together began as initial consultations, but over time evolved to an ongoing partnership where CAISI and AISI teams were provided access to our systems at various stages of model development, allowing for ongoing testing of our systems.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/memory",
-      "url": "https://www.anthropic.com/news/memory",
-      "title": "Bringing memory to Claude",
-      "date_published": "2025-09-11T12:00:00+00:00",
-      "date_modified": "2025-09-11T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Memory is now rolling out to Pro and Max plan users</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/create-files",
-      "url": "https://www.anthropic.com/news/create-files",
-      "title": "Claude can now create and edit files",
-      "date_published": "2025-09-09T12:00:00+00:00",
-      "date_modified": "2025-09-09T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Now generally available for paid plans with new network egress controls.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
@@ -473,20 +347,6 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Understandably, much of the conversation of AI in education focuses on how students are using large language models to help them study and write. But educators use AI too. In a recent Gallup survey, teachers reported that AI tools saved them an average of 5.9 hours per week. And in an inversion of the usual discussion, students have begun expressing concerns aboutprofessorsusing AI in the classroom.</p>"
     },
     {
-      "id": "https://www.anthropic.com/news/claude-for-chrome",
-      "url": "https://www.anthropic.com/news/claude-for-chrome",
-      "title": "Piloting Claude for Chrome",
-      "date_published": "2025-08-26T12:00:00+00:00",
-      "date_modified": "2025-08-26T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>We've spent recent months connecting Claude to your calendar, documents, and many other pieces of software. The next logical step is letting Claude work directly in your browser.</p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
       "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
       "title": "Anthropic launches higher education advisory board and AI Fluency courses",
@@ -543,20 +403,6 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re sharing some updates to our Usage Policy that reflect the growing capabilities and evolving usage of our products. Our Usage Policy serves as a framework for how Claude should and shouldn\u2019t be used, providing clear guidance for everyone who uses Anthropic\u2019s products.</p>"
     },
     {
-      "id": "https://www.anthropic.com/news/1m-context",
-      "url": "https://www.anthropic.com/news/1m-context",
-      "title": "Claude Sonnet 4 now supports 1M tokens of context",
-      "date_published": "2025-08-12T12:00:00+00:00",
-      "date_modified": "2025-08-12T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Now available on Google Cloud's Vertex AI</p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/building-safeguards-for-claude",
       "url": "https://www.anthropic.com/news/building-safeguards-for-claude",
       "title": "Building safeguards for Claude",
@@ -597,20 +443,6 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Anthropic today announced the appointment of Hidetoshi Tojo as Head of Japan. The appointment comes as the company deepens its commitment to the Japanese market after choosing Tokyo as its first Asia office.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/automate-security-reviews-with-claude-code",
-      "url": "https://www.anthropic.com/news/automate-security-reviews-with-claude-code",
-      "title": "Automate security reviews with Claude Code",
-      "date_published": "2025-08-06T12:00:00+00:00",
-      "date_modified": "2025-08-06T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today we're introducing automated security reviews in Claude Code. Using our GitHub Actions integration and a new /security-review command, developers can easily ask Claude to identify security concerns\u2014and then have it fix them.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/claude-opus-4-1",
@@ -667,20 +499,6 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Anthropic is pleased to sign the Centers for Medicare & Medicaid Services (CMS) Health Tech Ecosystem pledge supporting conversational AI, a collaborative effort between government and industry to modernize healthcare data sharing and improve patient outcomes across America. CMS\u2019s public-private collaboration recognizes that solving interoperability requires both technical innovation and coordinated partnership across the entire healthcare ecosystem.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/how-anthropic-teams-use-claude-code",
-      "url": "https://www.anthropic.com/news/how-anthropic-teams-use-claude-code",
-      "title": "How Anthropic teams use Claude Code",
-      "date_published": "2025-07-24T12:00:00+00:00",
-      "date_modified": "2025-07-24T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Agentic coding tools likeClaude Codehelp developers accelerate workflows, automate repetitive tasks, and tackle complex programming projects. As the field evolves, we're learning about new applications everyday from users, including our own employees.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
@@ -781,20 +599,6 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Energy is central to winning the AI race and we need to ensure that America has the necessary infrastructure to maintain its lead. This includes reliable, abundant energy sources and modernized electric grids capable of supporting the computational and energy demands of advanced AI systems.</p>"
     },
     {
-      "id": "https://www.anthropic.com/news/connectors-directory",
-      "url": "https://www.anthropic.com/news/connectors-directory",
-      "title": "Discover tools that work with Claude",
-      "date_published": "2025-07-14T12:00:00+00:00",
-      "date_modified": "2025-07-14T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we are introducing a new directory of tools that connect to Claude, which you can explore and try with a single click. We are also featuring new connectors, built by our partners, to remote services like Notion, Canva, and Stripe and local desktop applications like Figma, Socket, and Prisma.</p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
       "url": "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
       "title": "Anthropic and the Department of Defense to advance responsible AI in defense operations",
@@ -879,48 +683,6 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>We spend a lot of time studying Claude's IQ\u2014its capabilities on tests of coding, reasoning, general knowledge, and more. But what about itsEQ? That is, what about Claude\u2019semotionalintelligence?</p>"
     },
     {
-      "id": "https://www.anthropic.com/news/claude-powered-artifacts",
-      "url": "https://www.anthropic.com/news/claude-powered-artifacts",
-      "title": "Build and share AI-powered apps with Claude",
-      "date_published": "2025-06-25T12:00:00+00:00",
-      "date_modified": "2025-06-25T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Now available on Team and Enterprise plans</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/build-artifacts",
-      "url": "https://www.anthropic.com/news/build-artifacts",
-      "title": "Turn ideas into interactive AI-powered apps",
-      "date_published": "2025-06-25T12:00:00+00:00",
-      "date_modified": "2025-06-25T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Artifacts now support MCP and persistent storage.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/claude-code-remote-mcp",
-      "url": "https://www.anthropic.com/news/claude-code-remote-mcp",
-      "title": "Remote MCP support in Claude Code",
-      "date_published": "2025-06-18T12:00:00+00:00",
-      "date_modified": "2025-06-18T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re announcing support for remote MCP servers in Claude Code. Connect your favorite tools and data sources to personalize your coding experience without needing to manage local servers.</p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
       "url": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
       "title": "Claude in Amazon Bedrock: Approved for use in FedRAMP High and DoD IL4/5 workloads",
@@ -1003,20 +765,6 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Today, we\u2019re introducing the next generation of Claude models:Claude Opus 4andClaude Sonnet 4, setting new standards for coding, advanced reasoning, and AI agents.</p>"
-    },
-    {
-      "id": "https://www.anthropic.com/news/agent-capabilities-api",
-      "url": "https://www.anthropic.com/news/agent-capabilities-api",
-      "title": "New capabilities for building agents on the Anthropic API",
-      "date_published": "2025-05-22T12:00:00+00:00",
-      "date_modified": "2025-05-22T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program",
@@ -1201,20 +949,6 @@
       "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
     },
     {
-      "id": "https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high",
-      "url": "https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high",
-      "title": "Claude on Google Cloud\u2019s Vertex AI: FedRAMP High and IL2 Authorized",
-      "date_published": "2025-04-02T12:00:00+00:00",
-      "date_modified": "2025-04-02T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing that Claude models are now authorized for FedRAMP High and IL-2 workloads through Google Cloud's Vertex AI platform.</p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/introducing-claude-for-education",
       "url": "https://www.anthropic.com/news/introducing-claude-for-education",
       "title": "Introducing Claude for Education",
@@ -1227,6 +961,20 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Today we're launching Claude for Education, a specialized version of Claude tailored for higher education institutions. This initiative equips universities to develop and implement AI-enabled approaches across teaching, learning, and administration\u2014ensuring educators and students play a key role in actively shaping AI's role in society.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high",
+      "url": "https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high",
+      "title": "Claude on Google Cloud\u2019s Vertex AI: FedRAMP High and IL2 Authorized",
+      "date_published": "2025-04-02T12:00:00+00:00",
+      "date_modified": "2025-04-02T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing that Claude models are now authorized for FedRAMP High and IL-2 workloads through Google Cloud's Vertex AI platform.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7",
@@ -1299,20 +1047,6 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>We've made several updates to the Anthropic API that let developers significantly increase throughput and reduce token usage with Claude 3.7 Sonnet. These include: cache-aware rate limits, simpler prompt caching, and token-efficient tool use.</p>"
     },
     {
-      "id": "https://www.anthropic.com/news/upgraded-anthropic-console",
-      "url": "https://www.anthropic.com/news/upgraded-anthropic-console",
-      "title": "Get to production faster with the upgraded Anthropic Console",
-      "date_published": "2025-03-06T12:00:00+00:00",
-      "date_modified": "2025-03-06T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>We've redesigned the Anthropic Console to serve as one place to build, test, and iterate on your AI deployment with Claude and your teammates.</p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan",
       "url": "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan",
       "title": "Anthropic\u2019s recommendations to OSTP for the U.S. AI action plan",
@@ -1325,6 +1059,20 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>In response to the White House\u2019sRequest for Information on an AI Action Plan, Anthropichas submitted recommendationsto the Office of Science and Technology Policy (OSTP). Our recommendations are designed to better prepare America to capture the economic benefits and national security implications of powerful AI systems.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/upgraded-anthropic-console",
+      "url": "https://www.anthropic.com/news/upgraded-anthropic-console",
+      "title": "Get to production faster with the upgraded Anthropic Console",
+      "date_published": "2025-03-06T12:00:00+00:00",
+      "date_modified": "2025-03-06T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>We've redesigned the Anthropic Console to serve as one place to build, test, and iterate on your AI deployment with Claude and your teammates.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
@@ -1479,6 +1227,20 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>We are excited to announce that Anthropic has achieved accredited certification under the newISO/IEC 42001:2023 standardfor our AI management system. ISO 42001 is the first international standard outlining requirements for AI governance and helps ensure AI systems are developed and used responsibly.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/agent-capabilities-api",
+      "url": "https://www.anthropic.com/news/agent-capabilities-api",
+      "title": "New capabilities for building agents on the Anthropic API",
+      "date_published": "2025-01-09T12:00:00+00:00",
+      "date_modified": "2025-01-09T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing four new capabilities on the Anthropic API that enable developers to build more powerful AI agents: the code execution tool, MCP connector, Files API, and the ability to cache prompts for up to one hour.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/elections-ai-2024",
@@ -2013,20 +1775,6 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>We\u2019re excited to announce that Krishna Rao has joined Anthropic as our Chief Financial Officer. With nearly 20 years of experience as a strategic finance leader for customer-centric, world-class brands and as an investor, Krishna will play a crucial role in shaping Anthropic's financial strategy and operations as we continue to build on our strong enterprise momentum and advance our international expansion.</p>"
     },
     {
-      "id": "https://www.anthropic.com/news/prompt-generator",
-      "url": "https://www.anthropic.com/news/prompt-generator",
-      "title": "Generate better prompts in the developer console",
-      "date_published": "2024-05-20T12:00:00+00:00",
-      "date_modified": "2024-05-20T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>You can now generate production-ready prompt templates in the Anthropic Console. Describe what you want to achieve, and Claude will use prompt engineering techniques such as chain-of-thought reasoning to create an effective, precise, and reliable prompt.</p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
       "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
       "title": "Reflections on our Responsible Scaling Policy",
@@ -2039,6 +1787,20 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>Last summer we published our firstResponsible Scaling Policy (RSP), which focuses on addressing catastrophic safety failures and misuse of frontier models. In adopting this policy, our primary goal is to help turn high-level safety concepts into practical guidelines for fast-moving technical organizations and demonstrate their viability as possible standards. As we operationalize the policy, we expect to learn a great deal and plan to share our findings. This post shares reflections from implementing the policy so far. We are also working on an updated RSP and will share this soon.</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/prompt-generator",
+      "url": "https://www.anthropic.com/news/prompt-generator",
+      "title": "Generate better prompts in the developer console",
+      "date_published": "2024-05-20T12:00:00+00:00",
+      "date_modified": "2024-05-20T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>You can now generate production-ready prompt templates in the Anthropic Console. Describe what you want to achieve, and Claude will use prompt engineering techniques such as chain-of-thought reasoning to create an effective, precise, and reliable prompt.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/mike-krieger-joins-anthropic",
