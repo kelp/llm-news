@@ -1,6 +1,13 @@
 {
-  "timestamp": 1762239688.7595174,
+  "timestamp": 1762243347.4015384,
   "articles": [
+    {
+      "title": "Anthropic and Iceland announce one of the world\u2019s first national AI education pilots",
+      "url": "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots",
+      "date": "2025-11-04T12:00:00+00:00",
+      "source": "news",
+      "summary": "Today, Anthropic and Iceland's Ministry of Education and Children are announcing a partnership to bring Claude to teachers across the nation, launching one of the world's first comprehensive national AI education pilots. This initiative will give teachers from every region of Iceland\u2014from Reykjavik to the most remote villages\u2014access to advanced AI tools as the country explores how artificial intelligence can transform education."
+    },
     {
       "title": "Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute",
       "url": "https://www.anthropic.com/news/opening-our-tokyo-office",

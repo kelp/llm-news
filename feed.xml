@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-04T07:01:28.761616+00:00</updated>
+  <updated>2025-11-04T08:02:27.404632+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1537,5 +1537,14 @@
     <link href="https://www.anthropic.com/news/opening-our-tokyo-office"/>
     <category term="news" label="News"/>
     <published>2025-10-29T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots</id>
+    <title>Anthropic and Iceland announce one of the world’s first national AI education pilots</title>
+    <updated>2025-11-04T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, Anthropic and Iceland's Ministry of Education and Children are announcing a partnership to bring Claude to teachers across the nation, launching one of the world's first comprehensive national AI education pilots. This initiative will give teachers from every region of Iceland—from Reykjavik to the most remote villages—access to advanced AI tools as the country explores how artificial intelligence can transform education.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots"/>
+    <category term="news" label="News"/>
+    <published>2025-11-04T12:00:00+00:00</published>
   </entry>
 </feed>
