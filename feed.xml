@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-05T07:01:40.153732+00:00</updated>
+  <updated>2025-11-05T08:01:48.219271+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1546,5 +1546,14 @@
     <link href="https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots"/>
     <category term="news" label="News"/>
     <published>2025-11-04T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/economic-futures-uk-europe</id>
+    <title>Launching the Anthropic Economic Futures Programme in the UK and Europe</title>
+    <updated>2025-11-05T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;AI adoption is increasing rapidly in Europe and the UK, but the conversation about how to manage its effects on labor and the economy is still at a very early stage. This matters: the decisions politicians make today will affect the continent’s labor force, productivity, and growth for years to come.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/economic-futures-uk-europe"/>
+    <category term="news" label="News"/>
+    <published>2025-11-05T12:00:00+00:00</published>
   </entry>
 </feed>

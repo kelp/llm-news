@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/economic-futures-uk-europe",
+      "url": "https://www.anthropic.com/news/economic-futures-uk-europe",
+      "title": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
+      "date_published": "2025-11-05T12:00:00+00:00",
+      "date_modified": "2025-11-05T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>AI adoption is increasing rapidly in Europe and the UK, but the conversation about how to manage its effects on labor and the economy is still at a very early stage. This matters: the decisions politicians make today will affect the continent\u2019s labor force, productivity, and growth for years to come.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots",
       "url": "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots",
       "title": "Anthropic and Iceland announce one of the world\u2019s first national AI education pilots",
