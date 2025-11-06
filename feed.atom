@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-06T20:01:49.230377+00:00</updated>
+  <updated>2025-11-06T21:01:41.410887+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1537,6 +1537,15 @@
     <link href="https://www.anthropic.com/news/opening-our-tokyo-office"/>
     <category term="news" label="News"/>
     <published>2025-10-29T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/cognizant-partnership</id>
+    <title>Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation</title>
+    <updated>2025-11-04T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Cognizant, a ​​leading information technology consulting company, announced today that it will use Claude to help its enterprise customers and internal teams move from AI experimentation to production outcomes. Cognizant will deploy Claude to up to 350,000 employees globally, combining Claude with agentic tooling, Cognizant's engineering platforms, and industry blueprints to help deliver measurable impact at enterprise scale.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/cognizant-partnership"/>
+    <category term="news" label="News"/>
+    <published>2025-11-04T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots</id>

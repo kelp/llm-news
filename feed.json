@@ -39,6 +39,20 @@
       "content_html": "<p><strong>Source:</strong> news</p><p>Today, Anthropic and Iceland's Ministry of Education and Children are announcing a partnership to bring Claude to teachers across the nation, launching one of the world's first comprehensive national AI education pilots. This initiative will give teachers from every region of Iceland\u2014from Reykjavik to the most remote villages\u2014access to advanced AI tools as the country explores how artificial intelligence can transform education.</p>"
     },
     {
+      "id": "https://www.anthropic.com/news/cognizant-partnership",
+      "url": "https://www.anthropic.com/news/cognizant-partnership",
+      "title": "Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation",
+      "date_published": "2025-11-04T12:00:00+00:00",
+      "date_modified": "2025-11-04T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>Cognizant, a \u200b\u200bleading information technology consulting company, announced today that it will use Claude to help its enterprise customers and internal teams move from AI experimentation to production outcomes. Cognizant will deploy Claude to up to 350,000 employees globally, combining Claude with agentic tooling, Cognizant's engineering platforms, and industry blueprints to help deliver measurable impact at enterprise scale.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/opening-our-tokyo-office",
       "url": "https://www.anthropic.com/news/opening-our-tokyo-office",
       "title": "Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute",
