@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-06T07:01:46.426139+00:00</updated>
+  <updated>2025-11-06T08:08:25.053813+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1083,7 +1083,7 @@
     <id>https://www.anthropic.com/news/reed-hastings</id>
     <title>Reed Hastings appointed to Anthropic’s board of directors</title>
     <updated>2025-05-28T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/reed-hastings"/>
     <category term="news" label="News"/>
     <published>2025-05-28T12:00:00+00:00</published>
@@ -1101,7 +1101,7 @@
     <id>https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust</id>
     <title>National security expert Richard Fontaine appointed to Anthropic’s long-term benefit trust</title>
     <updated>2025-06-07T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic's Long-Term Benefit Trust today announced the appointment of Richard Fontaine, CEO of the Center for a New American Security, as a new member of the Trust. The Long-Term Benefit Trust (LTBT) is an independent body designed to help Anthropic achieve its public benefit mission.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust"/>
     <category term="news" label="News"/>
     <published>2025-06-07T12:00:00+00:00</published>
@@ -1110,7 +1110,7 @@
     <id>https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high</id>
     <title>Claude in Amazon Bedrock: Approved for use in FedRAMP High and DoD IL4/5 workloads</title>
     <updated>2025-06-11T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high"/>
     <category term="news" label="News"/>
     <published>2025-06-11T12:00:00+00:00</published>
@@ -1146,7 +1146,7 @@
     <id>https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and</id>
     <title>Lawrence Livermore National Laboratory expands Claude for Enterprise use to empower scientists and researchers</title>
     <updated>2025-07-09T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Lawrence Livermore National Laboratory (LLNL), one of the United States' premier research institutions, is expanding its deployment of Claude for Enterprise to its entire laboratory. This expansion will make advanced AI capabilities available to about 10,000 scientists, researchers, and staff. LLNL's expansion of Claude access will help bolster research across nuclear deterrence, energy, materials science, and energy security in one of the largest deployments of Claude for Enterprise within the U.S. Department of Energy's national laboratory system.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and"/>
     <category term="news" label="News"/>
     <published>2025-07-09T12:00:00+00:00</published>
@@ -1182,7 +1182,7 @@
     <id>https://www.anthropic.com/news/claude-for-financial-services</id>
     <title>Claude for Financial Services</title>
     <updated>2025-07-15T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-for-financial-services"/>
     <category term="news" label="News"/>
     <published>2025-07-15T12:00:00+00:00</published>
@@ -1218,7 +1218,7 @@
     <id>https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic</id>
     <title>Anthropic partners with the University of Chicago’s Becker Friedman Institute on AI economic research</title>
     <updated>2025-07-23T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re announcing a partnership with the University of Chicago's Becker Friedman Institute for Economics (BFI) to study AI's impact on labor markets and the economy. As part of this, we will equip BFI faculty economists with Claude for Enterprise access, provide training sessions on applying AI in economic research, and offer virtual workshops on our research to measure AI’s economic impacts. This partnership is an extension of ourEconomic Indexinitiative, which is dedicated to tracking and understanding AI’s effects on the economy over time.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic"/>
     <category term="news" label="News"/>
     <published>2025-07-23T12:00:00+00:00</published>
@@ -1236,7 +1236,7 @@
     <id>https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability</id>
     <title>Anthropic Signs CMS Health Tech Ecosystem Pledge to Advance Healthcare Interoperability</title>
     <updated>2025-07-30T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic is pleased to sign the Centers for Medicare &amp; Medicaid Services (CMS) Health Tech Ecosystem pledge supporting conversational AI, a collaborative effort between government and industry to modernize healthcare data sharing and improve patient outcomes across America. CMS’s public-private collaboration recognizes that solving interoperability requires both technical innovation and coordinated partnership across the entire healthcare ecosystem.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability"/>
     <category term="news" label="News"/>
     <published>2025-07-30T12:00:00+00:00</published>
@@ -1281,7 +1281,7 @@
     <id>https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government</id>
     <title>Offering expanded Claude access across all three branches of the U.S. government</title>
     <updated>2025-08-12T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today we are removing barriers to government AI adoption by offering Claude for Enterprise and Claude for Government to all three branches of government, including federal civilian executive branch agencies, as well as legislative and judiciary branches of government, for $1.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government"/>
     <category term="news" label="News"/>
     <published>2025-08-12T12:00:00+00:00</published>
@@ -1290,7 +1290,7 @@
     <id>https://www.anthropic.com/news/building-safeguards-for-claude</id>
     <title>Building safeguards for Claude</title>
     <updated>2025-08-12T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Claude empowers millions of users to tackle complex challenges, spark creativity, and deepen their understanding of the world. We want to amplify human potential while ensuring our models’ capabilities are channeled toward beneficial outcomes. This means continuously refining how we support our users’ learning and problem-solving, while preventing misuse that could cause real-world harm.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/building-safeguards-for-claude"/>
     <category term="news" label="News"/>
     <published>2025-08-12T12:00:00+00:00</published>
@@ -1299,7 +1299,7 @@
     <id>https://www.anthropic.com/news/usage-policy-update</id>
     <title>Usage policy update</title>
     <updated>2025-08-15T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re sharing some updates to our Usage Policy that reflect the growing capabilities and evolving usage of our products. Our Usage Policy serves as a framework for how Claude should and shouldn’t be used, providing clear guidance for everyone who uses Anthropic’s products.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/usage-policy-update"/>
     <category term="news" label="News"/>
     <published>2025-08-15T12:00:00+00:00</published>
@@ -1317,7 +1317,7 @@
     <id>https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership</id>
     <title>Developing nuclear safeguards for AI through public-private partnership</title>
     <updated>2025-08-21T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Nuclear technology is inherently dual-use: the same physics principles that power nuclear reactors can be misused for weapons development. As AI models become more capable, we need to keep a close eye on whether they can provide users with dangerous technical knowledge in ways that could threaten national security.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership"/>
     <category term="news" label="News"/>
     <published>2025-08-21T12:00:00+00:00</published>
@@ -1425,7 +1425,7 @@
     <id>https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</id>
     <title>Enabling Claude Code to work more autonomously</title>
     <updated>2025-09-29T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;We’re introducing several upgrades to Claude Code: a native VS Code extension, version 2.0 of our terminal interface, and checkpoints for autonomous operation. Powered bySonnet 4.5, Claude Code now handles longer, more complex development tasks in your terminal and IDE.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously"/>
     <category term="news" label="News"/>
     <published>2025-09-29T12:00:00+00:00</published>
@@ -1461,7 +1461,7 @@
     <id>https://www.anthropic.com/news/expanding-global-operations-to-india</id>
     <title>Expanding our global operations to India with our second Asia Pacific office</title>
     <updated>2025-10-07T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today we’re announcing that we’re expanding our global operations to India, with plans to open an office in Bengaluru in early 2026. Bengaluru will serve as our second office in Asia Pacific afterTokyo, which will open in the coming months. This expansion will help us serve India’s rapidly growing AI ecosystem and reflects the increasing international demand we’re seeing for Claude.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/expanding-global-operations-to-india"/>
     <category term="news" label="News"/>
     <published>2025-10-07T12:00:00+00:00</published>
