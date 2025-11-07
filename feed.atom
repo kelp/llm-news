@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-07T07:01:38.387674+00:00</updated>
+  <updated>2025-11-07T08:01:54.154714+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1564,5 +1564,14 @@
     <link href="https://www.anthropic.com/news/economic-futures-uk-europe"/>
     <category term="news" label="News"/>
     <published>2025-11-05T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence</id>
+    <title>New offices in Paris and Munich expand Anthropic’s European presence</title>
+    <updated>2025-11-07T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're announcing plans to open offices in Paris and Munich as our global operations expand across Europe. These new hubs follow recent office openings inTokyo,Seoul, andBengaluruand will further grow ourEuropean footprintalongside our offices in London, Dublin, and Zurich. They’re the latest example of Anthropic’s extraordinary momentum in Europe—and allaround the world. In the past year, we have tripled the number of employees we have in the EMEA region and will continue to expand our headcount with the addition of these new offices.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence"/>
+    <category term="news" label="News"/>
+    <published>2025-11-07T12:00:00+00:00</published>
   </entry>
 </feed>
