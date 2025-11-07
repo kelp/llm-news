@@ -1,5 +1,5 @@
 {
-  "timestamp": 1762491698.9116857,
+  "timestamp": 1762495399.4166496,
   "articles": [
     {
       "title": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
@@ -54,8 +54,7 @@
       "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
       "url": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
       "date": "2025-10-21T12:00:00+00:00",
-      "source": "news",
-      "summary": "A statement from Anthropic CEO Dario Amodei on Anthropic\u2019s commitment to advancing America's leadership in building powerful and beneficial AI."
+      "source": "news"
     },
     {
       "title": "Claude for Life Sciences",
@@ -285,8 +284,7 @@
       "title": "Anthropic to sign the EU Code of Practice",
       "url": "https://www.anthropic.com/news/eu-code-practice",
       "date": "2025-07-21T12:00:00+00:00",
-      "source": "news",
-      "summary": "After review, Anthropic intends to sign the European Union's General-Purpose AI Code of Practice. We believe the Code advances the principles of transparency, safety and accountability\u2014values that have long been championed by Anthropic for frontier AI development. If thoughtfully implemented, the EU AI Act and Code will enable Europe to harness the most significant technology of our time to power innovation and competitiveness."
+      "source": "news"
     },
     {
       "title": "Paul Smith to join Anthropic as Chief Commercial Officer",
