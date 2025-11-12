@@ -22,7 +22,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we are announcing a $50 billion investment in American computing infrastructure, building data centers withFluidstackin Texas and New York, with more sites to come. These facilities are custom built for Anthropic with a focus on maximizing efficiency for our workloads, enabling continued research and development at the frontier.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence",

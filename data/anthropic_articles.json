@@ -1,11 +1,12 @@
 {
-  "timestamp": 1762959703.8689995,
+  "timestamp": 1762963316.6857789,
   "articles": [
     {
       "title": "Anthropic invests $50 billion in American AI infrastructure",
       "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
       "date": "2025-11-13T12:00:00+00:00",
-      "source": "news"
+      "source": "news",
+      "summary": "Today, we are announcing a $50 billion investment in American computing infrastructure, building data centers withFluidstackin Texas and New York, with more sites to come. These facilities are custom built for Anthropic with a focus on maximizing efficiency for our workloads, enabling continued research and development at the frontier."
     },
     {
       "title": "New offices in Paris and Munich expand Anthropic\u2019s European presence",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-12T15:01:43.872137+00:00</updated>
+  <updated>2025-11-12T16:01:56.687928+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1578,7 +1578,7 @@
     <id>https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure</id>
     <title>Anthropic invests $50 billion in American AI infrastructure</title>
     <updated>2025-11-13T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we are announcing a $50 billion investment in American computing infrastructure, building data centers withFluidstackin Texas and New York, with more sites to come. These facilities are custom built for Anthropic with a focus on maximizing efficiency for our workloads, enabling continued research and development at the frontier.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure"/>
     <category term="news" label="News"/>
     <published>2025-11-13T12:00:00+00:00</published>
