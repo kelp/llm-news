@@ -1,12 +1,6 @@
 {
-  "timestamp": 1763064121.956789,
+  "timestamp": 1763067709.5968535,
   "articles": [
-    {
-      "title": "Measuring political bias in Claude",
-      "url": "https://www.anthropic.com/news/political-even-handedness",
-      "date": "2025-11-14T12:00:00+00:00",
-      "source": "news"
-    },
     {
       "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
       "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
@@ -19,6 +13,13 @@
       "date": "2025-11-13T12:00:00+00:00",
       "source": "news",
       "summary": "The state of Maryland hasannouncedit will use Anthropic's advanced AI models to improve government operations and better serve its more than six million residents. Under the new partnership, the state will deploy Claude across multiple state agencies to address several priorities:"
+    },
+    {
+      "title": "Measuring political bias in Claude",
+      "url": "https://www.anthropic.com/news/political-even-handedness",
+      "date": "2025-11-13T12:00:00+00:00",
+      "source": "news",
+      "summary": "We want Claude to be seen as fair and trustworthy by people across the political spectrum, and to be unbiased and even-handed in its approach to political topics."
     },
     {
       "title": "Anthropic invests $50 billion in American AI infrastructure",

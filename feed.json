@@ -11,20 +11,6 @@
   ],
   "items": [
     {
-      "id": "https://www.anthropic.com/news/political-even-handedness",
-      "url": "https://www.anthropic.com/news/political-even-handedness",
-      "title": "Measuring political bias in Claude",
-      "date_published": "2025-11-14T12:00:00+00:00",
-      "date_modified": "2025-11-14T12:00:00+00:00",
-      "tags": [
-        {
-          "term": "news",
-          "label": "News"
-        }
-      ],
-      "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
-    },
-    {
       "id": "https://www.anthropic.com/news/disrupting-AI-espionage",
       "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
       "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
@@ -51,6 +37,20 @@
         }
       ],
       "content_html": "<p><strong>Source:</strong> news</p><p>The state of Maryland hasannouncedit will use Anthropic's advanced AI models to improve government operations and better serve its more than six million residents. Under the new partnership, the state will deploy Claude across multiple state agencies to address several priorities:</p>"
+    },
+    {
+      "id": "https://www.anthropic.com/news/political-even-handedness",
+      "url": "https://www.anthropic.com/news/political-even-handedness",
+      "title": "Measuring political bias in Claude",
+      "date_published": "2025-11-13T12:00:00+00:00",
+      "date_modified": "2025-11-13T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>We want Claude to be seen as fair and trustworthy by people across the political spectrum, and to be unbiased and even-handed in its approach to political topics.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
