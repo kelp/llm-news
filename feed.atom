@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-13T17:02:18.781847+00:00</updated>
+  <updated>2025-11-13T18:01:57.048919+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1587,7 +1587,7 @@
     <id>https://www.anthropic.com/news/maryland-partnership</id>
     <title>The state of Maryland partners with Anthropic to better serve residents</title>
     <updated>2025-11-13T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;The state of Maryland has announced it will use Anthropic's advanced AI models to improve government operations and better serve its more than six million residents. Under the new partnership, the state will deploy Claude across multiple state agencies to address several priorities:&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;The state of Maryland hasannouncedit will use Anthropic's advanced AI models to improve government operations and better serve its more than six million residents. Under the new partnership, the state will deploy Claude across multiple state agencies to address several priorities:&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/maryland-partnership"/>
     <category term="news" label="News"/>
     <published>2025-11-13T12:00:00+00:00</published>

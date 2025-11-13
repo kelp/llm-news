@@ -22,7 +22,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>The state of Maryland has announced it will use Anthropic's advanced AI models to improve government operations and better serve its more than six million residents. Under the new partnership, the state will deploy Claude across multiple state agencies to address several priorities:</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>The state of Maryland hasannouncedit will use Anthropic's advanced AI models to improve government operations and better serve its more than six million residents. Under the new partnership, the state will deploy Claude across multiple state agencies to address several priorities:</p>"
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
