@@ -1,6 +1,12 @@
 {
-  "timestamp": 1763056917.046818,
+  "timestamp": 1763060515.061014,
   "articles": [
+    {
+      "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
+      "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+      "date": "2025-11-13T12:00:00+00:00",
+      "source": "news"
+    },
     {
       "title": "The state of Maryland partners with Anthropic to better serve residents",
       "url": "https://www.anthropic.com/news/maryland-partnership",

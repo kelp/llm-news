@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-13T18:01:57.048919+00:00</updated>
+  <updated>2025-11-13T19:01:55.063361+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1589,6 +1589,15 @@
     <updated>2025-11-13T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;The state of Maryland hasannouncedit will use Anthropic's advanced AI models to improve government operations and better serve its more than six million residents. Under the new partnership, the state will deploy Claude across multiple state agencies to address several priorities:&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/maryland-partnership"/>
+    <category term="news" label="News"/>
+    <published>2025-11-13T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/disrupting-AI-espionage</id>
+    <title>Disrupting the first reported AI-orchestrated cyber espionage campaign</title>
+    <updated>2025-11-13T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/disrupting-AI-espionage"/>
     <category term="news" label="News"/>
     <published>2025-11-13T12:00:00+00:00</published>
   </entry>
