@@ -1,6 +1,12 @@
 {
-  "timestamp": 1763060515.061014,
+  "timestamp": 1763064121.956789,
   "articles": [
+    {
+      "title": "Measuring political bias in Claude",
+      "url": "https://www.anthropic.com/news/political-even-handedness",
+      "date": "2025-11-14T12:00:00+00:00",
+      "source": "news"
+    },
     {
       "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
       "url": "https://www.anthropic.com/news/disrupting-AI-espionage",

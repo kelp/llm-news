@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-13T19:01:55.063361+00:00</updated>
+  <updated>2025-11-13T20:02:01.958850+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1600,5 +1600,14 @@
     <link href="https://www.anthropic.com/news/disrupting-AI-espionage"/>
     <category term="news" label="News"/>
     <published>2025-11-13T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/political-even-handedness</id>
+    <title>Measuring political bias in Claude</title>
+    <updated>2025-11-14T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/political-even-handedness"/>
+    <category term="news" label="News"/>
+    <published>2025-11-14T12:00:00+00:00</published>
   </entry>
 </feed>
