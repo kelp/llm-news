@@ -1,5 +1,5 @@
 {
-  "timestamp": 1763287288.788245,
+  "timestamp": 1763290882.3850117,
   "articles": [
     {
       "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
@@ -382,15 +382,13 @@
       "title": "How people use Claude for support, advice, and companionship",
       "url": "https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship",
       "date": "2025-06-27T12:00:00+00:00",
-      "source": "news",
-      "summary": "We spend a lot of time studying Claude's IQ\u2014its capabilities on tests of coding, reasoning, general knowledge, and more. But what about itsEQ? That is, what about Claude\u2019semotionalintelligence?"
+      "source": "news"
     },
     {
       "title": "Claude in Amazon Bedrock: Approved for use in FedRAMP High and DoD IL4/5 workloads",
       "url": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
       "date": "2025-06-11T12:00:00+00:00",
-      "source": "news",
-      "summary": "Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions."
+      "source": "news"
     },
     {
       "title": "National security expert Richard Fontaine appointed to Anthropic\u2019s long-term benefit trust",
