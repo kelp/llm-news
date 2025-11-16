@@ -778,7 +778,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>We spend a lot of time studying Claude's IQ\u2014its capabilities on tests of coding, reasoning, general knowledge, and more. But what about itsEQ? That is, what about Claude\u2019semotionalintelligence?</p>"
     },
     {
       "id": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
@@ -792,7 +792,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust",
