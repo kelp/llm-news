@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-17T13:11:10.362301+00:00</updated>
+  <updated>2025-11-17T14:01:43.496564+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1609,5 +1609,14 @@
     <link href="https://www.anthropic.com/news/disrupting-AI-espionage"/>
     <category term="news" label="News"/>
     <published>2025-11-13T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/rwandan-government-partnership-ai-education</id>
+    <title>Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa</title>
+    <updated>2025-11-18T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic is announcing a new partnership with the Government of Rwanda and African tech training provider ALX to bring Chidi—a learning companion built on Claude—to hundreds of thousands of learners across Africa. Rwanda's ICT &amp; Innovation and Education ministries are deploying Chidi within their national education system, while ALX will bring the tool to students across the continent through their technology training programs.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/rwandan-government-partnership-ai-education"/>
+    <category term="news" label="News"/>
+    <published>2025-11-18T12:00:00+00:00</published>
   </entry>
 </feed>

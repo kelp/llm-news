@@ -1,6 +1,13 @@
 {
-  "timestamp": 1763385070.3602066,
+  "timestamp": 1763388103.4945726,
   "articles": [
+    {
+      "title": "Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",
+      "url": "https://www.anthropic.com/news/rwandan-government-partnership-ai-education",
+      "date": "2025-11-18T12:00:00+00:00",
+      "source": "news",
+      "summary": "Anthropic is announcing a new partnership with the Government of Rwanda and African tech training provider ALX to bring Chidi\u2014a learning companion built on Claude\u2014to hundreds of thousands of learners across Africa. Rwanda's ICT & Innovation and Education ministries are deploying Chidi within their national education system, while ALX will bring the tool to students across the continent through their technology training programs."
+    },
     {
       "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
       "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
