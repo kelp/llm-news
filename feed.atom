@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-18T15:01:51.768362+00:00</updated>
+  <updated>2025-11-18T16:01:56.942811+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1616,6 +1616,24 @@
     <updated>2025-11-18T12:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic is announcing a new partnership with the Government of Rwanda and African tech training provider ALX to bring Chidi—a learning companion built on Claude—to hundreds of thousands of learners across Africa. Rwanda's ICT &amp; Innovation and Education ministries are deploying Chidi within their national education system, while ALX will bring the tool to students across the continent through their technology training programs.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/rwandan-government-partnership-ai-education"/>
+    <category term="news" label="News"/>
+    <published>2025-11-18T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships</id>
+    <title>Microsoft, NVIDIA and Anthropic announce strategic partnerships</title>
+    <updated>2025-11-18T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today Microsoft, NVIDIA and Anthropic announced new strategic partnerships. Anthropic is scaling its rapidly-growing Claude AI model on Microsoft Azure, powered by NVIDIA, which will broaden access to Claude and provide Azure enterprise customers with expanded model choice and new capabilities. Anthropic has committed to purchase $30 billion of Azure compute capacity and to contract additional compute capacity up to one gigawatt.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships"/>
+    <category term="news" label="News"/>
+    <published>2025-11-18T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/news/claude-in-microsoft-foundry</id>
+    <title>Claude now available in Microsoft Foundry and Microsoft 365 Copilot</title>
+    <updated>2025-11-18T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today we announced that Microsoft and Anthropic areexpanding our partnership. As part of the partnership, Claude Sonnet 4.5, Haiku 4.5, and Opus 4.1 models are now available in public preview in Microsoft Foundry, where Azure customers can build production applications and enterprise agents.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-in-microsoft-foundry"/>
     <category term="news" label="News"/>
     <published>2025-11-18T12:00:00+00:00</published>
   </entry>
