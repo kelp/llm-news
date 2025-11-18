@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-18T18:02:05.596691+00:00</updated>
+  <updated>2025-11-18T19:02:05.183952+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1621,9 +1621,9 @@
   </entry>
   <entry>
     <id>https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships</id>
-    <title>Microsoft, NVIDIA and Anthropic announce strategic partnerships</title>
+    <title>Microsoft, NVIDIA, and Anthropic announce strategic partnerships</title>
     <updated>2025-11-18T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today Microsoft, NVIDIA and Anthropic announced new strategic partnerships. Anthropic is scaling its rapidly-growing Claude AI model on Microsoft Azure, powered by NVIDIA, which will broaden access to Claude and provide Azure enterprise customers with expanded model choice and new capabilities. Anthropic has committed to purchase $30 billion of Azure compute capacity and to contract additional compute capacity up to one gigawatt.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today Microsoft, NVIDIA, and Anthropic announced new strategic partnerships. Anthropic is scaling its rapidly-growing Claude AI model on Microsoft Azure, powered by NVIDIA, which will broaden access to Claude and provide Azure enterprise customers with expanded model choice and new capabilities. Anthropic has committed to purchase $30 billion of Azure compute capacity and to contract additional compute capacity up to one gigawatt.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships"/>
     <category term="news" label="News"/>
     <published>2025-11-18T12:00:00+00:00</published>

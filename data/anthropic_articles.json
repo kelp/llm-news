@@ -1,5 +1,5 @@
 {
-  "timestamp": 1763488925.594634,
+  "timestamp": 1763492525.1807494,
   "articles": [
     {
       "title": "Claude now available in Microsoft Foundry and Microsoft 365 Copilot",
@@ -9,11 +9,11 @@
       "summary": "Today we announced that Microsoft and Anthropic areexpanding our partnership. As part of the partnership, Claude Sonnet 4.5, Haiku 4.5, and Opus 4.1 models are now available in public preview in Microsoft Foundry, where Azure customers can build production applications and enterprise agents."
     },
     {
-      "title": "Microsoft, NVIDIA and Anthropic announce strategic partnerships",
+      "title": "Microsoft, NVIDIA, and Anthropic announce strategic partnerships",
       "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
       "date": "2025-11-18T12:00:00+00:00",
       "source": "news",
-      "summary": "Today Microsoft, NVIDIA and Anthropic announced new strategic partnerships. Anthropic is scaling its rapidly-growing Claude AI model on Microsoft Azure, powered by NVIDIA, which will broaden access to Claude and provide Azure enterprise customers with expanded model choice and new capabilities. Anthropic has committed to purchase $30 billion of Azure compute capacity and to contract additional compute capacity up to one gigawatt."
+      "summary": "Today Microsoft, NVIDIA, and Anthropic announced new strategic partnerships. Anthropic is scaling its rapidly-growing Claude AI model on Microsoft Azure, powered by NVIDIA, which will broaden access to Claude and provide Azure enterprise customers with expanded model choice and new capabilities. Anthropic has committed to purchase $30 billion of Azure compute capacity and to contract additional compute capacity up to one gigawatt."
     },
     {
       "title": "Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",

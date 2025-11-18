@@ -27,7 +27,7 @@
     {
       "id": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
       "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
-      "title": "Microsoft, NVIDIA and Anthropic announce strategic partnerships",
+      "title": "Microsoft, NVIDIA, and Anthropic announce strategic partnerships",
       "date_published": "2025-11-18T12:00:00+00:00",
       "date_modified": "2025-11-18T12:00:00+00:00",
       "tags": [
@@ -36,7 +36,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Today Microsoft, NVIDIA and Anthropic announced new strategic partnerships. Anthropic is scaling its rapidly-growing Claude AI model on Microsoft Azure, powered by NVIDIA, which will broaden access to Claude and provide Azure enterprise customers with expanded model choice and new capabilities. Anthropic has committed to purchase $30 billion of Azure compute capacity and to contract additional compute capacity up to one gigawatt.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today Microsoft, NVIDIA, and Anthropic announced new strategic partnerships. Anthropic is scaling its rapidly-growing Claude AI model on Microsoft Azure, powered by NVIDIA, which will broaden access to Claude and provide Azure enterprise customers with expanded model choice and new capabilities. Anthropic has committed to purchase $30 billion of Azure compute capacity and to contract additional compute capacity up to one gigawatt.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/rwandan-government-partnership-ai-education",
