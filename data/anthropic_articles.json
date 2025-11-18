@@ -1,5 +1,5 @@
 {
-  "timestamp": 1763442111.2983634,
+  "timestamp": 1763445705.1020885,
   "articles": [
     {
       "title": "Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",
@@ -340,25 +340,29 @@
       "title": "Claude for Financial Services",
       "url": "https://www.anthropic.com/news/claude-for-financial-services",
       "date": "2025-07-15T12:00:00+00:00",
-      "source": "news"
+      "source": "news",
+      "summary": "Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude."
     },
     {
       "title": "Investing in energy to secure America's AI future",
       "url": "https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future",
       "date": "2025-07-15T12:00:00+00:00",
-      "source": "news"
+      "source": "news",
+      "summary": "Energy is central to winning the AI race and we need to ensure that America has the necessary infrastructure to maintain its lead. This includes reliable, abundant energy sources and modernized electric grids capable of supporting the computational and energy demands of advanced AI systems."
     },
     {
       "title": "Anthropic and the Department of Defense to advance responsible AI in defense operations",
       "url": "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
       "date": "2025-07-14T12:00:00+00:00",
-      "source": "news"
+      "source": "news",
+      "summary": "The U.S. Department of Defense (DOD), through its Chief Digital and Artificial Intelligence Office (CDAO), has awarded Anthropic a two-year prototype other transaction agreement with a $200 million ceiling. As part of the agreement, Anthropic will prototype frontier AI capabilities that advance U.S. national security."
     },
     {
       "title": "Advancing Claude for Education",
       "url": "https://www.anthropic.com/news/advancing-claude-for-education",
       "date": "2025-07-09T12:00:00+00:00",
-      "source": "news"
+      "source": "news",
+      "summary": "Today, we\u2019re sharing a first look at upcoming integrations with Canvas, Panopto, and Wiley that bring Claude to Canvas and rich educational context to student conversations inClaude for Education."
     },
     {
       "title": "Lawrence Livermore National Laboratory expands Claude for Enterprise use to empower scientists and researchers",
@@ -371,7 +375,8 @@
       "title": "The need for transparency in Frontier AI",
       "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
       "date": "2025-07-07T12:00:00+00:00",
-      "source": "news"
+      "source": "news",
+      "summary": "Frontier AI developmentneeds greater transparencyto ensure public safety and accountability for the companies developing this powerful technology. AI is advancing rapidly. While industry, governments, academia, and others work to develop agreed-upon safety standards and comprehensive evaluation methods\u2014a process that could take months to years\u2014we need interim steps to ensure that very powerful AI is developed securely, responsibly, and transparently."
     },
     {
       "title": "Introducing the Anthropic Economic Futures Program",
@@ -398,7 +403,8 @@
       "title": "National security expert Richard Fontaine appointed to Anthropic\u2019s long-term benefit trust",
       "url": "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust",
       "date": "2025-06-07T12:00:00+00:00",
-      "source": "news"
+      "source": "news",
+      "summary": "Anthropic's Long-Term Benefit Trust today announced the appointment of Richard Fontaine, CEO of the Center for a New American Security, as a new member of the Trust. The Long-Term Benefit Trust (LTBT) is an independent body designed to help Anthropic achieve its public benefit mission."
     },
     {
       "title": "Claude Gov models for U.S. national security customers",
@@ -411,7 +417,8 @@
       "title": "Reed Hastings appointed to Anthropic\u2019s board of directors",
       "url": "https://www.anthropic.com/news/reed-hastings",
       "date": "2025-05-28T12:00:00+00:00",
-      "source": "news"
+      "source": "news",
+      "summary": "Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg."
     },
     {
       "title": "Activating AI Safety Level 3 protections",

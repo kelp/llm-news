@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-18T05:01:51.300437+00:00</updated>
+  <updated>2025-11-18T06:01:45.104257+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1083,7 +1083,7 @@
     <id>https://www.anthropic.com/news/reed-hastings</id>
     <title>Reed Hastings appointed to Anthropic’s board of directors</title>
     <updated>2025-05-28T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/reed-hastings"/>
     <category term="news" label="News"/>
     <published>2025-05-28T12:00:00+00:00</published>
@@ -1101,7 +1101,7 @@
     <id>https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust</id>
     <title>National security expert Richard Fontaine appointed to Anthropic’s long-term benefit trust</title>
     <updated>2025-06-07T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Anthropic's Long-Term Benefit Trust today announced the appointment of Richard Fontaine, CEO of the Center for a New American Security, as a new member of the Trust. The Long-Term Benefit Trust (LTBT) is an independent body designed to help Anthropic achieve its public benefit mission.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust"/>
     <category term="news" label="News"/>
     <published>2025-06-07T12:00:00+00:00</published>
@@ -1137,7 +1137,7 @@
     <id>https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai</id>
     <title>The need for transparency in Frontier AI</title>
     <updated>2025-07-07T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Frontier AI developmentneeds greater transparencyto ensure public safety and accountability for the companies developing this powerful technology. AI is advancing rapidly. While industry, governments, academia, and others work to develop agreed-upon safety standards and comprehensive evaluation methods—a process that could take months to years—we need interim steps to ensure that very powerful AI is developed securely, responsibly, and transparently.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai"/>
     <category term="news" label="News"/>
     <published>2025-07-07T12:00:00+00:00</published>
@@ -1155,7 +1155,7 @@
     <id>https://www.anthropic.com/news/advancing-claude-for-education</id>
     <title>Advancing Claude for Education</title>
     <updated>2025-07-09T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we’re sharing a first look at upcoming integrations with Canvas, Panopto, and Wiley that bring Claude to Canvas and rich educational context to student conversations inClaude for Education.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/advancing-claude-for-education"/>
     <category term="news" label="News"/>
     <published>2025-07-09T12:00:00+00:00</published>
@@ -1164,7 +1164,7 @@
     <id>https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations</id>
     <title>Anthropic and the Department of Defense to advance responsible AI in defense operations</title>
     <updated>2025-07-14T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;The U.S. Department of Defense (DOD), through its Chief Digital and Artificial Intelligence Office (CDAO), has awarded Anthropic a two-year prototype other transaction agreement with a $200 million ceiling. As part of the agreement, Anthropic will prototype frontier AI capabilities that advance U.S. national security.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations"/>
     <category term="news" label="News"/>
     <published>2025-07-14T12:00:00+00:00</published>
@@ -1173,7 +1173,7 @@
     <id>https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future</id>
     <title>Investing in energy to secure America's AI future</title>
     <updated>2025-07-15T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Energy is central to winning the AI race and we need to ensure that America has the necessary infrastructure to maintain its lead. This includes reliable, abundant energy sources and modernized electric grids capable of supporting the computational and energy demands of advanced AI systems.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future"/>
     <category term="news" label="News"/>
     <published>2025-07-15T12:00:00+00:00</published>
@@ -1182,7 +1182,7 @@
     <id>https://www.anthropic.com/news/claude-for-financial-services</id>
     <title>Claude for Financial Services</title>
     <updated>2025-07-15T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;&lt;em&gt;No summary available&lt;/em&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.&lt;/p&gt;</content>
     <link href="https://www.anthropic.com/news/claude-for-financial-services"/>
     <category term="news" label="News"/>
     <published>2025-07-15T12:00:00+00:00</published>
