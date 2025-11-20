@@ -806,7 +806,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing theAnthropic Economic Futures Program, a new initiative to support research and policy development focused on addressing AI\u2019s economic impacts. We\u2019re launching this initiative to understand how AI is reshaping the way we work and surface proposals on how to prepare for this shift. This program will serve as an extension of Anthropic\u2019s Economic Index and its insights on AI usage across the workforce. Our goal for this program is to contribute to the development of new research and potential responses to the impacts of AI on the labor market and global economy. To accomplish this, the Economic Futures Program will focus on three pillars:</p>"
     },
     {
       "id": "https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship",
@@ -820,7 +820,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>We spend a lot of time studying Claude's IQ\u2014its capabilities on tests of coding, reasoning, general knowledge, and more. But what about itsEQ? That is, what about Claude\u2019semotionalintelligence?</p>"
     },
     {
       "id": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
@@ -834,7 +834,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today, we're announcing that Claude models are approved for use in FedRAMP High and DoD Impact Level 4 and 5 workloads throughAmazon Bedrockin AWS GovCloud (US) regions.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust",
@@ -848,7 +848,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Anthropic's Long-Term Benefit Trust today announced the appointment of Richard Fontaine, CEO of the Center for a New American Security, as a new member of the Trust. The Long-Term Benefit Trust (LTBT) is an independent body designed to help Anthropic achieve its public benefit mission.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
@@ -862,7 +862,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>We\u2019re introducing a custom set of Claude Gov models built exclusively for U.S. national security customers. The models are already deployed by agencies at the highest level of U.S. national security, and access to these models is limited to those who operate in such classified environments.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/reed-hastings",
@@ -876,7 +876,7 @@
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p><em>No summary available</em></p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Today we announced that Reed Hastings, Chairman and co-founder of Netflix who served as its CEO for over 25 years, has been appointed to Anthropic's board of directors by our Long Term Benefit Trust. Hastings brings extensive experience from founding and scaling Netflix into a global entertainment powerhouse, along with his service on the boards of Facebook, Microsoft, and Bloomberg.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/activating-asl3-protections",
