@@ -1,18 +1,18 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1763971326.4334013,
-    "last_modified_check": 1763971326.4334016,
-    "date": "Mon, 24 Nov 2025 08:02:06 GMT"
+    "last_checked": 1763974923.4347641,
+    "last_modified_check": 1763974923.4347646,
+    "date": "Mon, 24 Nov 2025 09:02:03 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1763971326.666281,
-    "last_modified_check": 1763971326.6662812,
-    "date": "Mon, 24 Nov 2025 08:02:06 GMT"
+    "last_checked": 1763974923.7303178,
+    "last_modified_check": 1763974923.7303183,
+    "date": "Mon, 24 Nov 2025 09:02:03 GMT"
   },
   "https://www.anthropic.com/news/claude-sonnet-4-5": {
-    "last_checked": 1763971326.8913906,
-    "last_modified_check": 1763971326.8913908,
-    "date": "Mon, 24 Nov 2025 08:02:06 GMT",
+    "last_checked": 1763974923.9825077,
+    "last_modified_check": 1763974923.982508,
+    "date": "Mon, 24 Nov 2025 09:02:03 GMT",
     "content_cache": "Claude Sonnet 4.5 is the best coding model in the world. It's the strongest model for building complex agents. It\u2019s the best model at using computers. And it shows substantial gains in reasoning and math."
   }
 }
