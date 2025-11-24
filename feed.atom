@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>anthropic-feed</id>
   <title>Anthropic News and Research</title>
-  <updated>2025-11-24T18:01:29.578176+00:00</updated>
+  <updated>2025-11-24T19:01:27.254204+00:00</updated>
   <author>
     <name>Anthropic Feed Generator</name>
   </author>
@@ -1080,12 +1080,12 @@
     <published>2025-05-22T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.anthropic.com/news/claude-sonnet-4-5</id>
-    <title>Introducing Claude Sonnet 4.5</title>
-    <updated>2025-09-29T12:00:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Claude Sonnet 4.5 is the best coding model in the world. It's the strongest model for building complex agents. It’s the best model at using computers. And it shows substantial gains in reasoning and math.&lt;/p&gt;</content>
-    <link href="https://www.anthropic.com/news/claude-sonnet-4-5"/>
+    <id>https://www.anthropic.com/news/claude-opus-4-5</id>
+    <title>Introducing Claude Opus 4.5</title>
+    <updated>2025-11-24T12:00:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; news&lt;/p&gt;&lt;p&gt;Our newest model, Claude Opus 4.5, is available today. It’s intelligent, efficient, and the best model in the world for coding, agents, and computer use. It’s also meaningfully better at everyday tasks like deep research and working with slides and spreadsheets. Opus 4.5 is a step forward in what AI systems can do, and a preview of larger changes to how work gets done.&lt;/p&gt;</content>
+    <link href="https://www.anthropic.com/news/claude-opus-4-5"/>
     <category term="news" label="News"/>
-    <published>2025-09-29T12:00:00+00:00</published>
+    <published>2025-11-24T12:00:00+00:00</published>
   </entry>
 </feed>

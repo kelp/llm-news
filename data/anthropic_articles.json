@@ -1,12 +1,12 @@
 {
-  "timestamp": 1764007289.5765965,
+  "timestamp": 1764010887.2527394,
   "articles": [
     {
-      "title": "Introducing Claude Sonnet 4.5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
-      "date": "2025-09-29T12:00:00+00:00",
+      "title": "Introducing Claude Opus 4.5",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "date": "2025-11-24T12:00:00+00:00",
       "source": "news",
-      "summary": "Claude Sonnet 4.5 is the best coding model in the world. It's the strongest model for building complex agents. It\u2019s the best model at using computers. And it shows substantial gains in reasoning and math."
+      "summary": "Our newest model, Claude Opus 4.5, is available today. It\u2019s intelligent, efficient, and the best model in the world for coding, agents, and computer use. It\u2019s also meaningfully better at everyday tasks like deep research and working with slides and spreadsheets. Opus 4.5 is a step forward in what AI systems can do, and a preview of larger changes to how work gets done."
     },
     {
       "title": "Activating AI Safety Level 3 Protections",

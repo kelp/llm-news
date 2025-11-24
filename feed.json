@@ -11,18 +11,18 @@
   ],
   "items": [
     {
-      "id": "https://www.anthropic.com/news/claude-sonnet-4-5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
-      "title": "Introducing Claude Sonnet 4.5",
-      "date_published": "2025-09-29T12:00:00+00:00",
-      "date_modified": "2025-09-29T12:00:00+00:00",
+      "id": "https://www.anthropic.com/news/claude-opus-4-5",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "title": "Introducing Claude Opus 4.5",
+      "date_published": "2025-11-24T12:00:00+00:00",
+      "date_modified": "2025-11-24T12:00:00+00:00",
       "tags": [
         {
           "term": "news",
           "label": "News"
         }
       ],
-      "content_html": "<p><strong>Source:</strong> news</p><p>Claude Sonnet 4.5 is the best coding model in the world. It's the strongest model for building complex agents. It\u2019s the best model at using computers. And it shows substantial gains in reasoning and math.</p>"
+      "content_html": "<p><strong>Source:</strong> news</p><p>Our newest model, Claude Opus 4.5, is available today. It\u2019s intelligent, efficient, and the best model in the world for coding, agents, and computer use. It\u2019s also meaningfully better at everyday tasks like deep research and working with slides and spreadsheets. Opus 4.5 is a step forward in what AI systems can do, and a preview of larger changes to how work gets done.</p>"
     },
     {
       "id": "https://www.anthropic.com/news/activating-asl3-protections",
