@@ -1,6 +1,13 @@
 {
-  "timestamp": 1748102491.2641313,
+  "timestamp": 1764928886.9809828,
   "articles": [
+    {
+      "title": "Introducing Claude Opus 4.5",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "date": "2025-11-24T12:00:00+00:00",
+      "source": "news",
+      "summary": "Our newest model, Claude Opus 4.5, is available today. It\u2019s intelligent, efficient, and the best model in the world for coding, agents, and computer use. It\u2019s also meaningfully better at everyday tasks like deep research and working with slides and spreadsheets. Opus 4.5 is a step forward in what AI systems can do, and a preview of larger changes to how work gets done."
+    },
     {
       "title": "Activating AI Safety Level 3 Protections",
       "url": "https://www.anthropic.com/news/activating-asl3-protections",
