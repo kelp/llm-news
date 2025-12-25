@@ -1,18 +1,18 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1766696480.0603952,
-    "last_modified_check": 1766696480.0603955,
-    "date": "Thu, 25 Dec 2025 21:01:20 GMT"
+    "last_checked": 1766700081.01964,
+    "last_modified_check": 1766700081.0196407,
+    "date": "Thu, 25 Dec 2025 22:01:20 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1766696480.2690568,
-    "last_modified_check": 1766696480.269057,
-    "date": "Thu, 25 Dec 2025 21:01:20 GMT"
+    "last_checked": 1766700081.2234812,
+    "last_modified_check": 1766700081.2234814,
+    "date": "Thu, 25 Dec 2025 22:01:21 GMT"
   },
   "https://www.anthropic.com/news/claude-opus-4-5": {
-    "last_checked": 1766696480.4483364,
-    "last_modified_check": 1766696480.4483366,
-    "date": "Thu, 25 Dec 2025 21:01:20 GMT",
+    "last_checked": 1766700081.451911,
+    "last_modified_check": 1766700081.4519112,
+    "date": "Thu, 25 Dec 2025 22:01:21 GMT",
     "content_cache": "Our newest model, Claude Opus 4.5, is available today. It\u2019s intelligent, efficient, and the best model in the world for coding, agents, and computer use. It\u2019s also meaningfully better at everyday tasks like deep research and working with slides and spreadsheets. Opus 4.5 is a step forward in what AI systems can do, and a preview of larger changes to how work gets done."
   }
 }
