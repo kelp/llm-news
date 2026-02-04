@@ -11,6 +11,20 @@
   ],
   "items": [
     {
+      "id": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "title": "Claude is a space to think",
+      "date_published": "2026-02-04T12:00:00+00:00",
+      "date_modified": "2026-02-04T12:00:00+00:00",
+      "tags": [
+        {
+          "term": "news",
+          "label": "News"
+        }
+      ],
+      "content_html": "<p><strong>Source:</strong> news</p><p>There are many good places for advertising. A conversation with Claude is not one of them.</p>"
+    },
+    {
       "id": "https://www.anthropic.com/news/activating-asl3-protections",
       "url": "https://www.anthropic.com/news/activating-asl3-protections",
       "title": "Activating AI Safety Level 3 Protections",
