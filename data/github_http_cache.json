@@ -1,18 +1,18 @@
 {
   "https://www.anthropic.com/news": {
-    "last_checked": 1770275959.8653595,
-    "last_modified_check": 1770275959.8653605,
-    "date": "Thu, 05 Feb 2026 07:19:19 GMT"
+    "last_checked": 1770278885.6510227,
+    "last_modified_check": 1770278885.6510234,
+    "date": "Thu, 05 Feb 2026 08:08:05 GMT"
   },
   "https://www.anthropic.com/research": {
-    "last_checked": 1770275961.679367,
-    "last_modified_check": 1770275961.6793678,
-    "date": "Thu, 05 Feb 2026 07:19:21 GMT"
+    "last_checked": 1770278886.0820599,
+    "last_modified_check": 1770278886.0820606,
+    "date": "Thu, 05 Feb 2026 08:08:05 GMT"
   },
   "https://www.anthropic.com/news/claude-is-a-space-to-think": {
-    "last_checked": 1770275963.8245983,
-    "last_modified_check": 1770275963.8245986,
-    "date": "Thu, 05 Feb 2026 07:19:23 GMT",
+    "last_checked": 1770278887.0839763,
+    "last_modified_check": 1770278887.0839767,
+    "date": "Thu, 05 Feb 2026 08:08:06 GMT",
     "content_cache": "There are many good places for advertising. A conversation with Claude is not one of them."
   }
 }
